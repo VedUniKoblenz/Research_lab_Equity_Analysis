@@ -190,10 +190,4 @@ Final comparison is printed to console and saved to `results/final_summary.csv`.
 
 ---
 
-## Notes & Known Limitations
 
-- `01_get_prices.py` imports `pandas` only inside the `__main__` block; calling `main()` externally may fail. Move `import pandas as pd` to the top if importing as a module.
-- `02b_summarize_sec.py` and `03_process_sec_new.py` import `pathlib` without using it directly — minor cleanup opportunity.
-- Filing filename parsing in `03_process_sec_new.py` uses `split("_")[0]` for the ticker; accession numbers containing underscores could cause incorrect splits.
-- Gemini free tier is rate-limited to ~15 RPM; `02b_summarize_sec.py` includes a 5-second delay between requests accordingly.
-- The `PCA_COMPONENTS = 12` constant in `config_new.py` is defined but not used by the current pipeline (which uses `N_SEC_PCA = 16`).
