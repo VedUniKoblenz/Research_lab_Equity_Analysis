@@ -6,22 +6,6 @@ Two model variants are compared head-to-head:
 - **Model 1 — Price Only**: Chronos-2 forecasts from historical prices alone
 - **Model 2 — Dual Fusion**: Chronos-2 forecasts from prices + time-decayed, PCA-reduced SEC 10-Q embeddings
 
----
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Pipeline Architecture](#pipeline-architecture)
-- [Directory Structure](#directory-structure)
-- [Setup](#setup)
-- [Configuration](#configuration)
-- [Running the Pipeline](#running-the-pipeline)
-- [Outputs](#outputs)
-- [Key Design Decisions](#key-design-decisions)
-- [Caveats & Limitations](#caveats--limitations)
-
----
-
 ## Overview
 
 The core research question is: **do SEC 10-Q filings contain price-relevant information beyond what is already reflected in historical prices?**
