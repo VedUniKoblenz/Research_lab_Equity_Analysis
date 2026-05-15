@@ -1,193 +1,212 @@
 # Research_lab_Equity_Analysis
-A quantitative research pipeline that benchmarks two trading signal models:
 
-- **Model 1 (Price Only):** Chronos-2 time-series forecasting on historical prices alone.
-- **Model 2 (Dual Fusion):** Chronos-2 augmented with SEC 10-Q filing embeddings (via Gemini) reduced through PCA and injected as a pseudo-history context.
+A **strictly out-of-sample** quantitative research pipeline that evaluates whether augmenting a time-series foundation model (Amazon Chronos-2) with SEC filing signals improves equity return forecasting and portfolio performance.
 
-Both models use triple-barrier labeling and volatility-scaled thresholds to generate long/short/hold signals, and are evaluated on Sharpe ratio, max drawdown, information coefficient, and RMSE.
-
----
-
-## Pipeline Overview
-
-```
-01_get_prices.py          → Download price data (Yahoo Finance)
-02_get_sec.py             → Download 10-Q filings (SEC EDGAR)
-02b_summarize_sec.py      → Summarize filings with Gemini (alpha-extraction prompt)
-03_process_sec_new.py     → Embed summaries with Gemini → .npy files + manifest.csv
-create_pca.py             → Fit PCA on all embeddings → sec_pca.joblib + *_pca.npy
-04_model_price_only.py    → Run Model 1 baseline → price_only_results.csv
-05_model_dual_fusion.py   → Run Model 2 fusion → dual_fusion_results.csv
-06_final_benchmark.py     → Compare models, print table, save final_summary.csv
-```
+Two model variants are compared head-to-head:
+- **Model 1 — Price Only**: Chronos-2 forecasts from historical prices alone
+- **Model 2 — Dual Fusion**: Chronos-2 forecasts from prices + time-decayed, PCA-reduced SEC 10-Q embeddings
 
 ---
 
-## Project Structure
+## Table of Contents
+
+- [Overview](#overview)
+- [Pipeline Architecture](#pipeline-architecture)
+- [Directory Structure](#directory-structure)
+- [Setup](#setup)
+- [Configuration](#configuration)
+- [Running the Pipeline](#running-the-pipeline)
+- [Outputs](#outputs)
+- [Key Design Decisions](#key-design-decisions)
+- [Caveats & Limitations](#caveats--limitations)
+
+---
+
+## Overview
+
+The core research question is: **do SEC 10-Q filings contain price-relevant information beyond what is already reflected in historical prices?**
+
+To answer this, the pipeline:
+1. Downloads historical prices and SEC 10-Q filings for ~100 large-cap U.S. equities
+2. Summarizes SEC filings using Gemini and embeds the summaries into a vector space
+3. Reduces embedding dimensionality via PCA (fit on training data only)
+4. Runs a walk-forward forward test for both model variants
+5. Produces aggregate and per-ticker performance metrics, sector breakdowns, and 14 diagnostic figures
+
+---
+
+## Pipeline Architecture
+
+The pipeline is organized as a sequence of numbered scripts:
 
 ```
-.
-├── config_new.py                  # Central config: paths, tickers, constants, helpers
-├── covariate_builder.py           # SEC PCA feature retrieval (no lookahead bias)
-├── create_pca.py                  # Fit + save PCA on SEC embeddings
+01_get_prices.py          →  Download historical OHLCV data (yfinance)
+02_get_sec.py             →  Download SEC 10-Q filings (EDGAR)
+03_summarize_sec.py       →  Summarize filings with Gemini (price-signal focused)
+04_process_sec.py         →  Embed summaries → .npy vectors via Gemini Embeddings
+05_create_pca.py          →  Fit PCA on train-period embeddings; transform all
+06_forward_test_price_only.py   →  Walk-forward test: Model 1 (Price Only)
+07_forward_test_dual_fusion.py  →  Walk-forward test: Model 2 (Dual Fusion)
+08_per_ticker_comparison.py     →  Per-ticker metrics, sector-grouped table + CSV
+09_per_sector_comparison_.py    →  Sector-level delta analysis (Dual − Price)
+10_Aggregate_model_comparison.py →  Final aggregate benchmark table
+11_visualizations.py            →  14-figure visualization suite
+```
+
+**Core modules** (imported by the scripts above):
+
+| Module | Role |
+|---|---|
+| `config_new.py` | Central configuration (paths, hyperparameters, ticker universe) |
+| `forward_test_engine.py` | `ForwardTestEngine` — orchestrates walk-forward evaluation |
+| `signal_generator.py` | Cross-sectional IC/RankIC, portfolio construction, Sharpe/MDD/turnover |
+| `covariate_builder.py` | Time-decayed SEC covariate matrices with look-ahead prevention |
+
+---
+
+## Directory Structure
+
+```
+project_root/
+├── config_new.py
+├── forward_test_engine.py
+├── signal_generator.py
+├── covariate_builder.py
 │
 ├── 01_get_prices.py
 ├── 02_get_sec.py
-├── 02b_summarize_sec.py
-├── 03_process_sec_new.py
-├── 04_model_price_only.py
-├── 05_model_dual_fusion.py
-├── 06_final_benchmark.py
+├── 03_summarize_sec.py
+├── 04_process_sec.py
+├── 05_create_pca.py
+├── 06_forward_test_price_only.py
+├── 07_forward_test_dual_fusion.py
+├── 08_per_ticker_comparison.py
+├── 09_per_sector_comparison_.py
+├── 10_Aggregate_model_comparison.py
+├── 11_visualizations.py
 │
 ├── data/
 │   ├── raw/
-│   │   ├── prices/                # {ticker}.parquet files
-│   │   └── edgar_downloads/       # sec-edgar-filings/<ticker>/10-Q/<accession>/
+│   │   ├── prices/                  # <TICKER>.parquet
+│   │   └── edgar_downloads/         # raw SEC filings
 │   └── processed/
-│       ├── sec_summaries/         # {ticker}_{accession}.txt (Gemini summaries)
-│       └── embeddings/            # {ticker}_{accession}.npy, *_pca.npy, manifest.csv, sec_pca.joblib
+│       ├── sec_summaries/           # Gemini-generated .txt summaries
+│       └── embeddings/              # .npy vectors, manifest.csv, sec_pca.joblib
 │
-└── results/
-    ├── price_only_results.csv
-    ├── dual_fusion_results.csv
-    └── final_summary.csv
+├── results/
+│   ├── price_only_summary.csv
+│   ├── price_only_per_ticker.csv
+│   ├── price_only_returns.csv
+│   ├── dual_fusion_summary.csv
+│   ├── dual_fusion_per_ticker.csv
+│   ├── dual_fusion_returns.csv
+│   ├── model_comparison_by_sector.csv
+│   ├── sector_comparison_summary.csv
+│   ├── final_benchmark_comparison.csv
+│   └── figures/                     # 14 PNG figures
+│
+└── .env                             # GEMINI_API_KEY (not committed)
 ```
 
 ---
 
-## Requirements
+## Setup
 
-**Python 3.10+**
+### 1. Clone the repository
 
 ```bash
-pip install yfinance pandas numpy joblib scikit-learn torch \
-            chronos-forecasting sec-edgar-downloader \
-            google-genai beautifulsoup4 lxml python-dotenv pyarrow
+git clone <your-repo-url>
+cd <project-root>
 ```
 
-> Chronos-2 requires PyTorch. GPU recommended for inference speed but CPU works.
+### 2. Install dependencies
+
+```bash
+pip install pandas numpy scipy scikit-learn joblib yfinance \
+            sec-edgar-downloader beautifulsoup4 lxml \
+            google-genai python-dotenv torch matplotlib seaborn
+```
+
+> **Chronos-2** also needs to be installed. Follow the [Amazon Chronos installation guide](https://github.com/amazon-science/chronos-forecasting).
+
+### 3. Configure environment variables
+
+Create a `.env` file in the project root:
+
+```env
+GEMINI_API_KEY=your_real_key_here
+```
 
 ---
 
 ## Configuration
 
-All shared settings live in `config_new.py`. Key parameters:
+All key parameters live in `config_new.py`:
 
-| Constant | Default | Description |
+| Parameter | Default | Description |
 |---|---|---|
-| `TICKERS` | `["AAPL","MSFT","GOOGL","AMZN","META","NVDA"]` | Tickers to process |
-| `START_DATE` | `"2018-01-01"` | Price history start |
-| `TRAIN_SPLIT_DATE` | `"2024-01-01"` | Test window start |
-| `HORIZON` | `15` | Forecast horizon (trading days) |
-| `CONTEXT_LEN` | `512` | Price context window length |
+| `CONTEXT_LEN` | `512` | Historical context window fed to Chronos-2 |
+| `HORIZON` | `15` | Forecast horizon in business days |
 | `N_SEC_PCA` | `16` | PCA components for SEC embeddings |
-| `BARRIER_MULTIPLIER` | `0.5` | Triple-barrier band width (× horizon vol) |
-| `THRESHOLD_MULTIPLIER_*` | `0.15` | Trade signal threshold (× horizon vol) |
-| `CHRONOS_MODEL` | `"amazon/chronos-2"` | Hugging Face model ID |
-| `EMBED_MODEL` | `"gemini-embedding-2"` | Gemini embedding model |
-| `GEN_MODEL` | `"gemini-flash-latest"` | Gemini generative model |
+| `TRAIN_SPLIT_DATE` | `"2024-01-01"` | Train/test cutoff date |
+| `START_DATE` | `"2018-01-01"` | Start of price history download |
+| `CHRONOS_MODEL` | `"amazon/chronos-2"` | Chronos model identifier |
+| `GEN_MODEL` | `"gemini-flash-latest"` | Gemini model for SEC summarization |
+| `EMBED_MODEL` | `"gemini-embedding-2"` | Gemini model for embedding |
 
-Create a `.env` file in the project root:
-
-```
-GEMINI_API_KEY=your_key_here
-```
+The ticker universe (`TICKERS`) is a curated list of ~100 large-cap U.S. equities across Technology, Finance, Healthcare, Energy, Consumer, and Industrials sectors.
 
 ---
 
-## Quickstart
+## Running the Pipeline
+
+Run scripts in order. Each step depends on outputs from prior steps.
 
 ```bash
-# 1. Download prices
+# Step 1: Download data
 python 01_get_prices.py
-
-# 2. Download SEC 10-Q filings
 python 02_get_sec.py
 
-# 3. Summarize filings (requires GEMINI_API_KEY)
-python 02b_summarize_sec.py
+# Step 2: Process SEC filings
+python 03_summarize_sec.py
+python 04_process_sec.py
+python 05_create_pca.py
 
-# 4. Embed summaries
-python 03_process_sec_new.py
+# Step 3: Run forward tests (these are the longest-running steps)
+python 06_forward_test_price_only.py
+python 07_forward_test_dual_fusion.py
 
-# 5. Fit PCA on embeddings
-python create_pca.py
-
-# 6. Run baseline model
-python 04_model_price_only.py
-
-# 7. Run fusion model
-python 05_model_dual_fusion.py
-
-# 8. Compare results
-python 06_final_benchmark.py
+# Step 4: Analysis and visualization
+python 08_per_ticker_comparison.py
+python 09_per_sector_comparison_.py
+python 10_Aggregate_model_comparison.py
+python 11_visualizations.py
 ```
+
+> **GPU recommended** for steps 6 and 7. The engine uses CUDA automatically if available (`torch.cuda.is_available()`).
 
 ---
 
-## How the Dual Fusion Works
+## Outputs
 
-Model 2 augments Chronos with SEC filing signals using a **pseudo-history injection** strategy:
-
-1. For each inference date, the most recent 10-Q filing **before** that date is retrieved (no lookahead bias).
-2. The SEC embedding is reduced to `N_SEC_PCA` dimensions via the pre-fitted PCA.
-3. The PCA vector is rescaled and interpreted as a sequence of cumulative return adjustments anchored to the first price in the context window → `pre_history`.
-4. `pre_history` is prepended to the real price context: `[pre_history | price_ctx]`.
-5. Chronos-2 forecasts over this combined context, allowing fundamental filing signals to influence the predicted trajectory.
-
----
-
-## Labeling & Signal Logic
-
-**Triple-barrier labels** (ground truth):
-
-| Label | Condition |
-|---|---|
-| `+1` | Price hits upper barrier (`initial × (1 + 0.5 × vol × √horizon)`) first |
-| `-1` | Price hits lower barrier first |
-| `0` | Neither barrier hit within horizon |
-
-**Trade signal** (model prediction):
-
-```
-predicted_return = (median_forecast[-1] / current_price) - 1
-threshold        = vol × √horizon × THRESHOLD_MULTIPLIER
-
-signal = +1  if predicted_return > threshold
-       = -1  if predicted_return < -threshold
-       =  0  otherwise (hold)
-```
-
----
-
-## Output Metrics
-
-Each model produces per-ticker results with the following columns:
+### Aggregate metrics (`results/final_benchmark_comparison.csv`)
 
 | Metric | Description |
 |---|---|
-| `Accuracy` | Fraction of correct directional labels |
-| `Sharpe` | Annualized Sharpe of strategy returns |
-| `MDD` | Maximum drawdown of cumulative strategy |
-| `IC` | Information coefficient (Pearson r, predicted vs actual returns) |
-| `RMSE` | Root mean squared error of price forecast |
-| `N_Trades` | Number of non-zero signals |
-| `Avg_Conviction` | Mean absolute predicted return |
+| `Sharpe` | Annualized Sharpe ratio |
+| `MaxDD` | Maximum drawdown |
+| `Mean IC` | Mean cross-sectional Pearson IC |
+| `Std IC` | Std dev of IC across signal dates |
+| `IC IR` | Information ratio (Mean IC / Std IC) |
+| `Mean RankIC` | Mean cross-sectional Spearman IC |
+| `Hit Rate` | Mean fraction of correct directional predictions |
+| `Turnover` | Mean one-way portfolio turnover per rebalance |
+| `N Dates` | Number of signal dates evaluated |
 
-Final comparison is printed to console and saved to `results/final_summary.csv`.
+### Per-ticker metrics (`results/*_per_ticker.csv`)
 
----
+`ticker`, `n_signals`, `IC`, `RankIC`, `hit_rate`, `Sharpe_annual`, `MDD`
 
-## Key Design Decisions
+### Visualization suite (`results/figures/`)
 
-**No lookahead bias in SEC features** — `covariate_builder.py` strictly filters filings to dates *before* the current inference date, then picks the most recent one.
-
-**Volatility-gated signals** — all trading thresholds scale with realized rolling volatility, making the strategy adaptive across different market regimes.
-
-**Gemini alpha-extraction prompt** — the summarization step uses a structured prompt targeting sentiment divergence, hidden operational shifts, forward guidance, atypical risk factors, KPI trajectory, and capital allocation signals rather than generic document summarization.
-
-**PCA dimensionality reduction** — raw Gemini embeddings are reduced from ~3072 to 16 components via PCA fitted once across all available filings, enabling efficient fusion with price context.
-
----
-
-
+14 PNG figures including cumulative return curves, drawdown overlays, rolling Sharpe, sector heatmaps, IC/RankIC scatter plots, radar charts, return distributions, and win/loss sector profiles.
