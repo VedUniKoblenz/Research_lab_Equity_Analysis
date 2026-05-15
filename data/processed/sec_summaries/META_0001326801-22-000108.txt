@@ -1,0 +1,9 @@
+* **Earnings Quality Masking:** Useful life of servers/network equipment extended from 4 to 5 years (effective 2022), reducing Q3 depreciation by $839M. This accounting shift added $0.27 to EPS; without it, operating margin would have compressed to ~17% vs the reported 20%.
+* **Free Cash Flow (FCF) Erosion:** Q3 FCF collapsed to $173M from $9.55B YoY (-98%), driven by a $9.4B CapEx outlay and $3.67B Reality Labs (RL) operating loss.
+* **Ad Monetization Friction:** Impressions increased 17% YoY, but Average Price per Ad (ASP) plummeted 18%. This confirms severe monetization lag in Reels transition and structural yield pressure from Apple’s ATT.
+* **R&D Intensity Pivot:** Q3 R&D reached 33.1% of revenue ($9.17B) vs 21.7% YoY. This 45% increase in nominal spend amid declining revenue signals a permanent shift toward high-beta, long-duration R&D.
+* **Operational Restructuring Signals:** Despite headcount hitting 87,314 (+28% YoY), filing explicitly flags "significant" facility consolidations and workforce "flattening" starting Q4 2022.
+* **Reality Labs Trajectory:** Management uses "We expect" (high confidence) regarding 2023 RL operating losses "growing significantly" YoY. Total RL YTD loss now $9.44B.
+* **Currency Exposure:** $1.79B headwind to revenue in Q3. On a constant-currency basis, revenue would have grown 2% YoY rather than the reported -4% decline.
+* **Capital Allocation Deceleration:** Share buybacks dropped to $6.55B from $14.37B in Q3 2021. Deceleration is mandated by FCF depletion and $10B in new debt issuance.
+* **Family of Apps (FoA) Health:** ARPU fell to $9.41 (down from $10.00 YoY), primarily driven by weakness in Europe and Rest of World, suggesting macro sensitivity over platform-specific issues.

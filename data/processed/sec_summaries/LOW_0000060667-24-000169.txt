@@ -1,0 +1,17 @@
+• **Comparable Sales Divergence**: Q3 comp sales decreased 1.1%, significantly outperforming the -2.9% consensus. Signal: The outperformance is non-organic, driven almost exclusively by hurricane-related recovery sales (Helene/Milton) and a 100bps benefit from an extra week in the fiscal calendar, masking a persistent -7.4% contraction in high-ticket DIY discretionary categories.
+
+• **Inventory Efficiency**: Inventory levels at $17.04B (down 2.5% YoY from $17.48B). Despite the sales raise, management is not rebuilding safety stock, suggesting a lean-to-pessimistic view on spring 2025 DIY demand. No material write-downs reported, but AP/Inventory ratio remains elevated at 64.2%.
+
+• **Revised Guidance Nuance**: Management "expects" (high confidence) full-year Net Sales of $83.0B–$83.5B (prior $82.7B–$83.2B). However, they only "anticipate" (moderate confidence) a recovery in DIY discretionary. The floor for comparable sales was raised from -4.0% to -3.5%, yet the "believe" qualifier is used regarding the persistence of Pro-market share gains.
+
+• **Capital Allocation Pace**: Repurchased 2.9M shares for $758M in Q3; YTD total $2.1B. Deployment pace is decelerating relative to FY23 ($6.3B total), signaling a pivot toward liquidity preservation. Dividend payout remains fixed at $1.15/share ($654M total).
+
+• **Interest Rate Hedging**: Active fixed-to-floating interest rate swaps on $4.5B of debt to manage SOFR exposure. Current debt structure is 98% fixed-rate; shifts in swap valuations suggest management is positioning for a "higher-for-longer" environment despite recent Fed cuts.
+
+• **KPI Trajectory**: 
+  - Same-store sales (Pro): Positive (mid-single digits).
+  - Same-store sales (DIY): Negative (high-single digits).
+  - Average Ticket: $103.50 (+1.2% YoY).
+  - Transaction Count: -2.3% YoY.
+
+• **Risk Modification**: New emphasis on "supply chain volatility in the Southeast" following storm activity, shifting from a general macro risk to a specific regional logistical bottleneck risk for Q4.

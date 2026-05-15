@@ -1,0 +1,8 @@
+• NIM peaked at 2.84% (+56bps YoY), but NII declined 3% sequentially to $3.59B, confirming that the peak of net interest income expansion has concluded as deposit betas accelerate.
+• Provision for credit losses surged to a $235M expense (vs. $224M benefit in 1Q22), driven by a qualitative management overlay for Commercial Real Estate (CRE), specifically the $8.9B Office portfolio. 
+• CRE Office segment NPLs spiked to 8.1% of the sub-segment, compared to a consolidated NPL ratio of just 0.60%, signaling localized but severe distress in urban portfolios.
+• Deposit stability outperformed peers at $436.8B (+0.4% QoQ), but internal mix-shift is aggressive: non-interest-bearing deposits plummeted 6% QoQ ($11B outflow), forced into higher-cost interest-bearing products.
+• Efficiency ratio deteriorated to 63% (vs. 60% in 4Q22), indicating that revenue contraction is outpacing the $400M Continuous Improvement Program cost-out targets.
+• CET1 ratio remains robust at 9.2%, but management shifted guidance on buybacks from "opportunistic" to "moderated" ($0.8B in 1Q23), citing pending regulatory capital revisions (Basel III Endgame).
+• Accumulated Other Comprehensive Income (AOCI) remains a $9.5B drag on equity; however, 100% of the HTM portfolio is Ginnie Mae/Agency-backed, mitigating credit risk but locking in duration under-performance.
+• Guidance for 2023 loan growth revised downward to "lower end of 3-4% range" (previously 4-5%), signaling "anticipation" of tightening credit standards and softening C&I demand.

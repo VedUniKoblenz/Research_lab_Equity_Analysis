@@ -1,0 +1,11 @@
+• **Sentiment Divergence:** Management maintains "high demand" narrative for Consulting (16% CC growth), yet GAAP gross margins contracted ~200bps YoY. Divergence suggests aggressive pricing to maintain market share against labor cost inflation, signaling a "growth at any cost" risk despite fundamental margin erosion.
+
+• **Hidden Operational Shifts:** Derivative assets not offset surged to $311M (from $60M in Dec 2021), indicating an atypical escalation in FX hedging activity to mask USD strength. A $63M revision to Retained Earnings/Accumulated Deficit (Note: Revision of Prior Period Reclassification) suggests non-obvious tail-risk or accounting friction following the Kyndryl spin-off.
+
+• **Forward-Looking Nuance:** Management "expects" (high confidence) full-year revenue growth at the "high end of mid-single digit" range, but "anticipates" (moderate confidence) a $3.5B full-year FX headwind. The shift from directional optimism to specific, heavy FX numerical ranges suggests top-line beats may be optically neutralized by non-operating expenses.
+
+• **Segment-Specific KPIs:** 
+  - **Software:** Hybrid Cloud revenue up 15% (CC); RPO remains a critical leading indicator with a minimum 3-year satisfaction window identified for 2024+ obligations.
+  - **Infrastructure:** 23% growth (CC) driven by z16 cycle; however, historical cycles suggest a peak ASP (Average Selling Price) within 2 quarters of launch, implying a looming Q1/Q2 2023 deceleration.
+
+• **Capital Allocation Signals:** Share buybacks remain suspended; priority shifted to $51.7B debt servicing and dividend stability ($1.65/share). Absence of buyback re-authorization despite "strong FCF" signals internal caution regarding 2023 liquidity or M&A dry powder.

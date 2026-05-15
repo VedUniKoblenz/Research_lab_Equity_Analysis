@@ -1,0 +1,8 @@
+* **Connectivity Divergence:** Domestic Broadband revenue grew 3.8% ($6.4B) despite a net loss of 18k subscribers, signaling a pivot toward aggressive ARPU extraction (up 3.9%) to offset peak-market saturation and fixed-wireless competition.
+* **Wireless Hyper-Growth:** Domestic Wireless revenue surged 15.5% with 294k net adds (totaling 6.3M lines), now contributing 7.5% of total Connectivity & Platforms revenue, a record high.
+* **Peacock Monetization Inflection:** Revenue increased 64% to $830M; paid subscribers hit 28M (up 80% YoY). Crucially, Adjusted EBITDA losses for Peacock narrowed to $565M (from $614M), suggesting the "peak loss" phase is behind.
+* **Theatrical Outperformance:** Studios revenue jumped 65.2% to $2.5B, driven by *Oppenheimer* and *Super Mario Bros.*, creating a high YoY comparison bar for 2024 that masks 0.6% advertising revenue declines in the Media segment.
+* **Strike-Induced FCF Cushion:** Programming and production costs fell $431M due to work stoppages, providing a temporary 2023 cash flow tailwind that represents a $1B+ 2024 liability as production restarts.
+* **Capital Allocation Aggression:** Repurchased $3.5B in shares in Q3 alone ($8.2B YTD), significantly exceeding the prior year's pace despite a total debt load of $94.7B. 
+* **Hulu Liquidity Signal:** Management reaffirmed the $8.6B floor price for its 33% Hulu stake; the "We expect" language regarding 2024 proceeds indicates a high-confidence deleveraging event.
+* **Theme Park Deceleration:** While revenue grew 17.2% ($2.4B), domestic growth is slowing as international recovery (Japan/Beijing) accounts for the bulk of the lift; US margins are facing pressure from rising labor and input costs.

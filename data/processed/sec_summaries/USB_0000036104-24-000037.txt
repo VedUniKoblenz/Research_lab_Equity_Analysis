@@ -1,0 +1,11 @@
+• **NIM & NII Compression:** Net Interest Margin (NIM) contracted to 2.70% from 2.78% in Q423. Net Interest Income (NII) fell 3.1% QoQ to $3.99B, driven by deposit migration and higher funding costs. Management "expects" NII to trough in Q2, but "anticipates" (lower confidence) a recovery in H2 2024.
+
+• **Credit Quality Divergence:** Nonperforming Assets (NPAs) rose 9.3% QoQ to $1.49B. While management tone remains constructive on asset quality, Commercial Real Estate (CRE) nonperforming loans jumped 50.8% to $448M. CRE Office exposure remains a concentrated risk at $6.6B (1.8% of total loans).
+
+• **Hidden Operational Shifts:** Total loans declined 0.5% QoQ to $371.0B, specifically led by a $1.4B reduction in Commercial loans (context c-114/115), signaling a pivot toward capital preservation over balance sheet expansion. Average deposits decreased 0.7%, with non-interest-bearing deposits shrinking from 24% to 23% of the mix.
+
+• **Capital Allocation:** CET1 ratio reached the 10.0% target (up from 9.9% in Q423). Common stock repurchases were zero in Q1, but management signaled "potential" for resumption in H2 2024, contingent on regulatory clarity.
+
+• **Segment KPI Trajectory:** Payments Services (Tech/Financials) revenue grew 4.5% YoY; Corporate and Commercial Banking revenue fell 10.5% YoY. Efficiency ratio worsened to 61.3% (vs. 58.7% YoY) due to a $110M incremental FDIC special assessment.
+
+• **Regulatory/Macro Risk:** Materially modified risk language regarding "Basel III Endgame" implementation and potential "long-term debt" requirements which may necessitate higher-cost refinancing of the current debt stack.

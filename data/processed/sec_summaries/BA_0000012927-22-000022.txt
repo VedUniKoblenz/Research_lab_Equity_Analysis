@@ -1,0 +1,15 @@
+**Quantitative Alpha Extraction: BA Q1 2022**
+
+Q1 2022 10-Q reveals a severe liquidity-execution gap, evidenced by FCF burn of ($3.6B) vs. ($1.3B) YoY. The primary alpha signal is the 777X program pivot: delivery deferral to 2025 and a total production pause through 2023 will trigger $1.5B in abnormal production costs starting Q2. Defense (BDS) shifts from a "stable" hedge to a high-risk liability, with $1.3B in aggregate reach-forward charges on fixed-price contracts (VC-25B, T-7A, MQ-25) signaling systemic inability to price labor/supply chain inflation. Commercial recovery is trapped in working capital, with ~$25B in value tied to ~320 737 MAX and ~115 787 units in inventory awaiting rework or delivery.
+
+*   **Sentiment Divergence:** Management maintains 2022 positive FCF guidance despite ($3.6B) Q1 burn and 777X production halt; this assumes a high-probability 787 delivery restart and MAX delivery acceleration that contradicts mentioned "supply chain instability."
+*   **777X Structural Shift:** First delivery pushed to 2025 (formerly 2023); production pause through 2023 intended to minimize inventory build but creates $1.5B in near-term abnormal cost headwind.
+*   **BDS Reach-Forward Charges:** Massive fixed-price contract losses—$660M on VC-25B (Air Force One), $367M on T-7A Red Hawk, and $163M on MQ-25—indicate material failure in digital engineering cost-estimation models.
+*   **787 Inventory Drag:** Total abnormal costs increased to $2.0B. Inventory includes ~115 aircraft; rework complexity remains the primary bottleneck for the $291B BCA backlog conversion.
+*   **Supply Chain Concentration:** 10-Q flags "specific supplier constraints" (likely engines/avionics) as the limiting factor for 737 production, currently capped at 31/month despite higher nominal capacity.
+*   **Capital Allocation:** Debt remains at $57.7B; no share buybacks or dividends. Liquidity remains dependent on $14.7B in cash/marketable securities, which is highly sensitive to the H2 delivery ramp.
+*   **Atypical Risk:** NEW disclosure regarding geopolitical exposure to Titanium sourcing and the impact of Russian sanctions on the Volga-Dnepr heavy-lift logistics capability, critical for large component transport.
+*   **Segment KPIs:** 
+    *   BCA: 95 deliveries in Q1; Backlog $291B (3,400+ units).
+    *   BDS: Operating margin plummeted to (16.9%) due to charges; Backlog $58B (33% international).
+    *   BGS: Only bright spot with 14.6% operating margin; revenue up 15% YoY to $4.3B.

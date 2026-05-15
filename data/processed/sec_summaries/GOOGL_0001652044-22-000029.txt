@@ -1,0 +1,9 @@
+• **RPO Duration Shift:** Remaining Performance Obligation (RPO) trajectory shows a precise 50/50 split between recognition <24 months and >24 months. This indicates a significant lengthening of contract duration in the Google Cloud segment, transitioning from high-velocity consumption to long-cycle enterprise lock-in, providing a non-obvious hedge against near-term macro volatility in the advertising business.
+
+• **FX Hedge Alpha:** Management has escalated the use of "Net Investment Hedging" in conjunction with "Cash Flow Hedging." By designating hedges specifically to foreign subsidiary book value, Alphabet is protecting the balance sheet from USD appreciation in a way that bypasses the P&L, suggesting a deeper internal bearishness on the EUR/GBP than the "neutral" public sentiment implies.
+
+• **Top-Line Decoupling:** Technical accounting shifts show derivative gains/losses are now being recorded directly in the "Sales" member category. This means reported revenue is increasingly a function of treasury hedging execution rather than pure organic traffic or CPC/CPM growth, creating a "noisy" alpha signal for analysts tracking core product demand.
+
+• **Fair Value Sensitivity:** High concentration of Level 2 assets in "Corporate Debt Securities" and "Mortgage-Backed/Asset-Backed Securities" creates a price-sensitive vulnerability to credit spread widening and liquidity premiums. This exposes GOOGL to non-operating mark-to-market risk that is atypical for the tech/software peer group.
+
+• **KPI Trajectory:** Cloud RPO at 50% tail duration (>24m) is the primary predictive metric for margin expansion, as the upfront customer acquisition cost (CAC) is now being amortized over a longer, more stable revenue lifecycle.

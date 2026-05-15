@@ -1,0 +1,13 @@
+• **Sentiment/Data Divergence:** Management projects "unwavering" multi-year growth, yet Q1 Free Cash Flow swung negative to -$265M (vs. +$81M YoY). This $346M delta is primarily driven by a massive $551M working capital build and $145M in annual bonus payments, signaling aggressive inventory positioning that contradicts "capital-light" narrative.
+
+• **Hidden Operational Shifts:** Inventory levels surged to $5.1B, a 12% jump from year-end 2022, indicating significant supply chain buffering or anticipated mobilization for Middle East/Latin America projects. Accounts Receivable DSO remained flat, but $13M in restructuring charges suggests ongoing legacy footprint consolidation despite the upcycle.
+
+• **Forward-Looking Nuance:** Reaffirmed high-confidence "Expectation" of 2023 adjusted EBITDA growth of at least $1.5B. Management "anticipates" (moderate confidence) international revenue growth in the high-teens, but "expects" (high confidence) North American growth to moderate to mid-teens, signaling a definitive pivot in regional capital allocation.
+
+• **Atypical Risk Factors:** Russia net asset exposure reduced to ~$600M from ~$800M; the "accelerated wind-down" of operations creates a potential 5% revenue headwind if sanctions tighten further. Materially modified risk: increased vulnerability to "National Oil Company (NOC) spending shifts" as revenue concentration moves toward the Middle East.
+
+• **Segment KPIs:** 
+  - **Well Construction:** Revenue $3.26B (+36% YoY), but margin contracted 20bps sequentially to 21.0%, flagging cost inflation in labor/tooling.
+  - **Production Systems:** Backlog remains elevated; revenue $2.2B (+38% YoY), but margin stalled at 9.2%, underperforming the 15% corporate target.
+
+• **Capital Allocation:** Repurchased 4.4M shares at an average price of $48.24 ($213M total) in Q1. Dividend maintained at $0.25 following the Jan 2023 45% hike. Net debt increased slightly to $10.6B due to FCF deficit.

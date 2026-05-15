@@ -1,0 +1,8 @@
+• **Sentiment Divergence:** Management reaffirms 5–7% EPS growth through 2027 despite a $0.01 YoY decline in Q1 GAAP EPS ($0.66) and significant regulatory friction in Illinois. Bullish tone on "organic growth" masks a $117.6M haircut in the DC Potomac Electric (Pepco) rate case (requested $181.1M; $63.5M approved).
+• **Hidden Operational Shifts:** Uncollectible accounts expense decreased to $124M from $146M YoY, providing a quiet $0.02 EPS tailwind that offsets higher interest costs. Inventory (materials/supplies) contracted $43M since year-end to $1.43B, signaling tighter supply chain management or deferred maintenance. 
+• **Forward-Looking Nuance:** "Expect" 2024 CapEx of $7.4B and $34.5B through 2027. Management shifted ComEd Integrated Grid Plan (IGP) recovery expectations to a "final ICC order by Jan 2025," creating a material 9-month regulatory lag versus original 2024 recovery assumptions.
+• **Atypical Risk Factors:** MODIFIED: Illinois IGP rejection forces ComEd to operate under a "stayed" rate structure, risking recovery on $1.4B in annual grid investment. NEW: Increased sensitivity to 30-year Treasury yields for ComEd's ROE formula, where a 100bps shift now impacts annualized EPS by ~$0.04.
+• **Segment KPIs:** 
+  - ComEd: ROE 9.29% (down from 10.15% YoY) reflecting ICC-imposed constraints.
+  - PECO/BGE: Combined gas delivery volume down 9.4% YoY due to 14.5% fewer Heating Degree Days, exposing volume-sensitive decoupling gaps.
+• **Capital Allocation:** Heavy Q1 financing activity includes $900M ComEd 5.30% Notes and $350M ACE 5.50% Bonds; interest expense surged 17.5% YoY to $443M, increasing the "drag" on utility ROEs. Dividend maintained at $0.38/share (60% payout target).

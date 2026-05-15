@@ -1,0 +1,13 @@
+• **Credit Risk Signaling:** Allowance for doubtful accounts increased to $362M from $356M at FYE 2024 (+1.68% QoQ). This indicates a subtle internal shift toward a more conservative credit outlook or weakening counterparty liquidity, contradicting typically bullish top-line management commentary.
+
+• **Capital Allocation Stasis:** Treasury stock decreased to 494M shares from 495M shares, while issued shares rose to 1,373M. This suggests a net dilution this quarter and a lack of aggressive open-market buybacks, indicating a tactical pivot toward cash preservation or debt servicing over immediate shareholder returns.
+
+• **Productivity Plan Persistence:** Heavy restructuring activity continues under the "2019 Productivity Plan." Sustained charges across PFNA, PBNA, and International segments suggest the company has not yet achieved the "steady state" efficiency management previously guided, implying higher-than-expected structural friction.
+
+• **Derivative/Macro Exposure:** Extensive use of cross-currency interest rate swaps and commodity contracts confirms high sensitivity to input cost volatility (likely sugar, aluminum, and energy) and USD strength. The complexity of the hedging profile (Level 2/3 inputs) masks potential "earnings quality" risks if hedge effectiveness fluctuates.
+
+• **Celsius Exposure:** Explicit tracking of Celsius-related AFS (Available-for-Sale) debt securities confirms high-conviction exposure to energy-drink category performance as a critical inorganic growth driver for the beverage segment.
+
+• **Segment KPI Trajectory:** 
+  - **PFNA/PBNA:** Operating margins are being heavily managed through restructuring; the 2019 Productivity Plan is the primary lever to offset volume stagnation.
+  - **International:** High reliance on cross-currency swaps indicates that organic growth in EMEA/LatAm is being significantly impacted by currency translation headwind.

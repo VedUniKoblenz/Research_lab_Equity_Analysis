@@ -1,0 +1,13 @@
+• **HIV Portfolio Divergence:** Biktarvy US revenue reached $2.04B (+29% YoY), significantly outperforming the broader HIV segment growth. This suggests aggressive market share capture and successful patient switching from legacy TAF-based regimens, neutralizing the impact of Truvada/Atripla patent cliffs.
+
+• **Veklury (Remdesivir) Decay:** US sales collapsed 60.7% YoY ($218M vs $555M). Total Veklury revenue fell to $445M from $829M. This signals an accelerated decoupling of GILD’s earnings from COVID-19 hospitalization cycles, increasing reliance on the core oncology/HIV pipeline for EPS stability.
+
+• **Hidden Operational Shift:** Management has pivoted reporting logic to "Total Product Sales excluding Veklury" (+7% YoY) to mask the -1% YoY total revenue decline. This identifies a defensive posture regarding the COVID-19 therapeutic tail.
+
+• **KPI Trajectory:** 
+  - **HIV:** Descovy US growth (+7.4% YoY to $378M) indicates strong PrEP (Pre-Exposure Prophylaxis) market retention despite generic TDF competition.
+  - **HCV:** Epclusa US revenue fell 5.1% YoY to $205M, confirming the segment as a terminal cash cow with accelerating patient pool exhaustion.
+
+• **Capital Allocation & Liquidity:** Cash and equivalents decreased $2.0B (30%) since Dec 2021 ($4.7B vs $6.7B). Despite this, GILD maintained a $910M quarterly dividend ($0.73/share). The narrowing cash-to-dividend coverage ratio suggests limited near-term capacity for large-scale M&A without significant debt expansion.
+
+• **Sentiment Warning:** Management "expects" oncology to drive long-term value, yet raw data shows oncology/cell therapy still represents <10% of total revenue. Over-reliance on "future" pipeline sentiment vs. current HIV-heavy fundamentals.

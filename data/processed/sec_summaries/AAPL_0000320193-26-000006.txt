@@ -1,0 +1,9 @@
+- **Insider Liquidity Signals**: CFO Kevan Parekh and SVP Deirdre O’Brien have implemented exceptionally long-duration Rule 10b5-1 trading arrangements of 406 and 403 days respectively. This suggests a shift toward programmatic, long-window equity diversification, potentially signaling a local ceiling in internal valuation models through FY27.
+
+- **Revenue Visibility & RPO**: Remaining Performance Obligations (RPO) are strictly concentrated in a 12-month satisfaction cycle (P1Y). The lack of multi-year tranches indicates that Services growth remains tethered to short-term subscription churn rather than high-velocity, multi-year enterprise contract wins.
+
+- **Capital Allocation & Share Count**: Shares outstanding as of Jan 16, 2026, were 14,681,140k. Comparison to previous cycles suggests a maintenance of the buyback trajectory, though the absence of revised authorization figures in the truncated notes implies a "steady-state" rather than aggressive acceleration despite the Q1 seasonal cash peak.
+
+- **Refinancing Risk**: The debt ladder shows imminent maturities for 1.625% (2026) and 2.000% (2027) notes. Given the interest rate environment as of the filing date, the roll-over of these low-coupon tranches poses a significant risk to the "Net Cash Neutral" strategy and interest expense margins in upcoming quarters.
+
+- **Segment Trajectory**: Metadata confirms continued granular reporting for Greater China and Japan. The concentration of credit risk remains pegged to "Customer One" and "Customer Two," emphasizing persistent dependency on top-tier cellular carrier performance for iPhone distribution.

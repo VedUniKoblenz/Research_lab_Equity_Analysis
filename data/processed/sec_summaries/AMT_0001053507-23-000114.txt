@@ -1,0 +1,19 @@
+**AMT Q1 2023 Quantitative Alpha Extraction**
+
+*   **Sentiment Divergence:** Management maintains a "constructive" outlook on international 5G, but raw segment data reveals a widening gap; Asia-Pacific property revenue is underperforming relative to US/Canada due to recurring tenant insolvency issues in India. The "long-term" narrative masks immediate liquidity constraints at the major Indian tenant (Vodafone Idea).
+*   **Hidden Operational Shifts:** 
+    *   **Asset Disposal:** Completed sale of Mexico Fiber assets on March 29, 2023; signals a definitive retreat from non-tower international infrastructure to shore up the balance sheet.
+    *   **India Credit Risk:** Continued utilization of reserves against "Indian Customer" receivables; the shift from "revenue recognition" to "cash-basis" for specific accounts suggests heightening default probability.
+*   **Forward-Looking Nuance:** 
+    *   Management uses "expect" (high confidence) for US/Canada organic tenant billings growth (~5%), but "anticipate" (moderate confidence) for international recovery.
+    *   Specific focus on "stabilizing" the India business rather than "growing" it in the near-term.
+*   **Atypical Risk Factors:** 
+    *   **Refinancing Wall:** $3.35B in Senior Notes maturing in 2023 ($350M + $3.0B). 
+    *   **Floating Rate Exposure:** Increased reliance on the 2021 Multicurrency Credit Facility and USD/EUR Delayed Draw Term Loans; interest expense sensitivity is significantly higher than in the 2020-2021 period.
+*   **Segment-Specific KPIs:**
+    *   **US & Canada:** Organic Tenant Billings Growth remains the primary alpha driver; hovering at 5-6% range.
+    *   **Data Centers:** CoreSite integration delivering ~$210M+ quarterly property revenue; RPO (Remaining Performance Obligations) is the critical lead indicator for AI-driven colocation demand.
+    *   **Latin America:** Churn risk remains elevated due to the tail-end of carrier consolidation (Oi/Telefónica).
+*   **Capital Allocation Signals:** 
+    *   **Debt Prioritization:** Shift in tone from aggressive M&A to "deleveraging" toward a 5.0x net debt/EBITDA target.
+    *   **Dividend:** Maintenance of REIT distribution requirements takes precedence over share buybacks in the current rate environment.

@@ -1,0 +1,9 @@
+• **Duration Extension & Interest Headwind**: TXN has aggressively extended its debt ladder with 2054 ($5.15%) and 2063 ($5.05%) senior notes (c-175, c-177). This locking-in of >5% long-term capital signals a permanent pivot toward high-intensity CAPEX (300mm fab expansion) at the expense of the historical FCF-heavy return model. Refinancing the 1.375% notes maturing March 2025 (c-136) at current rates implies a ~370bps step-up in interest expense for that tranche.
+
+• **Geographic Risk Escalation**: Standalone reporting for Germany as a discrete geographic concentration risk (c-50 through c-53) indicates that European industrial/automotive exposure has reached a materiality threshold requiring specific disclosure divergence from "EMEA," likely reflecting Tier-1 supplier volatility.
+
+• **Inventory/Operational Shift**: XBRL context tags (c-10, c-11) continue to bifurcate Analog and Embedded Processing, but the inclusion of "All Other" (c-12) suggests a lack of divestment or wind-down in legacy/DLP products despite the heavy focus on the "Big Two" segments.
+
+• **Liquidity Quality**: Fair value disclosures (c-77 to c-118) show a heavy concentration in Money Market Funds and Level 2 Corporate Debt, with $0 in Level 3 assets (c-76), confirming management is prioritizing balance sheet "dry powder" over yield-chasing in non-marketable securities to fund the 2026–2030 capacity roadmap.
+
+• **Capital Allocation Divergence**: While dividend growth remains a priority, the issuance of long-dated debt at 5%+ coupons during a period of revenue contraction in Analog/Embedded suggests management is prioritizing capacity leadership over near-term EPS protection.

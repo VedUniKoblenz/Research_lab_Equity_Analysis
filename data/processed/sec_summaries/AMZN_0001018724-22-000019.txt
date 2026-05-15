@@ -1,0 +1,13 @@
+• **Accounting-Driven Earnings Smoothing**: Change in estimated useful life for servers (4 to 5 years) and networking equipment (5 to 6 years) provided a massive **$1.5B tailwind** to Q2 net income ($0.15 per diluted share). This masks underlying margin compression in fulfillment and shipping.
+
+• **AWS Leading Indicator (RPO)**: Remaining Performance Obligations (RPO) reached **$100.1B** as of June 30, 2022, with a weighted average remaining life of **3.9 years**. This represents a critical high-confidence revenue backlog, diverging from broader macroeconomic cooling.
+
+• **Capital Allocation Acceleration**: Amazon significantly increased its buyback pace, repurchasing **$3.3B** in shares during H1 2022 (with **$2.3B in Q2 alone**) under the $10B March 2022 authorization. This marks a pivot from historical cap-ex-heavy preservation to active floor-setting for the stock price.
+
+• **Equity Method Volatility**: The Rivian (RIVN) investment caused a **$3.9B pre-tax valuation loss** in Q2, totaling **$11.5B in H1 losses**. This non-operating volatility continues to decouple GAAP Net Income from core operational performance.
+
+• **M&A Pivot**: Integration of MGM (closed March 17) and the announced **$3.9B acquisition of 1Life Healthcare (One Medical)** signals a strategic R&D shift toward content-verticalization and healthcare-as-a-service, moving beyond traditional e-commerce logistics.
+
+• **Inventory/Supply Chain**: Inventory levels rose to **$38.2B** (up from $32.6B at FYE 2021). While management "believes" this supports Prime Day/Holiday readiness, the build-out risks higher markdowns if consumer discretionary spending softens.
+
+• **Regulatory Escalation**: Technical focus on the **€1.13B Italian Competition Authority fine** (currently appealed). New risk nuances suggest increasing exposure to "dark patterns" and self-preferencing regulations in the EU (DMA) and US.

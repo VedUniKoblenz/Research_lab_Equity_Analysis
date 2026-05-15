@@ -1,0 +1,11 @@
+• **Capex Intensity Pivot:** Q2 CapEx surged to $13.19B (+91% YoY), driven exclusively by Technical Infrastructure. Management transitioned from "anticipating" to "expecting" quarterly CapEx at or above $12B for the remainder of 2024, signaling a permanent upward shift in the capital intensity floor.
+
+• **Cloud Profitability Inflection:** Google Cloud operating margin hit 11.3% ($1.17B profit), a massive expansion from 4.9% YoY. This indicates reached scale and a shift in NRR (Net Retention Rate) profile toward high-margin AI sovereign/enterprise workloads rather than just commoditized compute.
+
+• **Aggressive Headcount Rationalization:** Total headcount fell to 179,582 (down from 181,798 YoY). The "stealth" restructuring suggests a significant R&D pivot: deprecating legacy software projects to fund 1,000+ AI-specialist roles, masking the true cost of the AI talent war.
+
+• **RPO Duration Shift:** Remaining Performance Obligations (RPO) reached $77.8B. Critically, 50% of revenue is now back-weighted beyond the 12-month horizon, signaling longer-dated, lumpy enterprise AI commitments that provide 24-month revenue visibility but may delay immediate cash flow realization.
+
+• **Search Cannibalization Risk:** Management tone on "AI Overviews" remains bullish, but 10-Q risk language identifies "Technology Obsolescence" with higher specificity. This highlights internal divergence: the potential for AI-driven Search to erode the traditional high-margin ad auction mechanics (CPC vs. CPM shifts).
+
+• **Capital Allocation Pace:** $15.5B in share buybacks and $2.5B in dividends in Q2. The pace of buybacks is accelerating relative to FCF (Free Cash Flow) generation, suggesting management views the stock as undervalued despite the massive infrastructure spend.

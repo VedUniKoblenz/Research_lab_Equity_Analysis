@@ -1,0 +1,11 @@
+• **Capital Allocation Pivot:** Dividend reduction to $0.13/share (vs. $0.49/share YoY) signals a definitive shift from income-equity status to aggressive liquidity preservation for the IDM 2.0 transition. Cash and cash equivalents of $21.3B are increasingly reliant on structured financing rather than FCF.
+
+• **Segment Divergence Alpha:** CCG revenue surged 31% YoY ($7.5B vs. $5.8B), masking a systemic collapse in high-margin auxiliary segments. Altera revenue plummeted 58% ($342M vs. $816M) and Mobileye dropped 48% ($239M vs. $458M), indicating severe inventory corrections and loss of market share in FPGA and ADAS.
+
+• **Foundry Transparency Risk:** Newly separated Intel Foundry segment reported $4.4B revenue, down 10% YoY ($4.8B). Heavy intersegment eliminations confirm the segment remains almost entirely dependent on internal CCG/DCAI demand, with negligible external customer ramp-up in the current period.
+
+• **Operational Drag:** Accumulated depreciation reached $99.3B, a $1.3B increase in 90 days. This reflects massive capital intensity of the "5 Nodes in 4 Years" (5N4Y) strategy without corresponding revenue offset from the new nodes yet.
+
+• **Structured Financing dependency:** Increasing utilization of the Semiconductor Co-Investment Program (SCIP) via the Arizona Fab LLC (Brookfield) and minority stake sales in IMS (Bain/TSMC) indicates Intel is effectively "selling the family silver" to fund CapEx as operating cash flows remain pressured.
+
+• **Inventory/Restructuring:** Continued execution of the "2022 Restructuring Program" despite bullish AI PC rhetoric suggests persistent headcount and efficiency gaps. Short-term debt/Commercial Paper usage ($106M) and new Senior Notes ($97M) signal frequent trips to credit markets to bridge the FCF gap.

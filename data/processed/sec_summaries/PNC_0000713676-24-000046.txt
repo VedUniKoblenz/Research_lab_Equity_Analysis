@@ -1,0 +1,9 @@
+• **Regulatory Capital Pivot**: Management confirms transition to "Expanded Risk-Based Approach" effective 7/1/2025. Material shift: PNC must now recognize most AOCI elements in regulatory capital, fundamentally altering CET1 volatility. New deduction thresholds for mortgage servicing assets and deferred tax assets (>10% individual/15% aggregate of CET1) create a hard ceiling on specific asset growth.
+
+• **Credit Quality Erosion**: Sharp divergence in Commercial Real Estate (CRE) performance. Nonperforming CRE loans surged to $947M from $722M in Dec 2023 (+31.2% QoQ). C&I nonperforming loans also climbed to $1.03B from $921M (+11.8% QoQ). Total nonperforming assets increased to $2.41B from $2.16B, signaling a systemic seasoning of the loan book despite stable macro commentary.
+
+• **FDIC Special Assessment**: High-confidence guidance ("We expect") for significant FDIC cost escalation. Assessment rate of 12.5 bps on uninsured deposits (excluding first $5.0B) based on 12/31/2022 levels. Implementation involves eight quarterly assessment periods commencing Q2 2024; the look-back basis prevents mitigation through current deposit outflows.
+
+• **Basel III "Lower of Two" Constraint**: Future capital adequacy will be governed by the lower of the Standardized vs. Expanded risk-based approach. This removes prior capital optimization arbitrage and necessitates a more conservative risk-weighting across the $154.5B C&I and $53.4B CRE portfolios.
+
+• **Liquidity Strategy**: Significant concentration in Fitch AAA/AA rated securities. Investment portfolio remains high-quality but creates significant OCI sensitivity as Basel III rules begin the three-year phase-in for AOCI recognition in CET1 capital.

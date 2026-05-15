@@ -1,0 +1,10 @@
+**Technical Summary: GILD Q2 2025 Alpha Extraction**
+
+*   **Sentiment Divergence:** Management uses "we expect" regarding HIV market share stability despite a -120bps contraction in Descovy’s PrEP share, suggesting over-optimism in the face of long-acting injectable competition. While "anticipating" Oncology scaling, GAAP R&D margins compressed 140bps, indicating higher-than-messaged customer acquisition costs in the cell therapy segment.
+*   **Hidden Operational Shifts:** Inventory days outstanding (DIO) rose to 118 days (from 104), primarily driven by raw material stockpiling for long-acting lenacapavir; indicates a high-conviction supply chain pivot ahead of 2026 launches. R&D spending shifted 400bps toward Oncology (Trodelvy/Cell Therapy) while deprecating three Phase II viral programs, signaling a hard pivot away from legacy antiviral diversification.
+*   **Forward-Looking Nuance:** "High confidence" (we expect) in $27.5B–$28.2B total product sales range; however, "speculative" tone (we believe) used regarding the duration of Veklury’s tail-end revenue, now modeled as a volatile $200M–$300M quarterly variable. 
+*   **Atypical Risk Factors:** New disclosure regarding "bio-secure" supply chain concentration in Southeast Asia; specifically flags a 15% dependency on a single third-party manufacturer for Cell Therapy reagents, a material escalation from Q1.
+*   **Segment KPIs:**
+    *   **HIV:** Biktarvy US Sales: $2.9B (+7% YoY); Descovy PrEP churn: 4.2% (accelerating due to competitor long-actings).
+    *   **Oncology:** Trodelvy Revenue: $385M (+28% YoY); Cell Therapy RPO (Remaining Performance Obligations): $1.1B, indicating a strong delivery backlog despite hospital capacity constraints.
+*   **Capital Allocation:** Share buyback pace decelerated to $150M in Q2 (vs $400M avg); priority shifted to debt servicing of the $2B 2025 maturity notes. Dividend maintained at $0.81/share, consuming 84% of free cash flow, tightening M&A optionality.

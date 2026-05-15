@@ -1,0 +1,10 @@
+**DE Alpha Extraction: Q1 2025 (Period End 1/26/2025)**
+
+*   **Sentiment Divergence:** Management maintains FY25 Net Income guidance of $5.0B–$5.5B despite Q1 Net Income collapsing 29% YoY ($1.24B vs. $1.75B). Implied back-half recovery assumes stabilization in Ag fundamentals that Q1 data (Equipment sales -20% YoY) does not yet support.
+*   **Operational Red Flags:** Inventory levels rose to $7.28B (+2% QoQ) despite a 20% drop in net sales, indicating a widening gap between production and retail demand. Net cash from operations plummeted to $111M from $804M YoY, driven by lower earnings and working capital friction. 
+*   **Segment KPI Erosion:** 
+    *   **Production & Precision Ag:** Operating margin compressed to 18.0% (down 540 bps YoY) on a 24% sales decline. Positive price realization (+1%) was insufficient to offset volume/mix headwinds.
+    *   **Construction & Forestry:** Margins dropped to 12.8% (vs. 17.6% YoY) despite only an 11% sales decline, suggesting a high degree of operating leverage sensitivity.
+*   **Hidden Restructuring/Geopolitics:** Recorded a $32M net-of-tax loss on the write-down of Banco John Deere S.A. (Brazil) following its reclassification as held for sale. This signals a strategic exit from direct credit exposure in the volatile Latin American Ag market.
+*   **Forward-Looking Guidance:** Deere "expects" (high confidence) FY25 sales declines: Production Ag -15%, Small Ag -10%, Construction -5% to -10%. 
+*   **Capital Allocation:** Sustained $600M share buyback pace in Q1 despite FCF pressure. Dividend maintained at $1.47/share. Buybacks are increasingly funded by debt/existing cash as operational inflows weaken.

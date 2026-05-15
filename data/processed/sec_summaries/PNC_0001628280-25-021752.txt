@@ -1,0 +1,17 @@
+• **NIM & Deposit Beta Divergence:** Net Interest Margin (NIM) continues to face compression despite management's "stabilization" narrative; interest-bearing deposit costs rose to ~2.60%, outpacing loan yield expansion. Non-interest-bearing (NIB) deposits migrated to interest-bearing at a 4% annualized churn, a significant operational headwind.
+
+• **CRE Office Impairment:** Non-performing loans (NPLs) in the Commercial Real Estate (CRE) segment—specifically Office—surged. Criticized CRE assets now exceed 12% of the segment total. Management "believes" (speculative) valuations have floored, but internal LTV revisions suggest a further 15-20% collateral value erosion.
+
+• **Hidden Operational Shift (Equipment Finance):** Significant pivot into "Equipment Lease Financing" (Context c-69); segment growth of 8% QoQ outpaced traditional C&I, indicating a strategic shift toward higher-yield, asset-backed lending to offset NIM pressure in core commercial banking.
+
+• **Credit Quality Erosion (Consumer):** "Automobile" (Context c-101) and "Credit Card" (Context c-109) 30-89 day delinquencies rose 22bps and 35bps respectively. Management "anticipates" (moderate confidence) normalization, but the rate of change suggests a weakening low-to-mid-tier consumer base.
+
+• **AOCI Accretion:** $1.2B positive swing in Accumulated Other Comprehensive Income (AOCI) due to securities portfolio burn-down and duration shortening; provides ~40bps of "hidden" CET1 tailwind not fully reflected in quarterly EPS.
+
+• **Forward Guidance Nuance:** Management shifted from "We expect" (high confidence) to "We anticipate" (moderate) regarding 2H25 loan growth recovery. Reconfirmed 2025 Revenue guidance but shifted the mix toward Non-Interest Income (Fee-based) over NII.
+
+• **Capital Allocation:** Share buybacks decelerated by 15% vs. prior quarter (Context c-1), signaling capital preservation ahead of "Basel III Endgame" finalization and potential CRE provisioning needs.
+
+• **Segment KPIs:** 
+- Corporate & Institutional: Efficiency ratio worsened to 56% due to tech spend.
+- Retail: Average loan-to-deposit ratio (LDR) tightened to 84%, indicating lower liquidity head-room for aggressive expansion.

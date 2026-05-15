@@ -1,0 +1,13 @@
+• **Vogtle Units 3 & 4 Divergence:** Management maintains "expected" in-service dates (Unit 3: Q4 2022/Q1 2023; Unit 4: Q3/Q4 2023) despite a confirmed 3-month "loss of productivity" contingency. Internal modeling suggests a $15M–$25M monthly impact per unit for delays; total Georgia Power share of capital cost now exceeds $9.2B, with a $1.1B increase in the estimated cost to complete since previous filings.
+
+• **Fuel Under-Recovery Alpha:** Massive spike in "Fuel and purchased power" expense (+$642M YoY). Under-recovered fuel costs (regulatory assets) at Georgia Power and Alabama Power increased by >$450M in Q1 alone. This creates a significant "hidden" cash flow drag and potential future rate-case friction not fully priced into the yield.
+
+• **RPO Revenue Concentration:** Remaining Performance Obligations (RPO) total $4.4B. XBRL data confirms 15% ($660M) is expected to be recognized within the next 12 months, primarily in Southern Power’s wholesale segment, providing high-visibility but limited growth upside in a rising-rate environment.
+
+• **Interest Rate Sensitivity:** Debt portfolio contains $4.8B in variable-rate exposure. A 100bps move in rates is modeled to impact annual pre-tax earnings by ~$48M. Recent Series 2021B Junior Subordinated Notes (1.875%) and Southern Power Senior Notes (1.000%) reflect "peak" cheap financing that cannot be replicated for upcoming maturities.
+
+• **Segment KPI Trajectory:** 
+  - **Electric:** Retail sales volume grew 2.1% (weather-normalized); industrial sales rose 3.4%, signaling strong regional macro tailwinds.
+  - **Gas:** Net adds of 18k customers; however, O&M per customer rose 4.2%, suggesting margin compression in the Gas segment.
+
+• **Capital Allocation Shift:** Zero share buybacks in Q1. Dividend payout ratio remains tight (>80% of GAAP earnings). $7.5B in total liquidity is heavily reliant on $6.5B in credit facilities, indicating limited balance sheet flexibility until Vogtle Unit 3 achieves commercial operation.

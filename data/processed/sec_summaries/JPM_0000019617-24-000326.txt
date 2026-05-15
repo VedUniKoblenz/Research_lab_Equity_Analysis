@@ -1,0 +1,9 @@
+• **NII Persistence vs. Guidance Conservatism:** FY24 Net Interest Income (NII) guidance remains anchored at ~$90B (excluding CIB) despite Q1 outperformance; management signals impending deposit "normalization" and beta pressure, diverging from current NIM resilience (3.00%).
+• **Executive Trading Lock-ins:** Analysis of Rule 10b5-1 trading arrangement durations reveals highly varied cooling-off/active periods ranging from 142 to 329 days; frequent clustering around the 230–240 day mark indicates long-term price targeting by insiders rather than immediate liquidity needs.
+• **Credit Normalization Inflection:** Consumer Credit Card Net Charge-Off (NCO) rate reached 3.32% (up from 2.07% YoY). 30+ day delinquency rate at 2.23% serves as a critical leading indicator for Q3/Q4 provision builds as "excess cash" buffers among sub-prime cohorts deplete.
+• **Capital Surplus Fortress:** CET1 ratio solidified at 15.0% ($23B above regulatory requirements). Buyback pace maintained at $2B for Q1; management "expects" (high confidence) to continue balanced distribution but remains sensitive to Basel III Endgame volatility.
+• **Operational Expense Pivot:** Non-interest expense hit $22.8B (+13% YoY), driven by First Republic integration and a 7% headcount increase. Pivot noted in tech R&D spending toward AI-driven fraud and underwriting, offsetting legacy infrastructure deprecation.
+• **Segment KPI Trajectory:** 
+  - CB: Average loans +19% YoY (First Republic impact), but ex-FRC growth remains muted. 
+  - CIB: Investment Banking fees +27% YoY, signaling a reopening of the ECM/DCM window despite macro uncertainty.
+• **Liability Shift Risk:** Interest-bearing deposit costs surged to 2.89% (from 1.85% YoY). Continued migration from non-interest bearing (-16% YoY) to interest-bearing instruments threatens to compress margins faster than directional Fed rate cuts.

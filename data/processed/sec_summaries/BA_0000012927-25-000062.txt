@@ -1,0 +1,12 @@
+• **Sentiment Divergence:** Management "expects" (high confidence) 737 production to reach 38/month by year-end 2025, yet raw inventory data (Context c-148) shows widening "Early Issue Sales Consideration" and abnormal costs, suggesting a "believe" (speculative) reality for rate stability. Net loss-per-share results in 6.2M performance shares excluded as anti-dilutive, confirming persistent failure to meet internal incentive thresholds.
+
+• **M&A / Capital Allocation:** Finalizing Spirit AeroSystems (SPR) acquisition; filing reveals "Potential Termination Liabilities" and specific credit assessment of financing commitments ranging from BBB to CCC (Context c-162-164), signaling significant debt-absorption risk and potential for further credit rating pressure post-consolidation. Divestiture of Digital Aviation Solutions (Context c-118) reclassified as "Held for Sale," suggesting a pivot to core hardware and a retreat from high-margin software services to fund the SPR bridge.
+
+• **BDS Segment (Defense) Margin Erosion:** Reach-forward losses confirmed for VC-25B (Air Force One) and KC-46A Tanker. Technical tags (Context c-202-217) flag "Capitalized Precontract Costs" and "Potential Termination Liabilities" for T-7A and MQ-25, indicating fixed-price contract structures are currently under-water with no immediate path to margin recovery.
+
+• **Operational Shifts:** Inventory concentration in 777X (Context c-150) indicates massive capital lock-up; "anticipate" (moderate confidence) language used for 777-9 entry-into-service (EIS), suggesting certification slippage risk into 2026. Supplier Finance Program (Context c-194) now covers a "majority of amounts payable," highlighting extreme dependency on supply chain liquidity to maintain OCF.
+
+• **Segment KPIs:** 
+  - BCA: Abnormal production costs on 737/787 programs continue to outpace ASP growth. 
+  - BGS: Divestiture of Digital Aviation units will likely result in a 150-200 bps headwind to BGS operating margins in 2026.
+  - BDS: Fixed-price contract exposure remains 60%+ of segment revenue, creating a ceiling on efficiency ratios.

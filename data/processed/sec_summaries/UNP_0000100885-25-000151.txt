@@ -1,0 +1,10 @@
+Ticker: UNP
+Filing Period: Q1 2025 (Ended March 31, 2025)
+
+• **Equity Float Contraction**: Common stock outstanding reduced to 597,475,610 shares as of April 17, 2025; substantial activity noted in subsequent event window (April 1–23, 2025) signaling aggressive post-quarter buyback execution or treasury stock retirement.
+• **Aggressive Exec Incentive Scaling**: Performance Stock Unit (PSU) vesting structure shifted to 66.67% (Tranche 1) and 33.33% (Tranche 2); front-loaded weighting suggests management pivot toward immediate operational efficiency gains over long-cycle targets.
+• **Duration Extension in Debt Stack**: Material focus on long-dated Unsecured Notes with maturities extending to February 2035 and December 2054; indicates lock-in of capital costs despite macro rate volatility.
+• **Asset Light Pivot**: "Chassis Assets" flagged under "Other Expense" (c-121) and "Property/Equipment" (c-97–120); signals continued disposal or accelerated depreciation of intermodal hardware in favor of third-party supply chain dependencies.
+• **Legal Contingency Recalibration**: New minimum/maximum range assessments for "Personal Injury" loss contingencies (c-130–137); indicates a potential quantitative shift in actuarial assumptions or settlement strategy for legacy liabilities.
+• **Revenue Quality KPIs**: Granular tracking of Accessorial Revenues (c-54) and Other Subsidiary Revenues (c-52) alongside Bulk, Industrial, and Premium segments; divergence here often precursors network fluidity issues or pricing power shifts in non-contract business.
+• **Capitalized Tech Spend**: Significant Construction in Progress (c-108) vs. Technology Equipment (c-107) levels; identifies a high-confidence R&D pivot toward proprietary network automation projects nearing deployment.

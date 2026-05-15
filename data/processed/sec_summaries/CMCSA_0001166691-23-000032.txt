@@ -1,0 +1,16 @@
+• **Connectivity Divergence:** Management maintains a bullish "convergence" narrative despite Domestic Broadband net adds stalling at (5,000) for Q2. Revenue growth is increasingly reliant on ARPU (+4.5%) rather than volume. Significant divergence in Wireless: lines grew 21% YoY to 5.98M, now 11% of the broadband base, signaling a pivot to an MVNO-heavy margin structure to offset Linear Video attrition (543k loss in Q2).
+
+• **Peacock Operational Burn:** Revenue surged 82% to $820M, but Adjusted EBITDA loss widened to ($651M). High-confidence guidance ("We expect") labels 2023 as the peak loss year ($3B total). RPO and subscription growth to 24M users are being achieved through high content amortization, which is cannibalizing legacy Media margins (Media EBITDA down 18.2% to $1.2B).
+
+• **Hidden Capex Shift:** Capital expenditures increased 14.5% to $2.4B (11.9% of Connectivity revenue). This is a technical defensive pivot: management is accelerating "mid-split" 10G upgrades to provide symmetrical speeds to counter Fixed Wireless Access (FWA) and Fiber-to-the-Home (FTTH) competitive encroachment.
+
+• **Studio Concentration Risk:** Studios Revenue reached $3.1B, but performance was hyper-concentrated in *The Super Mario Bros. Movie*. This masked a 14.7% decline in Home Entertainment revenue and a secular slowdown in licensing. 
+
+• **Atypical Risk Escalation:** Materially modified risk factors regarding the WGA/SAG-AFTRA strikes. Management moved from "anticipate" to "expect" regarding 2H23 production delays, which will artificially lower cash outlays in the short term but create a "content cliff" in 2024.
+
+• **Capital Allocation Pace:** Repurchased $2.0B of Class A shares in Q2; total 1H23 buybacks of $4.0B. The pace suggests management views the current FCF yield as mispriced relative to the "Connectivity & Platforms" steady-state EBITDA margin of 38.3%.
+
+• **Segment KPIs:** 
+  - Theme Parks: Record Adjusted EBITDA of $914M (+32% YoY).
+  - Business Services: Revenue +4.0% to $2.3B; margins expanding as they move up-market to enterprise clients.
+  - Domestic Wireless: $915M revenue (+20.4%); becoming a primary retention tool for broadband.

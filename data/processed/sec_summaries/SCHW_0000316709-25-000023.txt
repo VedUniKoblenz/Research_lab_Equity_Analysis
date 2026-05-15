@@ -1,0 +1,15 @@
+**Equity Research Alpha Note: SCHW (Q1 2025)**
+
+**Operational Shifts & Risk Divergence**
+*   **Hedging Pivot:** Material shift in duration management strategy; management has explicitly linked interest rate swaps and hedging instruments to Debt Securities Available for Sale (AFS) and Long-Term Debt. This suggests a defensive posture against "higher-for-longer" scenarios, contradicting broader market expectations of aggressive easing.
+*   **Mortgage Structural Risks:** The residential portfolio shows a transition toward high-velocity repricing. Key tranches are now structured with a P3Y (3-year) fixed-rate period followed by P6M (6-month) adjustment intervals. This increases NIM sensitivity to short-term rate volatility.
+*   **Geographic Concentration:** Significant escalation in California-specific geographic risk within the Residential Portfolio Segment. Current filings show heightened monitoring of this cluster, suggesting potential localized credit deterioration.
+*   **Credit Quality Granularity:** New internal reporting focus on "Origination FICO Score Below 620" for First Mortgage tranches. While ostensibly small, the inclusion of this specific sub-620 reporting bucket signals rising concern over tail-risk in the consumer loan book.
+
+**Segment KPI & Revenue Trajectory**
+*   **Pledged Asset Lines (PALs):** Significant operational focus on Pledged Asset Lines as a primary growth lever for the bank segment. This suggests a strategic pivot toward securities-based lending to offset slowing traditional mortgage demand.
+*   **Revenue Mix:** Transitioning volatility in "Order Flow Revenue" vs. "Principal Transactions." Direct commission revenue is being outpaced by Bank Deposit Account Fees, indicating a "sticky" but lower-margin revenue base.
+
+**Capital & Guidance Nuance**
+*   **Repricing Velocity:** The "Interest Only Reset Period" is now standardized at P3Y for new mortgage assets, shortening the duration of the fixed-income shield.
+*   **Liquidity Access:** Material reliance on Federal Home Loan Bank (FHLB) and Federal Reserve Bank advances remains a core liquidity pillar, indicating that organic deposit growth has not yet fully replaced wholesale funding dependencies.

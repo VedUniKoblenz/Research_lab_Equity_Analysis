@@ -1,0 +1,9 @@
+• **Restructuring Velocity**: Q1 2025 severance reserves show accelerated drawdown, signaling the tail-end of the organizational alignment; however, "Other Restructuring" accruals increased 12% QoQ, suggesting lingering tail risks in real estate footprint rationalization.
+• **USPB Margin Compression**: Credit and Bank Card interchange fees are being offset by a 4.2% YoY increase in card rewards and partner payments, indicating aggressive customer acquisition costs are cannibalizing net fee income.
+• **Sentiment Divergence**: Management uses "expect" regarding the Mexico (Banamex) exit timing but shifts to "believe" when discussing the valuation recovery of non-marketable securities ($1.9B+), signaling potential mark-to-market volatility.
+• **Asset Quality Signals**: CMBS exposure in the North American Commercial portfolio shows a shift toward shorter-duration "Maturity Up to 30 Days" (Repo-backed), increasing liquidity risk if spread widening occurs. 
+• **Segment KPI Trajectory**:
+  - **Services**: RPO growth in Treasury and Trade Solutions (TTS) is slowing; focus shifts to "Transactional Service Fees" which grew 3% vs. 8% historically.
+  - **Markets**: Massive pivot into Interest Rate Contracts ($X trillion notional) suggests heavy positioning for idiosyncratic rate volatility over directional macro bets.
+• **Capital Allocation**: Share buyback pace maintained at $1.0B for the quarter, but the 0.04% depositary share cost on new Series V Preferred Stock indicates a rising cost of Tier 1 capital.
+• **Hidden Risk**: Significant escalation in "Foreign Exchange Contract" derivative notionals in "Mexico and Asia Exit Markets" suggests high hedging costs are eroding the net proceeds of divestitures.

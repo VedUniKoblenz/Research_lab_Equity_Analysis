@@ -1,0 +1,10 @@
+• **Aerospace KPI Divergence:** Total Backlog/RPO reached $32.0B (+10% YoY). Signal: Significant internal pivot as Commercial OE (Original Equipment) organic growth (+21%) outperformed Commercial Aftermarket (+15%), suggesting a transition from high-margin maintenance-led growth to long-cycle production ramp-ups, potentially weighing on near-term margins despite top-line strength.
+• **Aggressive M&A Capital Pivot:** Deployment of ~$5B for Carrier Global Access Solutions (closed June 3) and ~$1.9B for CAES (pending). Total H1 acquisition spend/commitments exceed $10B. Signal: Shift from share buybacks ($1.6B YTD vs. $2.0B+ in prior comparable periods) to inorganic growth in "Megatrends" (Automation, Aviation, Energy).
+• **Inventory/Supply Chain Buffer:** Inventory levels increased to $5.7B (up from $5.3B at YE23). Technical signal: Management is intentionally over-stocking in Aerospace to mitigate persistent Tier 2/3 supplier fragility in castings and forgings, diverging from standard "Honeywell Accelerator" lean principles.
+• **Guidance Revision Nuance:** FY24 Sales guidance revised upward to $39.1B–$39.7B (prior $38.1B–$38.9B) but Segment Margin ceiling lowered 10bps to 23.7%. "We expect" (high confidence) organic growth of 5-6%, but "anticipate" (moderate confidence) continued headwinds in Industrial Automation (Productivity Products organic sales down mid-single digits).
+• **Restructuring Signal:** $116M in Q2 restructuring charges, primarily for severance and asset impairments in Industrial Automation. Indicates more aggressive headcount/footprint reduction than previously signaled to protect margins in a weak short-cycle warehouse/automation recovery.
+• **Segment-Specific KPI Trajectory:**
+  - Aerospace: Commercial OE organic sales +21%; RPO $32B.
+  - Industrial Automation: Organic sales -4%; Warehouse/Workflow remains the primary drag despite improving order rates.
+  - Building Automation: GMV boost expected from Access Solutions integration; focus on recurring service revenue.
+  - Energy/Sustainability: Advanced Materials demand resilient; UOP licensing cycle entering a "believed" recovery phase in H2.

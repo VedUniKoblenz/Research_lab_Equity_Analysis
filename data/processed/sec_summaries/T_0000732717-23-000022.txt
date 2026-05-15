@@ -1,0 +1,13 @@
+• **Revenue Visibility & RPO:** Remaining Performance Obligation (RPO) at 30% with a specific 21-month satisfaction window provides a high-confidence revenue floor through Q1 2025. This visibility is concentrated in long-term service contracts, mitigating short-term churn volatility in the Mobility segment.
+
+• **Hidden Operational Shift (Receivables):** Materiality of "Securitization Fees" within Corporate/Reconciling items confirms aggressive reliance on factoring programs to pull forward cash flow. This suggests underlying FCF pressure from CAPEX-heavy 5G/Fiber rollouts being offset by balance sheet engineering.
+
+• **Structural Drag:** "DTV-Related Retained Costs" and "Legacy Voice/Data" continue as material non-segment drags. The persistence of these costs 24 months post-transaction indicates a slower-than-projected burn-off of stranded costs.
+
+• **Debt Maturity Pressure:** Immediate maturity profile of Global Notes (2.500% Due March, 2.750% Due May, 1.050%/1.300%/1.950% Due September 2023) creates significant refinancing risk. Transitioning this low-coupon debt into current market rates will likely compress Net Interest Margin (NIM) in H2 2023.
+
+• **Segment KPI Trajectory:** 
+  - **Mobility:** Shift toward "Wireless Service" revenue over "Equipment" suggests a pivot toward higher-margin recurring revenue, though offset by increased "Securitization Fees."
+  - **Consumer Wireline:** IP Broadband (Fiber) is the sole growth offset to Legacy Voice decay; 2023 performance hinges entirely on the Fiber-to-the-Home (FTTH) conversion rate.
+
+• **Capital Allocation:** Absence of share buyback signals and focus on "Debt Current" reclassifications confirms priority remains on reaching the 2.5x net debt-to-EBITDA target before any return of capital to common shareholders.

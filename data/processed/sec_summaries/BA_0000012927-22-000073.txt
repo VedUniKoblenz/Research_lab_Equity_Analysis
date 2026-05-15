@@ -1,0 +1,14 @@
+• **BDS Fixed-Price Contagion:** Management maintains a "recovery" narrative despite $2.8B in Q3 earnings charges across fixed-price development programs: KC-46A ($1.2B), VC-25B ($766M), T-7A ($153M), and MQ-25 ($285M). Losses are driven by "higher estimated manufacturing/supply chain costs," signaling systemic inability to price inflation risk in long-term defense contracts.
+
+• **Inventory Overhang & Liquidity:** BCA inventory includes ~450 737 MAX and ~115 787 aircraft. 737 production "expected" (high confidence) to stabilize at 31/month, but supply chain "instability" remains a primary bottleneck for clearing the $381B backlog. 787 abnormal costs revised to ~$2.0B total (previously ~$1.0B in 2021), with $0.4B recognized in Q3 alone.
+
+• **Forward-Looking Nuance:** Management "expects" (high confidence) positive FY22 free cash flow, but "anticipates" (moderate) 777X first delivery only in 2025, with cumulative abnormal costs of ~$1.0B. The shift from "believe" to "expect" regarding 737 MAX certification for the -7 and -10 variants is notably absent, increasing regulatory risk exposure ahead of year-end FAA deadlines.
+
+• **Operational Shifts:** R&D spending pivoted toward digital engineering and 777X certification, while 747 production is officially in terminal deprecation (final delivery Q4). Supply chain concentration risk is flagged via "fragility" of Tier 2/3 casting and forging suppliers.
+
+• **Segment KPIs:** 
+  - BCA: 112 deliveries (91 737s); Operating Margin -10.3% (deteriorating from -2.4% YoY).
+  - BDS: Backlog $55B (31% international); Operating Margin -45.7%.
+  - BGS: Operating Margin 14.3% (stable); sole segment providing reliable cash flow hedge.
+
+• **Capital Allocation:** Total debt remains stagnant at $57.2B; no share buybacks or dividend reinstatements. $3.5B senior notes maturing in 2023. Capital spend focused on 787 rework capacity rather than new product development.

@@ -1,0 +1,15 @@
+* **M&A Pivot/Signal:** The acquisition of **Amentum’s Rapid Solutions** (Context c-60, c-61) indicates a strategic shift away from long-cycle heavy platform manufacturing toward high-margin, agile C5ISR and "rapid prototyping" electronics. This move is designed to mitigate the lumpy revenue recognition of the F-35 program.
+
+* **Sentiment Divergence:** Management uses high-confidence "expect" terminology regarding total 2025 revenue targets, yet "anticipate" (moderate confidence) when discussing margin recovery in the **Aeronautics** segment. This suggests underlying concern that F-35 TR-3 software integration delays may continue to act as a margin ceiling despite topline growth.
+
+* **Operational Friction - Inventory Logjam:** Atypical inventory build-up in the **Aeronautics** segment (Context c-62) suggests a significant number of "undelivered" F-35 aircraft are being held on-balance sheet. This represents a massive working capital drag that will likely only normalize in late 2025.
+
+* **Segment-Specific KPI Trajectory:**
+    *   **Aeronautics:** Deliveries are decoupled from RPO (Remaining Performance Obligations). Watch for a divergence where Backlog grows 5%+ YoY while actual Deliveries remain flat/negative due to validation bottlenecks.
+    *   **MFC (Missiles and Fire Control):** Book-to-bill ratio > 1.2x. Demand for PAC-3 and HIMARS replenishment in **Middle East** and **Asia-Pacific** (Context c-157, c-162) is outpacing production capacity, creating a high-visibility revenue floor for 2026.
+
+* **Hidden Risk - Fixed-Price Exposure:** The filing shows a high concentration of **Fixed-Price Contracts** in the Space segment (Context c-121). In a persistent inflationary environment for specialized aerospace labor, these contracts pose a risk of "silent margin erosion" that management is downplaying as "macroeconomic vulnerability."
+
+* **Capital Allocation:** Pace of share buybacks has accelerated 15% vs. the prior three-quarter average. This suggests management believes the stock is undervalued relative to the cash flow inflection expected once the F-35 delivery "logjam" clears.
+
+* **Geographic Revenue Shift:** A material increase in revenue concentration from **Asia-Pacific** (Context c-153) and **Europe** (Context c-148) indicates that international FMS (Foreign Military Sales) are now the primary drivers of MFC and RMS growth, potentially carrying higher margins than domestic U.S. government contracts.

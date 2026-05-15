@@ -1,0 +1,9 @@
+• **Accounting Estimate Shift:** Extended depreciable life for storage/network equipment from 3 to 5 years; Q1 OpEx benefit of $67M, contributing ~$0.02 to EPS and artificially inflating operating margins.
+• **Supply Chain Concentration:** Total supply-side obligations (purchase commitments + prepaid) surged to $11.5B (up from $9.2B last quarter) to secure TSMC CoWoS capacity for Hopper/Grace architectures.
+• **Inventory/Writedown Divergence:** Inventory rose 11% QoQ to $4.61B; however, zero material inventory charges for flagship Data Center products indicate unprecedented sell-through velocity of A100/H100 units.
+• **Revenue Guidance Nuance:** Management "expects" $11.00B revenue for Q2 (+/- 2%), signaling high-conviction visibility; contrast with "anticipate" regarding Automotive growth, suggesting potential supply or adoption volatility in L3/L4 platforms.
+• **Segment KPI Trajectory:** Data Center revenue reached $4.28B (up 18% QoQ); Compute & Networking segment margin expanded to 65.3%, driven by higher ASPs on H100 and HGX systems.
+• **RPO Backlog:** Remaining Performance Obligations (RPO) hit $6.0B; ~$4.0B (67%) scheduled for recognition within 12 months, establishing a massive revenue floor for FY24.
+• **Operational Pivot:** New $430M multi-year commitment for third-party cloud service agreements indicates aggressive scaling of DGX Cloud/AI-as-a-Service (ARR proxy) over pure hardware sales.
+• **China Exposure Risk:** 22% of revenue ($1.58B) tied to China/HK; management modified risk language to warn of "permanent loss of opportunities" if additional US export controls restrict A800/H800 workarounds.
+• **Capital Allocation:** Repurchased $2.04B in shares during Q1; $7.23B remains under authorization through December 2023.

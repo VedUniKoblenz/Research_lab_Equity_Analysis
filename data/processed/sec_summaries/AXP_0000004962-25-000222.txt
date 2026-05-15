@@ -1,0 +1,9 @@
+• **Bifurcated Credit Risk Metrics:** Q3 2025 reporting implements a highly granular transition in credit quality monitoring, explicitly separating "Net write-off rate - principal" from "Net write-off rate - principal, interest, and fees" across Consumer and Small Business segments. This pivot suggests an increased materiality of fee/interest reversals on the P&L, signaling that principal-only recovery metrics no longer sufficiently capture bottom-line leakage.
+
+• **Insider Execution Windows:** Documentation of a Trading Arrangement (Rule 10b5-1) duration of 268 days indicates long-range programmatic equity execution. This reduces "information surprise" but confirms management’s commitment to a specific valuation floor/ceiling over a three-quarter horizon.
+
+• **Lending Diversification:** Increased structural emphasis on "Other Loans and Other Receivables" distinct from traditional Card Member Receivables. This suggests a strategic shift toward installment-based or non-card lending products to capture interest income, hedging against potential slowdowns in "spend-centric" Merchant Discount revenue.
+
+• **Capital Allocation:** Preferred Stock (Series D) par value remains fixed at $1.667. Continued dividend distributions through retained earnings for this series, despite broader market rate volatility, indicate a preference for maintaining expensive Tier 1 capital over aggressive redemption/refinancing.
+
+• **Comparative Distortion:** Financials include a tail-period impact from the Accertify disposal (Q2 2024). Current quarter margin improvements may be artificially inflated by the removal of this lower-margin service segment rather than core organic growth in the Commercial Services segment.

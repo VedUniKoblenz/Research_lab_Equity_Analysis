@@ -1,0 +1,13 @@
+• **Sentiment/Fundamental Divergence:** Management reiterates FY22 FCF guidance of $4.5B–$6.5B despite 1H’22 adjusted FCF of only $0.16B. This implies an aggressive >95% H2 back-weighting, signaling extreme reliance on Q4 seasonal inflows and "clearing" of supply chain bottlenecks that have yet to materialize in the raw data.
+
+• **Hidden Operational Shifts:** Inventory levels surged by $1.2B in 1H’22. Analysis suggests this is high-value "trapped" Work-in-Process (WIP)—specifically jet engines and medical scanners missing single components (semiconductors/castings). This indicates a potential "margin coiling" effect: a rapid margin expansion if supply chains normalize, or a massive write-down risk if orders are canceled.
+
+• **Segment KPI Trajectory:**
+  - **Aerospace:** Organic orders +26% YoY, but shop visits (the high-margin driver) only +10%. The lag suggests aftermarket revenue realization is being deferred into 2023.
+  - **Renewable Energy:** Negative 15.3% operating margin. 1H’22 loss of $0.85B exceeds 1H’21 loss by 80%. This trajectory signals the "Vernova" spin-off will likely require significant pre-spin capital infusion from the parent.
+
+• **Forward-Looking Nuance:** Management "expects" Aerospace growth (high conviction) but only "anticipates" Renewable Energy stabilization. Notable shift in phrasing regarding inflation: transitioned from "transitory" implications to "sustained" pricing actions, suggesting GE is moving to aggressive list-price hikes in Healthcare to offset the $0.5B+ inflationary headwind.
+
+• **Atypical Risk Factors:** Bank BPH (Poland) litigation regarding CHF-indexed mortgages remains a non-quantified "black box" risk. Filing indicates a $0.2B reserve increase in 1H’22, but the "reasonably possible" loss exceeds current accruals by a material, undisclosed margin, threatening the "Corporate" cash cushion.
+
+• **Capital Allocation Signals:** $0.4B share repurchases in Q2 (approx. 5.1M shares). The pace remains defensive rather than opportunistic. Debt reduction of $1.0B in Q2 confirms the pivot toward "de-risking for separation" over growth M&A, as the company prepares for the GE HealthCare spin-off in early 2023.

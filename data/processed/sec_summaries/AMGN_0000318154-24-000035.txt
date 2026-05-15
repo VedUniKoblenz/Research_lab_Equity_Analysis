@@ -1,0 +1,25 @@
+**Sector: Biopharma / Large Cap Value**
+**Ticker: AMGN (Q2 2024 Analysis)**
+
+*   **Sentiment Divergence: Volume vs. Price Attrition**
+    *   Management emphasizes "20% revenue growth" ($8.4B), yet raw data reveals this is inorganic, driven entirely by the Horizon acquisition ($1.1B contribution). 
+    *   Organic portfolio shows a dangerous "Scissors Effect": 26% volume growth is being aggressively cannibalized by net price erosion (weighted ~-3% to -5% across core brands).
+    *   **Over-optimism Flag:** Management maintains a bullish stance on Otezla despite a 1% sales decline ($612M) and significant competitive pressure from BMS’s Sotyktu, indicating likely future impairment if trajectory doesn't pivot by FY24-end.
+
+*   **Hidden Operational Shifts & Inventory**
+    *   **R&D Pivot Point:** Rapid acceleration in "Other" R&D spending, masking a significant resource shift from deprecated oncology programs toward the MariTide (maridebart cafraglutide) GLP-1/GIP obesity trial. 
+    *   **Inventory Build:** Atypical increase in inventory levels for TEPEZZA and KRYSTEXXA (Horizon assets) suggests a "load" phase ahead of international expansion, or a hedge against supply chain concentration in specialized biologic manufacturing.
+    *   **Restructuring:** Hidden "Efficiency" gains realized through a headcount reduction in legacy sales forces (Enbrel/Otezla) to fund the cardiometabolic launch team.
+
+*   **Forward-Looking Nuance & Guidance**
+    *   **Guidance Tightening:** Revised revenue range to $32.8B–$33.8B (prior: $32.5B–$33.8B). High confidence ("We expect") on volume-driven growth; speculative ("We believe") regarding the timing of TEPEZZA’s international uptake in Japan/EMEA.
+    *   **Tax Exposure:** High-materiality warning regarding the IRS dispute ($10.7B+ plus interest). Language shifted from "defend vigorously" to a more nuanced "outcome could be material," signaling increased probability of a multi-billion dollar settlement.
+
+*   **Segment-Specific KPI Trajectory**
+    *   **Rare Disease (Horizon):** TEPEZZA ($479M) and KRYSTEXXA ($282M) are the primary alpha drivers. KRYSTEXXA’s 20% growth is the most predictive metric for Horizon synergy capture.
+    *   **Cardiovascular:** Repatha volume grew 25% YoY ($532M sales), but ASP (Average Selling Price) compression is accelerating due to increased rebate requirements for preferred formulary status.
+    *   **Inflammation:** Enbrel is in terminal decline; $1.1B sales (-15% YoY) driven by a 9% price drop and 7% volume loss—a double-digit negative CAGR signal.
+
+*   **Capital Allocation & Risk**
+    *   **Debt Servicing:** Free Cash Flow ($2.2B) is heavily prioritized toward the $28.5B debt load from the Horizon deal. No significant share buybacks ($0M this quarter), a sharp departure from the $10B+ annual pace seen in 2022.
+    *   **Atypical Risk:** "New" risk disclosure regarding the Inflation Reduction Act (IRA) "Selected Drug" list; Xgeva/Prolia exposure to Medicare Part B/D negotiations represents a non-linear revenue cliff starting 2026/2027.

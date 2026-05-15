@@ -1,0 +1,8 @@
+• **Liquidity Arbitrage via ABS:** Pivot toward aggressive asset-backed securitization (Series 2022-1/2) to finance device payment plans; signal of shifting credit risk off-balance sheet as interest rates rise.
+• **Contract Cost Nuance:** Capitalized contract cost amortization period fixed at 2 years (P2Y), despite standard subscriber life cycles often exceeding 3 years; potential for margin compression if churn accelerates post-amortization.
+• **C-Band Concentration Risk:** Indefinite-lived intangible assets dominated by $45B+ C-Band spectrum licenses; ongoing "Projected Clearing Costs" represent a variable cash drain not captured in base bid prices.
+• **Revenue Backlog Velocity:** Remaining Performance Obligations (RPO) show heavy front-loading, with significant satisfaction expected within 3 months; indicates a lack of long-term enterprise contract visibility compared to peers.
+• **Capital Structure Re-profiling:** Execution of complex debt tender offers for notes due 2032–2056; management is aggressively retiring long-dated, high-coupon debt to manage the weighted average cost of capital (WACC) despite macro volatility.
+• **Operational Pivot:** Finality of Media Business (Yahoo/AOL) disposal to Apollo for ~$5B confirms abandonment of the integrated content strategy in favor of a pure-play connectivity model.
+• **Inorganic Integration:** TracFone acquisition (Nov 2021) focus shifting to fair value adjustments and distribution relationship intangibles; identifies a transition from growth to synergy extraction.
+• **Postpaid KPI Sensitivity:** Wireless postpaid contracts remain the primary alpha driver, but the shift toward device payment plan minimums as a revenue floor suggests a move away from traditional service-only loyalty.

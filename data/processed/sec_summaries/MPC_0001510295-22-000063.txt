@@ -1,0 +1,10 @@
+**MPC Q2 2022 Quantitative Signal Extraction**
+
+*   **Capital Allocation Alpha:** Aggressive acceleration of buyback velocity; repurchased $4.1B in common stock during Q2 alone, completing the $10B Speedway-linked repurchase program. Management utilized $4.3B of the supplemental $5B authorization as of June 30, signaling an exhaustion of the "Speedway catalyst" and a pivot to organic cash flow-funded returns.
+*   **Segment KPI (Refining & Marketing):** Extreme margin expansion to $37.54/bbl (vs. $12.45/bbl YoY). Throughput utilization hit 94% (2.9M bpd), suggesting MPC is operating at the "plateau of efficiency" where incremental maintenance risks escalate.
+*   **Hidden Operational Shift:** $114M LIFO liquidation gain recorded in R&M; indicates a drawdown of historical low-cost inventory layers. This masks a "true" margin compression if replacement costs remain elevated while refined product prices soften.
+*   **Segment KPI (Midstream):** MPLX Adjusted EBITDA reached $1.46B. Strategic shift noted in deprecating standalone growth in favor of integrated "wellhead-to-water" logistics, specifically the Matterhorn Express Pipeline FID.
+*   **Forward-Looking Nuance:** Management switched from "anticipate" to "expect" regarding the Martinez Renewable Fuels project Phase 1 startup. High-confidence guidance for YE 2022 startup (260M gallons/year capacity) despite global supply chain headwinds.
+*   **Restructuring/Headcount:** Refining operating costs increased to $5.20/bbl, driven primarily by energy costs and project-related labor. 
+*   **Atypical Risk Factors:** Material escalation in environmental remediation accruals, totaling $263M. Increased scrutiny on "Renewable Fuel Standard" (RFS) compliance costs as a volatility driver for the R&M segment.
+*   **Liquidity Divergence:** Cash position of $13.3B includes $1.4B in short-term investments; current ratio remains robust, but the $4.1B quarterly buyback pace creates a high-burn expectation that may conflict with potential softening in crack spreads for H2 2022.

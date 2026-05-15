@@ -1,0 +1,7 @@
+• Management tone signals a "turning point" in cash sorting, yet Bank Deposit Account (BDA) fees plummeted 54.4% YoY to $151M, indicating persistent yield-chasing behavior and fee compression despite stated "normalization."
+• Funding mix inversion: Total interest expense surged 59% YoY to $3.5B. This was driven by a migration from low-cost sweep deposits to high-cost certificates of deposit (CDs) and continued reliance on FHLB advances ($34.2B outstanding at March 31, 2024).
+• High-confidence guidance ("We expect"): Final TD Ameritrade client migration scheduled for May 2024. Management is locked into an $1.8B–$2.0B annualized run-rate cost synergy target post-integration.
+• Asset Quality/Concentration Risk: 78% of the $18.3B residential mortgage portfolio is concentrated in California. While the weighted average FICO is high (773), this creates extreme localized macroeconomic and real estate sensitivity.
+• Capital Allocation: Tier 1 Leverage Ratio reached 8.8%. Notably, zero common stock repurchases were executed in Q1 2024, signaling a defensive posture to prioritize the build-out of regulatory capital over equity returns.
+• Segment KPI: Net Interest Margin (NIM) compressed to 2.02% from 2.19% YoY. The trajectory suggests NIM bottoming is delayed by the slower-than-expected runoff of high-cost supplemental funding.
+• Speculative Forward Look ("We believe"): Management suggests client cash sorting has peaked, yet the filing shows $7.8B in outstanding FRB advances, indicating liquidity buffers are still actively defended rather than being released.

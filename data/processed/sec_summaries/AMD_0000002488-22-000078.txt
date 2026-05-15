@@ -1,0 +1,11 @@
+• **Xilinx Integration Impact:** Acquisition closed Feb 14, 2022; contributed $559M to Q1 revenue (partial quarter). Acquisition price finalized at $49.8B. GAAP gross margin significantly suppressed by $1.15B non-cash amortization of inventory fair value step-up; management tone remains bullish on "synergies" despite this $1B+ headwind to reported earnings.
+
+• **Aggressive Capacity Securing:** Prepaid expenses and other current assets surged to $1.3B from $610M (Dec 2021), a 113% increase. This identifies a massive operational shift toward multi-year "take-or-pay" supply agreements to secure 5nm/7nm wafer supply, highlighting high-confidence internal demand forecasts that exceed current market skepticism.
+
+• **Segment KPI Divergence:** Enterprise, Embedded, and Semi-Custom (EESC) revenue grew 88% YoY to $2.5B, driven by EPYC processor adoption. Computing and Graphics ASPs increased YoY despite unit volume concerns, signaling a deliberate pivot to high-margin premium silicon (Ryzen 5000/6000) to offset low-end PC market softening.
+
+• **Capital Allocation Acceleration:** Repurchased $1.9B of common stock in Q1 2022, a sharp escalation in pace compared to 2021 averages. This indicates a "valuation floor" signal from management, utilizing 29% of total cash/short-term investments ($6.5B) within a single quarter post-merger.
+
+• **Hidden R&D Pivot:** R&D expense scaled to $1.06B (18% of rev), up from $610M YoY. Incremental spend is heavily weighted toward Xilinx-integrated AI engines (XDNA) and data center GPU software stacks, deprecating legacy consumer graphics R&D in relative terms.
+
+• **Debt Profile Shift:** Assumed $3.4B in senior notes via Xilinx; principal balance now includes 2.375% notes due 2030 and 2.95% notes due 2024. Despite new debt, interest coverage remains exceptionally high, with operating income at $951M for the quarter.

@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** Management "expects" 6% organic site rental revenue growth despite "anticipating" a 1% headwind from Sprint/T-Mobile churn. Bullishness on small cell acceleration (target 10,000 nodes/year) masks high capital intensity and slower-than-projected fiber ROI.
+
+• **Hidden Operational Shifts:** Prepaid lease purchase price amortization decreased to $4M (vs $5M YoY), signaling a slowdown in ground lease buyouts. Shift in fiber strategy from long-haul to high-density metro areas is reflected in CapEx concentration, with nearly 70% of discretionary spend now directed at small cell deployment and fiber colocation.
+
+• **Forward-Looking Nuance:** "Expect" used for organic tower growth (high confidence: ~5%); "Believe" used for long-term small cell return profiles (speculative). Guidance for 2022 site rental revenue remains at $6.23B, implying reliance on backend-weighted node activations.
+
+• **Atypical Risk Factors:** Material escalation in LIBOR-to-SOFR transition risk for the $5.0B Revolving Credit Facility and 2016 Term Loan A. Elevated macroeconomic vulnerability due to $1.1B in outstanding Commercial Paper subject to immediate rate volatility.
+
+• **Segment KPIs:**
+  - **Towers:** Organic revenue growth +5.1%; churn constant at ~1%, excluding merger-related cancellations.
+  - **Fiber/Small Cells:** Backlog of 60,000 nodes; NRR is the critical pivot for ROI on the $10B+ fiber investment.
+
+• **Capital Allocation:** Pace of share buybacks remains stagnant; capital priority is 100% focused on 7–8% dividend growth and CapEx for node deployment. Debt-to-EBITDA remains at upper end of 5x target.

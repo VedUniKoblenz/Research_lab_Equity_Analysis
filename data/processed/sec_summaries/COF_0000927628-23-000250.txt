@@ -1,0 +1,9 @@
+• **Credit Normalization Inflection:** Domestic Credit Card 30+ day delinquencies reached $5.7B on a $124.9B base (4.56% rate), with 90+ day "hard" delinquencies at $2.4B (1.92%). This indicates a rapid transition from "normalization" to "deterioration" relative to 2022 levels.
+• **Auto Segment Stress:** Consumer Auto loans show significant early-stage stress with $3.1B in the 30-59 day past due bucket on a $78.1B portfolio. Total Auto 30+ day delinquency stands at ~5.99%, significantly higher than the Credit Card segment, suggesting a faster credit breakdown in the subprime/near-prime auto tranches.
+• **Commercial Real Estate (CRE) Exposure:** Commercial and Multifamily PE total $34.7B. While current past-due amounts are low ($143M or 0.41%), the concentration in multifamily amidst a high-rate environment represents a latent risk factor not yet reflected in the income statement.
+• **Securities Portfolio Liquidity:** High concentration in Agency RMBS ($83.6B) and US Treasuries ($12.3B). The scale of the "Available-for-Sale" (AFS) RMBS portfolio subjects the CET1 ratio to significant AOCI volatility if long-term rates continue to decouple from the short end.
+• **Capital Allocation:** Retained earnings increased to $61.3B. Dividend flows remain stable across Series I, J, K, L, and N preferred shares, but the lack of aggressive buyback language suggests a defensive pivot to preserve the 12.7% CET1 target.
+• **Segment KPI Trajectory:** 
+  - Credit Card: Domestic yield is being offset by a $5.7B delinquency overhang.
+  - Consumer: Auto volume is $78.1B, but the 30-59 day "roll rate" to 90+ days is the primary metric to watch for Q3 loss provisions.
+  - Commercial: C&I ($55.7B) remains the healthier commercial sub-segment vs CRE.

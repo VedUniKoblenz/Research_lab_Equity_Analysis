@@ -1,0 +1,18 @@
+**EQUITY RESEARCH: GS (Q2 2024) – ALPHA EXTRACTION SUMMARY**
+
+*   **Sentiment Divergence:** Management maintains a "high confidence" tone regarding an Investment Banking (IB) "multi-year cycle" recovery, yet Equities financing revenues remained flat at $1.2B despite record market valuations, signaling a potential lag in prime brokerage monetization relative to asset price appreciation.
+*   **Hidden Operational Shifts:**
+    *   **Strategic Harvesting:** Accelerated exit from on-balance sheet historical principal investments, realizing $1.4B in gross private equity disclosures this quarter; confirms a pivot toward a capital-light, fee-based model.
+    *   **Efficiency Pivot:** Headcount decreased to 44,300 (-1% QoQ) despite a 17% YoY revenue surge, indicating aggressive operating leverage extraction.
+    *   **Credit Quality:** Provision for credit losses dropped significantly to $282M (vs. $615M YoY), suggesting a de-risking of the consumer (Marcus/Apple Card) trajectory.
+*   **Forward-Looking Nuance:**
+    *   **Backlog:** Management used "increased significantly" (high confidence) regarding the IB backlog compared to year-end 2023, specifically citing a "reopening of the IPO window."
+    *   **Guidance:** Maintained the 15% ROE/17% ROTE targets, but emphasized these are "mid-term" rather than "immediate," tempering expectations for Q3/Q4.
+*   **Segment-Specific KPIs:**
+    *   **Asset & Wealth Management (AWM):** Record Assets Under Supervision (AUS) of $2.93T; Management fees hit $2.5B (+8% YoY).
+    *   **Investment Banking:** Advisory fees $822M (+7% YoY); Debt Underwriting $832M (+39% YoY)—the primary alpha driver.
+    *   **FICC Market Making:** $3.18B (-17% QoQ); signals a normalization of volatility and potential headwinds in rates/commodities.
+*   **Capital Allocation Signals:** 
+    *   **Dividend:** Approved 9.1% increase in quarterly dividend to $3.00/share, effective Q3 2024.
+    *   **Buybacks:** $3.5B repurchased YTD; pace remains steady despite Basel III "Endgame" regulatory uncertainty.
+*   **Atypical Risk Factors:** Modified language around "Regulatory Capital Uncertainty," specifically flagging potential RWA (Risk-Weighted Asset) inflation from the latest Fed stress test (CCB at 3.3%), which may constrain buyback capacity in 2025.

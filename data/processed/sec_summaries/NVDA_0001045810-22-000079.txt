@@ -1,0 +1,15 @@
+• **Arm Termination Impact:** Management’s bullish narrative on "record revenue" ($8.29B, +46% YoY) masks a severe GAAP margin compression; a $1.35B termination charge directly wiped out 1,630 bps of Operating Margin, leading to a GAAP EPS of $0.64 vs $1.36 non-GAAP.
+
+• **Aggressive Supply Commitments:** Hidden risk in purchase obligations which surged to $9.59B (up from $3.46B YoY and $9.0B QoQ). This represents a massive lock-in of high-cost inventory/capacity despite signs of a cooling Gaming cycle. Inventory days increased significantly with total inventory at $3.16B.
+
+• **Revenue Pivot Point:** Management “expects” Q2 revenue of $8.10B, involving a disclosed $500M downward revision specifically attributed to Russia ($100M Data Center) and China/COVID lockdowns ($400M Gaming). This marks the first significant break in a multi-quarter sequential growth streak.
+
+• **Regulatory Escalation:** NEW disclosure of a $29M SEC settlement regarding historical lack of transparency in crypto-mining revenue impact. Management tone has shifted from dismissive to defensive regarding "Ethereum 2.0" (Proof-of-Stake) risks and "LHR" (Low Hash Rate) effectiveness.
+
+• **Segment KPI Divergence:** 
+  - Data Center: $3.75B (+83% YoY) now officially exceeds Gaming ($3.62B, +31% YoY) in total revenue, marking a permanent structural shift. 
+  - Automotive: ASP improvement noted, but revenue remains stagnant ($138M, -10% YoY) despite "record backlog" claims.
+
+• **Capital Allocation Acceleration:** Increased share repurchase authorization to $15B through December 2023. Q1 buybacks ($2B) represent an aggressive acceleration compared to the prior zero-buyback quarters, signaling a management attempt to support price floors amid macro volatility.
+
+• **R&D Concentration:** GAAP R&D jumped to $1.62B (inc. Arm charge elements), but underlying organic R&D spend remains focused on Hopper (H100) ramp and Grace CPU, suggesting a pivot away from legacy mobile/shield projects.

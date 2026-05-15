@@ -1,0 +1,11 @@
+• **NIM Compression & Deposit Beta:** NIM contracted 5 bps QoQ to 2.79% as interest-bearing deposit costs surged to 1.83% (up from 1.34%). Cumulative deposit beta accelerated faster than internal modeling, driven by a $5.8B (2%) decline in average deposits and a significant migration from non-interest-bearing to higher-yield time deposits.
+
+• **CRE Office Concentration:** Management flagged $8.9B in Office CRE exposure (3% of total loans). Critically, non-performing office loans rose to 9.3% of the sub-segment, up from 5.4% in Q1. Total criticized CRE loans reached 14.5%, signaling a sharp pivot in credit quality expectations for urban office assets.
+
+• **Guidance Revision:** Management shifted from "expecting" 6–8% NII growth to "anticipating" a 3–4% range for FY2023. This 300–400 bps downward revision reflects a structural "higher-for-longer" funding cost realization not fully captured in prior outlooks.
+
+• **Capital Allocation Pivot:** Share buybacks were suspended in Q2 after $0.1B in early-quarter activity. This pause is explicitly linked to "regulatory uncertainty" regarding Basel III Endgame capital requirements (estimated 15-20% RWA inflation), despite a CET1 ratio of 9.5%. Conversely, the dividend was hiked 10% to $1.55, a move to signal balance sheet strength despite the buyback freeze.
+
+• **Operational Efficiency:** Initiated a $450M expense reduction via the "Continuous Improvement Program." Headcount rationalization and tech-spend deprecation are now prioritized over previous expansionary R&D.
+
+• **Liquidity Shifts:** AFS unrealized losses sit at $3.6B (after-tax); HTM portfolio contains $10.5B in pre-tax unrecognized losses, limiting flexibility to liquidate securities for loan funding without triggering massive OCI hits.

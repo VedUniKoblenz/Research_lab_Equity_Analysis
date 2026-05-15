@@ -1,0 +1,13 @@
+**Alpha Extraction Report: WMT Q1 FY2025 (Period Ended April 30, 2024)**
+
+*   **Inventory Efficiency Signal:** Total inventory decreased 2.7% YoY to $55.4B despite a 6.0% increase in total revenue. This indicates an aggressive SKU rationalization and improved supply chain velocity, with management shifting toward "just-in-time" fulfillment for the high-income cohort.
+*   **Sentiment/Demographic Divergence:** Management confirmed 75% of market share gains in grocery were derived from households earning >$100k/year. This contradicts the traditional "budget-only" retail profile and signals a structural capture of the "trade-down" affluent consumer that fundamentals suggest is becoming permanent.
+*   **High-Margin Service Pivot:** Global advertising revenue (Walmart Connect) rose 24% YoY (U.S. +26%). Operating income growth (+9.6%) is significantly decoupling from gross margin trends as high-margin ad tech and membership fees (+13.3%) offset labor and logistics inflation.
+*   **Guidance Upgrade Nuance:** Revised FY25 outlook moved from directional to specific: management now "expects" to be at the "high end or slightly above" the 3.0%–4.0% net sales and 4.0%–6.0% adjusted operating income growth ranges.
+*   **Segment KPI Trajectory:** 
+    *   **Walmart U.S.:** eCommerce grew 22% (driven by 50% increase in store-fulfilled delivery). 
+    *   **Sam’s Club:** Membership income increased 13.3%; digital penetration reached record levels.
+    *   **International:** Constant-currency sales +12.1%, significantly outpacing domestic comps (3.8%), led by Flipkart and Walmex.
+*   **Hidden Operational Shift:** Post-period exit from Walmart Health clinics (announced April 2024) and virtual care indicates a major deprecation of capital-intensive healthcare projects in favor of high-growth marketplace scaling (Marketplace seller counts +36%).
+*   **Capital Allocation:** Repurchased 18.2M shares for $1.1B in Q1. Split-adjusted dividend established at $0.2075/share. Liquidity remains robust at $9.4B cash/equivalents despite $0.8B in opioid settlement payments during the quarter.
+*   **Risk Modification:** Management flagged "general merchandise deflation" as a headwind to ASP, necessitating a pivot to volume-driven growth in non-consumable categories to maintain top-line momentum.

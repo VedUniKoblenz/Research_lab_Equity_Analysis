@@ -1,0 +1,9 @@
+**Ticker: DIS**
+
+*   **Capital Allocation & Share Count Volatility:** Common shares outstanding increased from 1.8B to 1.9B YoY, reflecting heavy issuance for the Hulu/NBCU settlement. However, Treasury stock surged 42% (19M to 27M shares) within the period, signaling an aggressive pivot to neutralize dilution via open-market buybacks.
+*   **Debt & Refinancing Profile:** New credit facilities established with tiered SOFR-based variable rates (spreads: 0.65.5 bps to 122.5 bps). Critical liquidity expiration windows: Feb 27, 2025; March 31, 2027; and March 31, 2029. Fixed-rate debt maturities now laddered extensively through 2036.
+*   **Hidden Tax/Operational Constraints:** Internal modeling reveals a specific 5-year limit on Net Operating Loss (NOL) carryforwards and a 10-year limit on tax credit carryforwards. Hedged instrument maturity is strictly capped at a 4-year upper limit, indicating a conservative duration strategy for FX/interest rate risk.
+*   **M&A/Segment Pivot:** Heavy concentration on the Hulu LLC acquisition (NBCUniversal equity buyout) as of Nov 30, 2023. Intersegment eliminations (Notes 97-100) indicate increased internal licensing friction between "Entertainment Third Party" and "Intersegment" buckets, suggesting a move toward walled-garden content distribution.
+*   **Segment-Specific KPI Trajectory:** 
+    *   **Entertainment:** Massive shift in "Theatrical Distribution Licensing" versus "TVSVOD" revenue mix, signaling a deprecated theatrical window in favor of RPO (Remaining Performance Obligations) on internal DTC platforms.
+    *   **Experiences:** Segment shift toward SIC 7990 (Amusement & Recreation) prioritization, with increasing dependency on "Resort and Vacations" over traditional "Admission" revenue as the primary margin driver.

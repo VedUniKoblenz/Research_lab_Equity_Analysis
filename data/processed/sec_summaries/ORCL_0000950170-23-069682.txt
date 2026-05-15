@@ -1,0 +1,8 @@
+• **RPO Divergence:** Total Remaining Performance Obligations (RPO) reached $65.4B (+11% YoY), but only 49% is expected to be recognized as revenue over the next 12 months. This $33.3B short-term RPO lags behind the "astronomical" demand narrative, signaling a potential multi-quarter lag in capacity conversion.
+• **Cloud Capacity Bottleneck:** OCI (Gen2) revenue grew 52% to $1.6B, but total Cloud Services growth decelerated to 25% ($4.8B). Management’s "expect" language regarding capacity expansion implies a dependency on NVIDIA H100 delivery cycles and power grid readiness rather than market demand.
+• **Fiscal 2024 Restructuring:** Filing confirms new restructuring initiatives across Cloud/License and Services segments (Context: C_21a111bd). While headcount isn't explicitly cut, the shift toward AI-automated support for Cerner suggests a pivot from labor-intensive services to software-led margins.
+• **Capital Allocation Pivot:** Massive reduction in share buybacks; repurchased only 2.2M shares for $250M in Q2, down from historical peaks of $5B-$10B/quarter. Capital is being aggressively diverted to OCI CapEx ($1.1B in Q2) and deleveraging (repaid $2.0B in notes).
+• **Segment KPIs:**
+  - **SaaS:** Fusion ERP (+21%) and NetSuite ERP (+21%) remain stable, but "Strategic SaaS" at $3.2B is now the primary margin driver over legacy support.
+  - **Cerner Integration:** Cloud revenue from Cerner was $1.2B, but legacy license and hardware in this segment continue to act as a -2% drag on total revenue growth.
+• **Hidden Asset Risk:** Net book value of "Developed Technology Rights" decreased to $11.0B from $11.8B. Amortization is accelerating, suggesting a faster-than-expected deprecation of legacy on-premise IP in favor of OCI-native tools.

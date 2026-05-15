@@ -1,0 +1,14 @@
+• **Operational Pivot:** Effective July 2023, RTX finalized a high-stakes reorganization from four segments to three: Collins Aerospace, Pratt & Whitney, and a unified Raytheon. Restructuring charges reached $124M in Q2. Significant risk lies in the execution of merging RIS and RMD into a single defense entity to capture cost synergies vs. potential disruption to program delivery.
+
+• **GTF Powder Metal Crisis:** Management signaled a material "non-conformance" in powder metal used for high-pressure turbine disks (PW1100G-JM engines). Forward-looking surprise: Expected accelerated inspection of ~1,200 engines. 200 "expected" by mid-September 2023; the remainder over 9-12 months. This creates a massive, non-linear operational bottleneck in MRO capacity and spare parts availability.
+
+• **Sentiment Divergence:** Despite a bullish $185B total backlog, management's tone on "supply chain stability" contradicts the 10% YTD surge in Inventory ($14.1B) and Accounts Receivable ($11.4B). This suggests internal buffer-stocking and payment delays despite the "recovering aerospace" narrative.
+
+• **Capital Allocation Shifts:** Issued $3.0B in senior notes across 2026, 2033, and 2053 maturities (5.0%-5.375% coupon), a significant cost-of-capital step-up from 2.15%-3.125% historical debt. Q2 share buybacks were $596M; management reaffirmed $3B FY23 target despite mounting GTF cash headwinds.
+
+• **Segment KPI Trajectory:**
+ - Collins: Commercial aftermarket +24% YoY; operating margin 14.6%. Most predictive of cash flow.
+ - Raytheon: Book-to-bill at 1.22x; $73B backlog.
+ - Pratt: Military sales +18%, but commercial engine deliveries remain constrained by casting/forging shortages.
+
+• **Atypical Risk:** NEW material exposure to compensation/liquidated damages for AOG (Aircraft on Ground) time related to GTF inspections. Management "anticipates" a significant Q3 charge; the lack of a specific range in the 10-Q vs. conference call verbal hints suggests high variance in internal modeling.

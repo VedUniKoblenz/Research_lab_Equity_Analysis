@@ -1,0 +1,9 @@
+• **Sentiment Divergence:** Management "expects" 737 production rate recovery to 38/month by year-end 2025, yet financial statements confirm a net loss for Q3 and "AntidilutiveDueToNetLossMember" status, signaling a disconnect between operational targets and current cash burn.
+• **Hidden Operational Shifts:** Inventory levels for 777X and 787 show significant accumulation without corresponding delivery acceleration; 737 inventory includes "EarlyIssueSalesConsideration" adjustments, suggesting aggressive concessions to maintain backlog. 
+• **Spirit AeroSystems (SPR) Acquisition:** Integration pivot confirmed for late 2025/early 2026; "ScenarioForecastMember" data suggests significant CapEx requirements to stabilize SPR supply chain before realization of synergies.
+• **Forward-Looking Nuance:** Shift from "anticipate" to "expect" regarding 777X first delivery timeline (now solidified as 2026), but technical risks in certification remain flagged as "materially modified" under atypical risk factors.
+• **Segment-Specific KPIs:** 
+  - **BCA:** Backlog valuation under pressure from escalation clauses vs. actual ASP (Average Selling Price) stagnation.
+  - **BDS:** Continued reach-forward losses on fixed-price contracts (VC-25B, KC-46A, T-7A); T-7A "PotentialTerminationLiabilities" remain a tail-risk.
+• **Capital Allocation Signals:** Massive liquidity buffering via a new 364-day revolving credit facility expiring August 2026; zero share buybacks or dividend reinstatements until SPR merger is finalized and debt-to-EBITDA ratios normalize.
+• **Regulatory Exposure:** FAA oversight of production "shadow" factories for 737 and 787 noted as a primary constraint on GM (Gross Margin) expansion.

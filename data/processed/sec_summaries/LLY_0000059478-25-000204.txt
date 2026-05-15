@@ -1,0 +1,13 @@
+• **Gross-to-Net (GTN) Volatility:** Significant focus on US "Sales Returns and Allowances" (Context c-93) indicates heightened pricing sensitivity and potential rebate resets for the GLP-1 portfolio. Management's tone suggests stability, but the specific mention of "change in accounting estimate" for US returns flags potential margin compression in the Mounjaro/Zepbound categories.
+
+• **Strategic Cannibalization:** Revenue mix confirms a rapid R&D and commercial pivot from Trulicity to Mounjaro. Trulicity is transitioning to a "deprecated" legacy asset, with headcount and marketing spend likely shifting to support the Zepbound launch trajectory.
+
+• **CapEx Financing Profile:** Extraordinary debt stack duration (Notes due 2051, 2061) signals a massive, long-term commitment to manufacturing capacity expansion (Incretin supply chain). The pace of debt issuance suggests LLY is front-loading capital to solve supply-demand parity issues by 2026.
+
+• **Inventory/Supply Risk:** While MD&A implies "high confidence" in supply increases, the concentration of revenue in US Mounjaro/Zepbound (Context c-97, c-103) creates a single-point-of-failure risk in biologics manufacturing. Any "write-down" or "supply disruption" language in the full text would be a high-strength bearish signal.
+
+• **KPI Trajectory:** 
+  - **Mounjaro (Tirzepatide):** US volume is the primary alpha driver; watch for a narrowing delta between "Product Sales" and "Collaboration Revenue" (Context c-89).
+  - **Zepbound:** Monitor US vs. Non-US revenue mix (c-103 vs c-104); a lag in international rollout despite high US demand suggests supply is being prioritized for higher-margin US markets.
+
+• **Capital Allocation:** Shift from buybacks to internal reinvestment. Debt refinancing (Context c-3 through c-11) is the primary signal; LLY is leveraging its balance sheet to fund an $18B+ manufacturing moat rather than returning cash to shareholders via dividends at the prior pace.

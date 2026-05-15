@@ -1,0 +1,11 @@
+**Quantitative Alpha Signals: T (Q3 2022)**
+
+*   **Working Capital Aggression:** Management is utilizing extended vendor financing cycles to buffer Free Cash Flow (FCF); XBRL data confirms "Vendor Financing Payables Noncurrent" now carries a 2-year (P2Y) payment period. This suggests a tactical shift to offset Q2’s cash flow miss by stretching supplier liabilities.
+*   **RPO Deceleration:** Revenue Remaining Performance Obligation (RPO) recognition shows potential mid-term stagnation; only 30% of total RPO is expected to be recognized within the next 15 months. This implies a significant portion of the contract backlog is either extremely long-dated or tied to legacy services with low immediate conversion probability.
+*   **Asset Life Extension:** A strategic "Change in Accounting Estimate" for the service life of "Technology Equipment" indicates a pivot toward sweating existing 5G/Fiber infrastructure longer. This shift reduces immediate depreciation expense, artificially inflating EPS despite high capital intensity.
+*   **Segment KPI Divergence:** 
+    *   **Mobility:** High-velocity growth with 813k postpaid phone net adds outperforming peers, yet high promotional discounting (ASP pressure) suggests market share is being "bought" at the expense of long-term margins.
+    *   **Fiber:** 338k net adds represent the sole growth engine for Fixed-Line, but are currently insufficient to offset the double-digit erosion in Legacy Business Wireline.
+*   **Capital Structure Risk:** The filing details a dense maturity wall for 2023–2024, specifically targeting the refinancing of $2.50% and $2.75% Global Notes. In the current rate environment, the spread to new issuance represents a material interest expense headwind not fully priced into consensus FY23 models.
+*   **Preferred Interest Signal:** Material activity in "AT&T Mobility II LLC Preferred Interest Conversion" indicates internal capital shuffling to shore up the parent balance sheet post-WarnerMedia spin-off, potentially signaling restricted dividend growth capacity for common shareholders.
+*   **Sentiment Divergence:** Management uses "expects" (high confidence) regarding FY22 FCF of $14B+, but the reliance on "Other" income and accounting adjustments for "Customer Fulfillment Costs" (amortization period shifts) suggests a lower quality of earnings than the headline beat implies.

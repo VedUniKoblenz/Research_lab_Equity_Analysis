@@ -1,0 +1,10 @@
+* **Mexico Credit Concentration Risk:** Accounts Receivable from Mexico (primarily PEMEX) escalated to $1.043B (20.1% of total consolidated AR) as of Sept 30, 2024, up from $889M (17.5%) at FYE2023. This represents a significant liquidity bottleneck and heightened sovereign-proxy credit exposure.
+* **Cybersecurity Impairment:** Aug 2024 system breach resulted in a quantified $0.02 per share negative impact on Q3 earnings. Non-recurring "remediation and restoration" costs were partially offset by insurance, but management tone suggests residual operational friction through Q4.
+* **North America (NA) Erosion:** Revenue fell 9.8% YoY to $2.39B. This contraction outpaces the decline in US rig counts, signaling localized pricing pressure in stimulation services and a "wait-and-see" approach from E&P operators.
+* **Segment Divergence:** Completion & Production (C&P) revenue dropped 4.4% YoY to $3.33B, while Drilling & Evaluation (D&E) grew 1.9% to $2.36B. D&E resilience is driven by international offshore logging and high-end fluids, decoupling from the NA onshore malaise.
+* **Sentiment/Forward Nuance:** Management "expects" (high confidence) international and offshore growth to persist, specifically in the Middle East/Asia (+2.3% YoY to $1.45B). However, they only "believe" NA activity is stabilizing, suggesting lack of visibility on a 2025 rebound.
+* **Capital Allocation:** Repurchased $200M of stock in Q3 at a pace consistent with prior quarters despite a 20.2% YoY decline in Net Income ($571M vs $716M), signaling a commitment to floor the stock price via buybacks over reinvestment.
+* **Hidden Restructuring:** Change in "Other" expenses reflects a $21M increase in corporate costs, likely tied to post-cyberattack infrastructure hardening and consulting fees not fully capitalized.
+* **KPI Trajectory:**
+    * **C&P:** Margin compression from lower pressure pumping utilization in NA.
+    * **D&E:** Revenue per rig increasing internationally due to higher technology intensity in deepwater LATAM (+7.3% revenue growth to $1.12B).

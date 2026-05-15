@@ -1,0 +1,9 @@
+• **Inventory Burn-Off Stagnation**: Q1 inventory remains heavily elevated at $6.27B, declining only ~1% from $6.33B in Q4 FY23. This indicates a slower-than-expected clearing of mid-to-low tier handset components despite the premium-tier Snapdragon 8 Gen 3 launch.
+• **IoT/Handset Divergence**: A massive 32% YoY collapse in IoT revenue ($1.14B) reveals a significant "hidden" inventory correction in industrial/edge sectors, contrasting management’s bullishness on the "AI at the edge" narrative. 
+• **QCT Margin Surprise**: QCT EBT margins reached 31% (upper bound of guidance), driven strictly by premium handset mix ($6.69B revenue, +16% YoY) rather than broad volume recovery.
+• **China Concentration Risk**: Revenue concentration from China-based customers increased to ~46% of total revenue, heightening exposure to U.S. export control modifications and domestic vertical integration (Huawei/SMIC).
+• **Vertical Integration Language**: Filing updates reflect "accelerated" risks regarding major customers (Apple/Samsung) developing internal modem/connectivity solutions, specifically flagging the transition period beyond 2026.
+• **Forward-Looking Nuance**: Management uses "we expect" for Q2 revenue guidance ($8.9B–$9.7B) and "we anticipate" for the stabilization of the handset market, signaling higher confidence in immediate financials than in a sustained macro recovery.
+• **Restructuring Tail-Off**: Restructuring charges dropped to $18M from $174M in the prior quarter, signaling the conclusion of the 2023 headcount reduction cycle.
+• **Automotive KPI**: Automotive revenue grew 31% YoY to $589M; significantly, the filing omits specific updates to the $30B+ "design-win pipeline," suggesting a pause in massive new contract wins.
+• **Capital Allocation Pace**: Repurchased 8M shares for $1.3B in Q1, maintaining a pace consistent with FY23, signaling no intent to accelerate buybacks despite the "AI-driven" stock rerating.

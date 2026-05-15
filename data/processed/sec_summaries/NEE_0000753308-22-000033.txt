@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** Management maintains bullish long-term growth guidance (6%–8% EPS CAGR through 2025) despite a GAAP net loss of $451M in Q1 2022 (vs. $1.67B profit YoY). Bullishness is predicated on "Adjusted Earnings," ignoring a $2.9B pre-tax mark-to-market (MTM) loss on non-qualifying hedges at NEER.
+
+• **Hidden Operational Shifts:** Material spike in derivative liabilities; Level 3 instruments now reflect extreme valuation uncertainty. Power forward price unobservable inputs range from $30.08 to $169.50/MWh, while Gas forwards span $2.55 to $11.13/MMBtu, signaling massive volatility exposure in the NEER portfolio.
+
+• **Forward-Looking Nuance:** Management uses "expects" (high confidence) regarding the continued realization of the 2021 FPL Rate Agreement benefits, but "anticipates" (moderate confidence) commodity price volatility impacts. No revision to the 2022–2025 financial expectations despite the Q1 GAAP drawdown.
+
+• **Atypical Risk Factors:** Escalated commodity price risk; the sensitivity of NEER’s non-qualifying hedges to a 10% shift in forward prices represents a $580M–$750M potential impact. Supply chain constraints are implicitly signaled through the widening range of renewable project valuation inputs.
+
+• **Segment-Specific KPI Trajectory:** 
+  - **FPL:** Net Income $875M (+21.5% YoY); outperformance driven by the 2021 Rate Agreement implementation and base rate increases. 
+  - **NEER:** GAAP Net Loss $(1,495)M; operational renewable deployment is currently decoupled from financial reporting due to hedging inefficiencies.
+
+• **Capital Allocation Signals:** $837M in new long-term debt issuance at FPL to fund infrastructure. Quarterly dividend of $1.1B paid, demonstrating commitment to payout despite the headline GAAP net loss. Significant shift in regulatory assets/liabilities following the consolidation of Gulf Power into FPL.

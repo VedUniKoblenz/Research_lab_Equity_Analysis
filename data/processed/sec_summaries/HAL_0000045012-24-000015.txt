@@ -1,0 +1,9 @@
+• **Geographic AR Concentration:** Explicit XBRL isolation of Mexico (MX) for both "Geographic Concentration Risk" and "Customer Concentration Risk" in Accounts Receivable (Contexts c-37, c-39, c-40, c-41). This signals persistent credit exposure and collection volatility associated with PEMEX, representing a high-materiality risk to Days Sales Outstanding (DSO) and operating cash flow predictability.
+
+• **Capital Allocation Velocity:** Common shares outstanding reduced to 885,301,252 (as of April 17, 2024). The continued contraction of the share base confirms management is maintaining an aggressive buyback posture to satisfy the "return of at least 50% of free cash flow" mandate, despite softening North American (NAM) hydraulic fracturing demand.
+
+• **Segment KPI Trajectory:** Reporting structure emphasizes Middle East/Asia (Context c-34) and Latin America (Context c-30) as primary growth engines. These regions are critical for the Drilling and Evaluation (D&E) segment to offset margin compression in NAM Completion and Production (C&P) caused by E&P consolidation and rig count stagnation.
+
+• **Asset Valuation Complexity:** Note 10 (Contexts c-89, c-90) includes Level 3 Fair Value Measurements, suggesting increasing reliance on management-derived estimates for non-observable inputs. This represents a "Hidden Operational Shift" toward more complex valuation models for long-lived assets or legacy liabilities, which can obscure potential impairment triggers.
+
+• **Forward-Looking Confidence:** Heavy indexing of "Commitments and Contingencies" (Note 8) against current debt refinancing contexts indicates a tactical pivot toward managing interest expense and liquidity, rather than speculative R&D or aggressive M&A, in a "higher-for-longer" macro environment.

@@ -1,0 +1,14 @@
+• **Sentiment Divergence:** Management maintains a "bullish" outlook on 5G densification despite an organic tenant billings growth (OTBG) deceleration in the U.S. and Canada to ~3.0%. The disconnect lies in the "speculative" belief in mid-band spectrum deployment speed vs. the "actual" $2.1 billion in churn liabilities related to the T-Mobile/Sprint merger, which creates a multi-year drag not fully offset by new lease activity.
+
+• **Hidden Operational Shifts:** CoreSite integration marks a pivot from passive infrastructure to "active" edge compute; Data Center segment now contributes ~7% of property revenue. Restructuring: Significant bad debt reserves allocated to the Asia-Pacific segment (specifically India/VIL), signaling a tactical withdrawal or de-prioritization of the region. Days Sales Outstanding (DSO) remains elevated in emerging markets, indicating worsening liquidity among Tier-2 tenants.
+
+• **Forward-Looking Nuance:** FY2022 Guidance revised: Property Revenue tightened to $10.3B–$10.48B; Adjusted EBITDA $6.54B–$6.67B. Management "expects" (high confidence) $1.1B in total CAPEX, but only "anticipates" (moderate) the timing of 4,000–5,000 new international builds, suggesting potential supply chain/permitting bottlenecks.
+
+• **Atypical Risk Factors:** Interest Rate Exposure: ~$4.0B in floating-rate debt is unhedged, creating material AFFO sensitivity to SOFR hikes. Modified Risk: Heightened "Technology Obsolescence" threat from Open RAN (O-RAN) and satellite-to-cell (AST SpaceMobile/Starlink) which may reduce future macro-cell colocation requirements.
+
+• **Segment KPIs:** 
+  - U.S./Canada: OTBG 3.0% (impacted by 2.1% churn).
+  - International: OTBG 6.3% (Latin America leads at 8.9%, Africa at 8.7%).
+  - Data Centers: Cash NOI growth projected at 6–8% post-acquisition.
+
+• **Capital Allocation:** Dividend increased 12.5% YoY to $1.40/share; however, share buyback pace has stalled (near-zero Q1) to prioritize de-leveraging toward the 3.0x–5.0x Net Debt/EBITDA target post-CoreSite. Total debt stands at ~$47.4B with a weighted average remaining term of 5.9 years.

@@ -1,0 +1,11 @@
+• **Server Useful Life Extension:** Effective Jan 1, 2025, AMZN modified accounting estimates for the useful life of "Technology Equipment" and "Computer Equipment." This pivot reduces quarterly depreciation expense, providing an inorganic tailwind to AWS and North America operating margins. This shift masks the true capital intensity of GenAI infrastructure spend.
+
+• **Systematic Insider Liquidity:** New/modified Rule 10b5-1 trading arrangements established for key insiders with significant durations: Jeffrey Bezos (451 days), Jonathan Rubinstein (730 days), Keith Alexander (280 days), and Daniel Huttenlocher (274 days). The long-dated nature of the Bezos and Rubinstein plans indicates structural, multi-year selling pressure through 2026.
+
+• **Front-Loaded SBC Drag:** Management expects >50% of the compensation cost related to non-vested share-based awards to be expensed within the next 12 months. This signal suggests an acceleration in vesting schedules or higher-cost refresh grants, creating a significant GAAP margin headwind through Q1 2026 despite "restructuring" optics.
+
+• **Capital Allocation Rigidity:** Despite active commercial paper issuance as of April 30, 2025, the company maintains the March 2022 $10.0B repurchase authorization. The lack of an upsized buyback program despite massive AWS cash flow suggests a prioritisation of AI-related CapEx over immediate shareholder yield.
+
+• **Lease Accounting Pivot:** Significant reclassification of "Finance Lease Right-of-Use Assets" and liabilities into "Property, Plant and Equipment" and "Accrued Liabilities" suggests a shift in how AWS data centers are being financed, moving toward more traditional debt-like structures rather than simple operating expenses.
+
+• **Regulatory Tail Risk:** Persistent focus on the Luxembourg National Commission matter (2021) without resolution indicates a high-probability, high-materiality GDPR settlement risk still pending for the International segment.

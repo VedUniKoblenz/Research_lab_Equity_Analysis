@@ -1,0 +1,11 @@
+• **Segment KPI Pivot:** Formalization of "Property Data Centers" as a core reporting segment (post-CoreSite) shifts focus from pure macro-tower tenancy to hybrid edge-compute metrics. Tracking of "Non-Lease Property Revenue" within Data Centers suggests a push for high-margin interconnection and power pass-through revenue over base rent.
+
+• **International Structural Shift:** Specific context tags for "Joint Venture Bangladesh Operations" and "Subsidiaries in Germany/Spain" (Telxius integration) signal a move toward tiered ownership models to mitigate emerging market risk while maintaining consolidated scale. 
+
+• **Debt Laddering & FX Hedge:** Aggressive laddering of fixed-rate Senior Notes (coupons as low as 0.400% to 1.950% maturing 2025–2033) demonstrates a pre-emptive liquidity lock-in. Utilization of the 2021 Multicurrency Credit Facility suggests a "natural hedge" strategy, matching debt denominations with European and Asian cash flows to neutralize Q2 2022 USD strength.
+
+• **Intangible Sensitivity:** Heavy emphasis on "Acquired Network Location" and "Customer Relationship" amortizable lives (Maximum Member tags) indicates a heightened risk of accelerated impairment if carrier consolidation in Asia-Pacific or Europe triggers significant site decommissioning (churn).
+
+• **Capital Structure Nuance:** Significant activity in "Noncontrolling Interest" and "Additional Paid-In Capital" accounts suggests strategic minority buyouts or equity injections at the subsidiary level, potentially to deleverage the parent balance sheet without diluting common equity.
+
+• **Operational Concentration:** Increased granularity in "Network Development Services" vs. "Property Revenue" across all geographies indicates management is decoupling volatile construction/installation income from the high-multiple recurring lease revenue to defend valuation.

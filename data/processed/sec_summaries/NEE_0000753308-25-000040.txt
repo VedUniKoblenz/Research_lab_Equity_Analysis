@@ -1,0 +1,13 @@
+• **Capital Allocation Signal**: Aggressive utilization of high-cost hybrid financing; Corporate Units issued in three distinct tranches with coupons of 6.926%, 7.234%, and 7.299%. This indicates a strategic pivot to equity-linked debt to defend "A" range credit ratings despite elevated interest expense, signaling a higher cost of capital floor for new renewables originations.
+
+• **Sentiment Divergence**: Management maintains "high confidence" in 6%–8% adjusted EPS growth through 2027, yet the valuation of the power derivative portfolio has shifted significantly toward Level 3 "unobservable" inputs. Specifically, "Forward Contracts Congestion" and "Option Contracts Power" now rely on internal discounted cash flow models using speculative "Implied Correlations" and "Implied Volatilities," suggesting reported earnings are increasingly sensitive to management’s internal price curves rather than liquid market data.
+
+• **Hidden Operational Shifts**: Transition in supply chain risk management reflected in "TrdArrDuration" metrics of 365, 325, and 268 days. These specific intervals suggest a laddered procurement strategy for solar components and battery storage, likely aimed at bypassing short-term tariff volatility, but locking in higher-than-spot costs for the next 12 months.
+
+• **Segment-Specific KPIs**:
+  - **FPL**: Customer concentration risk is explicitly narrowed to "Retail Customers" as the primary driver of Sales Revenue Net, signaling vulnerability to Florida’s residential migration trends over commercial/industrial load.
+  - **NEER**: Valuation of the derivative book is now materially tethered to "Forward Price" unobservables in nodal markets. The shift in "Derivative Liability Noncurrent" suggests a lengthening of the hedge horizon beyond 2026, potentially capping upside in a high-power-demand AI/Data Center macro environment.
+
+• **Atypical Risk Factors**: New emphasis on "Variable Interest Entity" (VIE) primary beneficiary status for renewable projects. This implies a more complex off-balance-sheet structure that could mask the true debt-to-equity ratio if project-level performance triggers consolidation requirements.
+
+• **Forward-Looking Nuance**: Management distinguishes "expectations" for 365-day operational cycles against "anticipated" shifts in regulatory exposure, indicating higher confidence in physical supply chain execution than in the outcome of pending Florida regulatory rate proceedings.

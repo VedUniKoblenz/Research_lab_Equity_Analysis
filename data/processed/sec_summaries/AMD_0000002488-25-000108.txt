@@ -1,0 +1,12 @@
+• **Strategic Divestiture Signal**: Management has officially designated "ZT Manufacturing" as a disposal group held for sale (Context c-97) immediately following the ZT Systems acquisition. This confirms a high-conviction pivot to asset-light AI systems integration, offloading the lower-margin $10B+ manufacturing revenue stream to focus on silicon-software co-optimization.
+
+• **Hidden Operational Shift**: Massive concentration of liquidity into Level 2 Corporate Debt and Asset-Backed Securities ($1.2B+ equivalent range across c-174, c-184) suggests a shift in treasury management to offset acquisition-related debt servicing costs for the 2052 Senior Notes.
+
+• **Forward-Looking RPO Nuance**: New "Transferred Over Time" revenue tags (c-57, c-58) for the Data Center segment indicate a fundamental transition from hardware sales to recurring AI-as-a-service or multi-year compute capacity software-defined contracts.
+
+• **Debt Profile & Capital Allocation**: AMD has locked in a laddered long-term debt structure with coupons ranging from 4.212% (2026) to 4.393% (2052). The inclusion of 30-year paper (c-136) signals a permanent shift in capital structure to support "Other Acquisitions" (c-100) focused on Embedded and Data Center IP.
+
+• **Segment KPI Trajectory**:
+  - **Data Center**: High RPO duration focus suggests 12-24 month backlog visibility.
+  - **Embedded**: Increased "Developed Technology Rights" intangibles (c-113) point to aggressive node migration for Xilinx-derived AI engines.
+  - **Client/Gaming**: Divergence in "Customer Relationships" valuations suggests legacy gaming console backlog is being de-prioritized in the R&D budget for Ryzen/Instinct cross-pollination.

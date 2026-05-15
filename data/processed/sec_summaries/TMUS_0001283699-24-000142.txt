@@ -1,0 +1,7 @@
+• **Converged Infrastructure Pivot:** Aggressive capital reallocation toward fiber JVs; committed $4.9B for Metronet (expected close 2025) and ~$950M for Lumos (expected close Q1 2025), signaling a definitive shift from pure-play wireless to a multi-access converged model.
+• **Receivables Intensity:** Gross Equipment Installment Plan (EIP) receivables surged to $10.518B from $9.453B at FYE23 (+11.3% in 9 months), indicating heightened handset subsidy/financing intensity to maintain net add momentum.
+• **Credit Quality Monitoring:** Subprime EIP exposure maintained at 10% of total ($1.04B); however, total past-due EIP receivables reached $511M (4.8% of gross), with $311M in the 1-30 day bucket, signaling potential consumer credit tightening.
+• **Spectrum Optimization:** Capitalized $3.5B in Auction 108 licenses; executed an undisclosed spectrum exchange transaction on Oct 15, 2024 (subsequent event), suggesting proactive portfolio re-farming ahead of UScellular integration.
+• **M&A Execution:** Ka’ena (Mint Mobile) consideration finalized at $1.241B ($463M cash / $778M equity) with a $440M contingent earn-out; UScellular acquisition ($4.4B) remains on track for mid-2025 close.
+• **Debt/Derivative Profiling:** Shifted risk profile via new Senior Notes tranches (3.550% to 3.850%) and $3.5B in cross-currency swaps to hedge Euro-denominated obligations, tightening interest rate sensitivity.
+• **KPI Trajectory:** Postpaid ARPU support relies on "Go5G" tier migration to offset the $1.0B+ increase in equipment financing burden.

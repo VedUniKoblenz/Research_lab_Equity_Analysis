@@ -1,0 +1,9 @@
+- **Mounjaro Ramp:** US revenue reached $187.3M in its first full quarter post-launch; management tone suggests demand is outstripping supply capacity, indicating potential near-term revenue caps despite high physician uptake.
+- **Alimta Patent Cliff:** US revenue collapsed 85% YoY to $63.3M following May 2022 generic entry; the velocity of erosion exceeds standard pharmaceutical decay models, creating a high-margin revenue hole.
+- **Guidance Downward Revision:** FY2022 non-GAAP EPS guidance lowered to $7.70–$7.85 (from $7.90–$8.05). Critically, this revision is 100% driven by FX headwinds and IPR&D charges rather than demand-side weakness, suggesting a hidden "beat" on operational performance.
+- **Sentiment Divergence (Trulicity):** Management remains bullish on Trulicity ($1.85B, +1% YoY), but raw data shows a significant 10% decline in realized price in the US due to changes in segment mix and higher rebating, signaling intensifying PBM pressure.
+- **R&D Pivot:** Q3 R&D spend surged 14% to $1.80B (26% of total revenue); focus has shifted aggressively toward late-stage Alzheimer’s (Donanemab) and Immunology (Lebrikizumab) to mitigate the Alimta revenue vacuum.
+- **Capital Allocation Shift:** Share repurchases halted in Q3 ($0 vs. $1.5B in H1 2022). This abrupt pause suggests management is prioritizing capital for manufacturing expansion (Mounjaro capacity) and debt reduction ($1.0B repaid in Q3).
+- **FX Vulnerability:** Revenue growth was negatively impacted by 4% ($283M) in Q3 due to USD strength; Yen and Euro exposure remains the primary risk to OUS operating margins for Q4.
+- **Inventory Buildup:** Finished goods inventory rose $540M YTD; likely strategic safety-stocking for the tirzepatide (Mounjaro) global rollout to preempt supply chain shocks.
+- **KPI Segment Trajectory:** Verzenio (+43%) and Jardiance (+47%) are now the primary growth engines, effectively decoupling LLY’s valuation from legacy oncology products.

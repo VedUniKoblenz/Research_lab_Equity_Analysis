@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** Management maintains a bullish "Pro-led recovery" narrative despite a -4.1% comparable sales decline. Tone emphasizes "Spring seasonal strength" to offset a persistent high-single-digit drop in DIY discretionary transactions, suggesting over-reliance on a segment (Pro) that is historically more sensitive to credit tightening.
+
+• **Hidden Operational Shifts:** Inventory levels aggressively reduced to $18.32B from $20.08B at FYE, a $1.76B (8.8%) sequential drawdown. This signal suggests management is bracing for lower sell-through velocity in Q2/Q3. Accounts Payable-to-Inventory ratio is tightening, indicating less favorable supplier leverage or a shift toward just-in-time replenishment for big-ticket items.
+
+• **Forward-Looking Nuance:** Management "expects" (high confidence) FY24 Total Sales of $84B–$85B and Comparable Sales of -2.0% to -3.0%. However, they only "anticipate" (moderate confidence) a recovery in the back half of the year, contingent on "macro-stabilization," introducing significant execution risk if rates remain elevated.
+
+• **Capital Allocation Signals:** Repurchased 3.0M shares for $743M in Q1, a decelerating pace compared to peak 2022/2023 levels, yet total shares outstanding were reduced to 569,835,275 as of 5/28/24. Dividend outlay remains static at $633M. Heavy reliance on Fixed-to-Floating Interest Rate Swaps noted to manage the $35B+ debt load.
+
+• **Segment-Specific KPIs:** 
+  - **Comparable Sales:** -4.1% (surpassed consensus estimate of -5.0%, providing a "less-bad" signal).
+  - **AOV (Average Order Value):** Remained resilient due to Pro-mix and inflation, but traffic (transaction count) remains the primary negative driver.
+
+• **Atypical Risk Factors:** Materially modified risk language regarding "prolonged housing turnover stagnation." Management identifies specific vulnerability in "big-ticket DIY" (> $500), particularly in flooring and kitchen categories, which are now flagged as high-risk for multi-quarter softness.

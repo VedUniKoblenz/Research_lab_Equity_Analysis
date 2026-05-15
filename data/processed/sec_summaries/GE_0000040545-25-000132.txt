@@ -1,0 +1,9 @@
+• **Capital Allocation Pivot:** GE Aerospace has transitioned to a duration-extension strategy in its debt profile, evidenced by the issuance of new Senior Notes maturing in 2030 and 2036. Treasury stock movements suggest an accelerated buyback pace for the 2025 fiscal year compared to 2024 levels, targeting aggressive share count reduction.
+
+• **Segment KPI Trajectory:** Commercial Engines and Services RPO (Remaining Performance Obligations) continues to outpace Defense and Propulsion Technologies, signaling a high-margin service revenue tailwind. Defense segment deliveries remain lumpy, with a specific focus on "Defense and Propulsion Technologies" restructuring as a standalone growth driver.
+
+• **Hidden Operational Shifts:** Aggressive working capital management is visible through the "Supplier Finance Program" (context f-908), now explicitly mapped to Accounts Payable. This indicates a reliance on supply chain financing to optimize Free Cash Flow (FCF) despite rising rates. Canadian Life and Health Insurance adjustments (context c-185, Feb 2025) suggest a tactical pivot or disposal within the runoff portfolio to de-risk the balance sheet.
+
+• **Atypical Risk Factors:** Bank BPH (Poland) litigation remains a persistent, material tail risk within discontinued operations (context c-84), with no definitive settlement range provided. Long-term care (LTC) insurance runoff liabilities (context c-165) show sensitivity to "Scenario Forecast" adjustments for 2025, potentially indicating a non-cash charge if interest rate assumptions diverge from the current 2025 trajectory.
+
+• **Investment Exposure:** The valuation of AerCap Holdings NV (context c-106) remains a volatile alpha signal; any disposal of this equity method investment provides a significant liquidity bridge for unforecasted R&D spending in "Defense/Propulsion" projects.

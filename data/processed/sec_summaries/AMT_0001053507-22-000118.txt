@@ -1,0 +1,11 @@
+• **Asia-Pacific Counter-Signal:** Property revenue in Asia-Pacific fell ~24% YoY ($241M vs $316M) driven by credit-related impairment from a major Indian customer (VIL). Management maintains "speculative" recovery expectations despite a $39M increase in bad debt reserves this quarter, signaling a significant delta between operational "stability" rhetoric and actual cash collection.
+
+• **Strategic De-risking (Data Centers):** Completion of Stonepeak’s $2.5B investment for a 29% stake in the U.S. Data Center business provides a crucial valuation floor ($8.6B implied) for the CoreSite acquisition assets. This shift converts the segment from a wholly-owned growth engine to a joint-venture structure, signaling a pivot toward capital-efficient scaling over full equity ownership.
+
+• **Operational KPI Divergence:** U.S. & Canada Organic Tenant Billings (OTB) growth suppressed by T-Mobile/Sprint churn ($40M impact), netting to ~1%. Conversely, International OTB growth remains robust at ~6.5% (Africa/LatAm), but is largely offset by a $120M+ FX headwind due to the strengthening USD, masking underlying performance.
+
+• **Capital Allocation & Debt Nuance:** Debt profile heavily laddered with new Senior Note issuances (2025, 2026, 2033) to term out floating-rate revolvers. However, interest expense rose ~25% YoY to $312M; with ~13% of debt still floating-rate, the sensitivity to SOFR increases represents a material AFFO drag not fully reflected in prior directional guidance.
+
+• **Dividend vs. Churn Risk:** Pace of dividend increases (up ~12.5% YoY) remains the primary support for REIT status, yet the "we expect" confidence in long-term churn normalization is challenged by the persistence of the $1.1B total RPO (Remaining Performance Obligation) being concentrated in domestic MNOs undergoing consolidation.
+
+• **Materially Modified Risk:** Elevated sovereign risk in African and European segments due to energy cost pass-through lag; contractual escalators are failing to keep pace with localized inflation, threatening segment EBITDA margins.

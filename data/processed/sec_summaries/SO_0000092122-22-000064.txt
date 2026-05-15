@@ -1,0 +1,11 @@
+• **Vogtle Execution Risk:** Georgia Power (CIK 0000041091) quantifies a specific 3-month (P3M) "Loss of Productivity" contingency term. This represents a material quantitative divergence from management’s qualitative operational timelines, signaling high probability of further Commercial Operation Date (COD) slippage for Units 3 & 4.
+
+• **Interest Rate Reset Volatility:** Southern Co's pivot to "Fixed-to-Fixed Reset Rate" structures (notably Series 2021B Junior Subordinated Notes) introduces non-linear interest expense risk. Unlike legacy fixed-rate debt, these instruments create significant tail-risk exposure to the 10Y/30Y Treasury curve resets in a high-inflation environment.
+
+• **Revenue Backlog Burn:** Remaining Performance Obligations (RPO) schedules indicate a front-loaded satisfaction curve. High-confidence revenue is concentrated in the immediate 3-month window (Period 1), with a sharp drop-off in subsequent 1-year tranches, suggesting a potential revenue plateau in late FY23 unless new long-term PPAs are secured.
+
+• **Segment Margin Compression:** Financial data across "Natural Gas Regulated" and "Electricity Purchased" cost members show escalating input volatility. Regulatory lag in fuel cost recovery mechanisms across Georgia and Alabama Power jurisdictions suggests temporary Net Interest Margin (NIM) and efficiency ratio deterioration not yet fully reflected in trailing EPS.
+
+• **Wholesale Pivot:** Alabama Power (CIK 0000003153) shows increasing volume in "Wholesale Non-Affiliate" contracts. This shift toward merchant-exposed revenue tranches marks a departure from traditional regulated base-load stability, increasing the ticker's sensitivity to regional spark spreads.
+
+• **Hybrid Capital Concentration:** Extensive use of Junior Subordinated Notes (Series 2017B, 2020A, 2020C, 2021B) across subsidiaries functions as "stealth leverage." This strategy optimizes the balance sheet for credit ratings but increases equity-holder vulnerability to credit spread widening and subordination risk.

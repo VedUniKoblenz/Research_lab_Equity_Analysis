@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** Management maintains a 6.5% dividend yield target and bullish long-term EPS growth CAGR of 6–10% through 2026, despite a significant $233M decrease in Q1 2022 net income ($711M vs. $1,005M YoY). Divergence exists between "strong demand" rhetoric and a 1.9% decrease in VEPCO electric sales (GWh) caused by milder weather, partially offset by 2.2% weather-normalized growth.
+
+• **Hidden Operational Shifts:** Material spike in deferred fuel assets; VEPCO fuel regulatory assets reached $1.2B as of March 31, 2022, reflecting under-recovery of rising commodity costs. Inventory risk pivot: Natural Gas reserves fair value inputs utilize unobservable Level 3 market prices ranging $2–$6/MMBtu; Electricity FTRs (Financial Transmission Rights) modeled at $30–$85/MWh, indicating high sensitivity to PJM market volatility.
+
+• **Forward-Looking Nuance:** Management "expects" (high confidence) the $690M sale of Hope Gas to Ullico to close in mid-2022. They "believe" (speculative) the Coastal Virginia Offshore Wind (CVOW) project remains on track for 2026 completion despite global supply chain pressure. Total 2022–2026 capital plan solidified at $37B, with 90%+ allocated to "clean energy" transitions.
+
+• **Atypical Risk Factors:** Materially modified risk regarding the Virginia Clean Economy Act (VCEA); non-compliance with RPS targets now carries specific "deficiency payments" risk if offshore wind or solar milestones slip. Escalated macroeconomic vulnerability: Rising interest rates directly impact the $1.9B variable-rate debt exposure not currently hedged by swaps.
+
+• **Segment KPI Trajectory:** 
+   - VEPCO: Residential customer count increased 1.1% YoY; however, average residential revenue per customer decreased 3.4% due to decoupling mechanisms.
+   - Gas Distribution: 18.5% increase in EBIT for Gas Distribution segment ($314M) driven by new base rates in Utah/Idaho.
+
+• **Capital Allocation:** Repurchased 1.3M shares for $101M in Q1 2022; pace slowed relative to post-Questar sale expectations. Total debt increased to $36.6B; VEPCO issued $1.0B in 2.45% and 3.30% senior notes to refinance short-term commercial paper. Proceeds from $1.975B Questar sale primarily used for debt reduction and solar project Hardin I acquisition.

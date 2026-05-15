@@ -1,0 +1,9 @@
+• **Loss Contingency Accrual Rate:** Management has calibrated the loss contingency accrual at a specific **33%** threshold (Ref: `jnj:LossContingencyAccrualPercentage`), signaling a quantitative shift in legal risk modeling, likely tied to finalized settlement frameworks for talc-related liabilities.
+
+• **R&D Hedge Sensitivity:** Unusual intensity in hedging "Research and Development Expense" using both **Interest Rate Swaps** and **Cross-Currency Interest Rate Contracts** (Contexts c-63, c-83, c-93, c-98). This indicates a high proportion of the clinical pipeline is currently exposed to non-USD jurisdictions, making R&D costs highly sensitive to interest rate differentials rather than just currency fluctuations.
+
+• **Asset Composition Pivot:** Balance sheet shows a heavy weighting toward **Purchased In-Process Research and Development (IPR&D)** and **Indefinite-Lived Intangible Assets** (Contexts c-47, c-48) over developed patents. This suggests Q1 2026 growth is inorganic and reliant on the valuation of non-commercialized assets.
+
+• **Debt Maturity Clustering:** Multi-tranche debt profile confirms a cluster of refinancing risks between **2028 and 2033**, with coupons ranging from **0.95% (Notes due 2027)** to **6.95% (Notes due 2029)**. The aggressive use of Fair Value Hedging (Contexts c-61 to c-70) on these tranches suggests a defensive posture against sustained higher interest rates.
+
+• **Derivative/Income Interaction:** Management is actively designating derivatives as **Net Investment Hedging** for Sales and COGS (Contexts c-71, c-72), moving FX volatility directly into Other Comprehensive Income (OCI) rather than the P&L, potentially masking operational margin compression.

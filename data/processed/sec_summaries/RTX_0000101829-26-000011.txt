@@ -1,0 +1,11 @@
+• **Capital Allocation Signal**: Aggressive deleveraging of near-term paper; RTX executed a full redemption of the 5.000% Notes due 2026 on February 27, 2026 (Context c-71), ahead of the Q1 2026 close. This indicates a pivot toward interest expense reduction and high confidence in internal liquidity despite ongoing GTF outlays.
+
+• **Sentiment Divergence (Litigation Friction)**: Management continues to classify U.S. Defense Contract Management Agency (DCMA) claims as "disputes," but the filing reveals a compounding trend with a second major claim filed in late 2024 (Context c-202) and a third in late 2023 (Context c-208). The persistence of five separate DCMA claims (2013–2024) suggests a structural breakdown in pricing negotiations with the DoD that contradicts "strong partnership" narratives.
+
+• **Hidden Operational Shift (Asset Quality)**: Extreme concentration in deal-derived intangibles vs. organic IP. Finite-lived assets are dominated by Collaboration assets (~$26.4B) and Customer Relationships (~$19.5B), dwarfing Developed Technology Rights (~$6.8B) (Context c-58-65). This ~$46B deal-premium-to-tech ratio signals a high-risk dependency on legacy contract renewals and JV stability rather than proprietary R&D breakthroughs.
+
+• **Forward-Looking Risk Nuance**: The August 2024 Trade Compliance Consent Agreement includes a "Suspensible Portion" (Context c-215). This represents a latent financial cliff where specific compliance milestones must be met by late 2026 to avoid triggering significant deferred penalties that would impact Raytheon segment margins.
+
+• **Segment KPI Trajectory (Pratt & Whitney)**: The PW1100GTF Program (Powder Metal) remains the primary drag. While management focuses on "inspection recovery," the repeated litigation contexts (c-197, c-221) for "Powder Metal Disclosure" and associated "Contract Pricing Disputes" (DPA2) suggest that the total cost of engine remediation is increasingly entangled with federal pricing audits, likely lengthening the cash-drag tail.
+
+• **Regulatory Exposure**: Dual Deferred Prosecution Agreements (DPA1, DPA2) from October 2024 (Context c-195, c-212) regarding ThalesRaytheon and contract pricing have established a high-scrutiny operational environment through 2027, limiting flexibility in international sales and procurement scaling.

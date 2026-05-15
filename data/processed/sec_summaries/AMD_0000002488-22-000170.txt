@@ -1,0 +1,7 @@
+• **Inventory Glut/Days Sales:** Inventory surged to $3.37B (up 73% vs. YE21), significantly outstripping the 30% revenue growth. This indicates a massive Client-side overhang. $160M in charges recorded for graphics/PC inventory write-downs.
+• **Client Segment Inflection:** Revenue collapsed 40% YoY to $1.02B. More critically, the segment swung to a $26M operating loss from a $490M profit (Q3'21), signaling a total loss of pricing power and high fixed-cost deleveraging in the PC channel.
+• **Margin Divergence:** Data Center revenue rose 45% ($1.61B), but operating margin contracted to 31% (vs. 34% YoY). Operating leverage is being offset by aggressive R&D scaling ($1.28B total, +68% YoY) and Pensando integration costs.
+• **Embedded Support:** Xilinx (Embedded segment) is now the primary cash cow, contributing $1.3B in revenue with 49% operating margins. Without this acquisition, AMD’s consolidated operating income would have been negative on a GAAP basis.
+• **Supply Chain Lock-in:** Total purchase commitments and prepayments remain elevated at $4.4B. High risk of "take-or-pay" penalties if Client demand continues to deteriorate below reserved capacity at TSMC.
+• **Capital Allocation Shift:** Share buybacks decelerated to $617M in Q3 from $920M in Q2, a ~33% reduction, suggesting management is pivoting to cash preservation as FCF yields tighten.
+• **Receivables Risk:** Accounts receivable jumped to $4.6B from $2.7B at YE21. DSO (Days Sales Outstanding) is stretching, implying extended payment terms to support channel partners during the PC downturn.

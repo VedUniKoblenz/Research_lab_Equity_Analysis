@@ -1,0 +1,15 @@
+**TMUS Q2 2023 Quantitative Alpha Summary**
+
+*   **Sentiment Divergence:** Management maintains bullish long-term guidance despite a notable decline in total revenue ($19.2B vs $19.7B YoY). Divergence is driven by a pivot from equipment sales to high-margin service revenue; equipment revenue fell ~23% YoY, signaling a deliberate shift in subscriber acquisition cost (SAC) strategy.
+*   **Hidden Operational Shifts:**
+    *   **EIP Credit Quality:** Total EIP receivables at $10.16B. Subprime concentration in early-stage delinquency is disproportionate: $421M in 1-30 days past due (Subprime) vs. only $166M (Prime), suggesting latent credit risk in the installment portfolio.
+    *   **Receivables Liquidity:** Aggressive use of off-balance sheet financing via EIP securitization and factoring; $3.9B in EIP receivables sold to third parties in H1 2023 to optimize cash flow.
+*   **Capital Allocation Signals:**
+    *   **Aggressive Buybacks:** Treasury stock increased from $7.7B (12/31/22) to $13.7B (06/30/23), indicating $6B in H1 repurchases, a significant acceleration of the $14B authorization.
+    *   **Debt Restructuring:** $4.8B Senior Notes issued in May 2023 (tranches due 2028, 2033, 2054) to refinance shorter-term maturities and fund buybacks, locking in long-dated capital despite high rates.
+*   **Segment KPI Trajectory:**
+    *   **Postpaid Service Revenue:** $12.1B (up 5% YoY), the primary alpha driver.
+    *   **Churn Benchmark:** Postpaid phone churn remains low at 0.77%, outperforming peers and validating "Un-carrier" retention in a macro-tightening environment.
+*   **Atypical Risk Factors:**
+    *   **Spectrum Contingency:** $3.5B commitment for Auction 108 licenses remains pending FCC grant.
+    *   **M&A Integration:** $1.35B Ka’ena (Mint Mobile) acquisition increases exposure to the prepaid MVNO segment, pivoting toward mid-market value capture.

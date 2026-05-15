@@ -1,0 +1,9 @@
+• **Debt Duration Pivot:** Aggressive restructuring of the maturity wall via tender offers for notes due 2025–2028 (coupons 0.875%–3.250%) and $1.52B in commercial paper utilization. Offsetting this via high-frequency Asset-Backed Securitization (ABS); $1.25B January 2024 issuance (Series 2024-1/2) across Senior (Class A) and Junior (Class B/C) tranches signals heavy reliance on device-receivable recycling to sustain liquidity.
+
+• **Revenue Recognition Mismatch:** Internal capitalized contract cost amortization remains fixed at P2Y (2 years), yet RPO (Remaining Performance Obligation) data reveals a front-loaded satisfaction curve of 9 months for the primary current period. This suggests a disconnect between accounting-based customer life assumptions and actual service delivery speed/churn risk.
+
+• **Operational Liquidity Buffers:** Maintenance of $1.15B in equipment credit facilities and "Alternative Financing Facilities" specifically for network equipment indicates management is shielding the primary balance sheet from CapEx-related debt by using vendor-specific and asset-backed credit lines.
+
+• **Credit Quality Segmentation:** Explicit quantitative tracking of "New Customer" vs. "Existing Customer" risk for device payment plan receivables. Increased granularity in billing status (Unbilled vs. Billed vs. Past Due) indicates defensive monitoring of the consumer credit cycle as device ASPs remain high.
+
+• **Spectrum Drag:** Ongoing "projected clearing costs" for C-Band spectrum licenses continue to impact cash flow, with indefinite-lived wireless licenses remaining the dominant, non-amortizing asset, creating a high-sensitivity point for future impairment tests if interest rates remain elevated.

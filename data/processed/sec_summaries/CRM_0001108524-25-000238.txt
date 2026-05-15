@@ -1,0 +1,11 @@
+• **Structural Rebranding Pivot:** Total replacement of legacy "Cloud" nomenclature (Sales/Service Cloud) with "Agentforce" across all primary revenue segments in reporting (Agentforce Sales, Agentforce Service, Agentforce 360 Platform, Agentforce Marketing/Commerce). Signals a fundamental shift in unit economics from per-seat licensing to agent-based consumption/utility models.
+
+• **Persistent Restructuring:** Recognition of ongoing "Restructuring Charges" in Q3 FY26 (Context c-33, c-35). Indicates that the "Year of Efficiency" has transitioned into a permanent operational state, with management continuing to trade legacy headcount for AI-focused R&D investment.
+
+• **Revenue Recognition Shift:** New emphasis on "Transferred At Point In Time" (Context c-171, c-173) vs. traditional "Transferred Over Time" (Subscription). This divergence is a lead indicator for AI usage fees and credits becoming a material portion of the total revenue mix, potentially increasing top-line volatility.
+
+• **Investment Concentration:** Strategic investment risk is now concentrated in just 3-4 privately held entities (Context c-120, c-121), down from a broader portfolio. This suggests a "king-making" strategy in the AI ecosystem but increases balance sheet vulnerability to specific valuation markdowns.
+
+• **Capital Allocation Priority:** Treasury stock entries (Context c-38, c-49, c-61, c-71) confirm an aggressive, systematic share buyback pace maintained through Q3, prioritizing EPS support over M&A or debt reduction despite high-interest environments.
+
+• **Geographic Asset Concentration:** Shift in long-lived asset reporting between US and Non-US (Context c-116, c-118) suggests a material rebalancing of data center footprint or IP localization, likely in response to escalating global data residency regulations.

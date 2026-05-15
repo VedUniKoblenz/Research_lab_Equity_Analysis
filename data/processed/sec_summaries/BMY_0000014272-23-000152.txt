@@ -1,0 +1,9 @@
+• **Revenue Erosion vs. Sentiment:** Total revenue declined 6% YoY ($11.2B vs. $11.9B), revealing a widening gap that management's "New Product Portfolio" (NPP) optimism cannot yet bridge. NPP grew 79% to $862M but offsets less than 15% of the $715M quarterly decline in Revlimid ($1.47B, -33% YoY).
+• **Hidden Royalty Cliff:** Forward-looking scenario forecasts for Keytruda royalties (2024–2026) signal a material step-down in cash flow post-2023. Contractual shifts with Ono Pharmaceutical and Merck regarding PD-1 IP indicate a transition from high-margin passive income to reliance on lower-margin internal launches.
+• **R&D Intensity Pivot:** Q2 R&D spend held flat at $2.3B despite a 6% top-line contraction, driving a ~130bps increase in R&D-to-revenue intensity. This signals a non-discretionary pivot to accelerate mid-stage assets (TYK2, Camzyos) to combat accelerating LOE (Loss of Exclusivity) pressure.
+• **Operational Restructuring:** Implementation of the "2023 Restructuring Plan" specifically targets "shutdown costs" and "termination benefits," suggesting a more aggressive footprint consolidation than previously telegraphed in FY guidance.
+• **Segment KPI Divergence:** 
+  - **Eliquis:** $3.2B (+7%), maintains dominance but growth is plateauing in the US.
+  - **Opdualag/Abecma:** Emerged as primary alpha drivers ($154M and $132M respectively), yet Camzyos ($46M) and Sotyktu ($25M) ramps are lagging behind speculative management "confidence."
+• **Capital Allocation Agility:** $3.2B in H1 share repurchases coupled with the $4.1B Nimbus TYK2 acquisition marks a high-velocity cash burn. Debt levels remain sensitive as the company balances a 4% dividend yield against aggressive M&A for pipeline replenishment.
+• **Gross-to-Net (GTN) Pressure:** Q2 GTN adjustments reached $4.4B (28% of gross sales), indicating intensifying payer rebate pressure in the US cardiovascular and oncology segments.

@@ -1,0 +1,10 @@
+• **2024 Restructuring Plan Pivot:** Management accelerated a new "2024 Restructuring Plan" in June, significantly broader than the 2023 plan. Recognized $84M in restructuring charges in Q2 alone; total expected charges of $110M–$130M signal aggressive margin protection amid top-line stagnation.
+• **Sentiment Divergence (Fiber):** Despite bullish management commentary on small cell demand, Fiber segment site rental revenue fell 9% YoY ($564M vs $620M). Growth is currently decoupled from deployment volume due to Sprint non-renewals ($44M headwind in Q2).
+• **Interest Expense Escalation:** Interest expense rose to $233M in Q2 (up 11% YoY). New debt issuances at 5.600% and 5.800% are replacing lower-coupon maturing paper, creating a persistent drag on AFFO that management "expects" (high confidence) to continue through 2025.
+• **Dividend Coverage Fragility:** Q2 AFFO of $1.62/share provides slim coverage for the $1.565/share dividend (96.6% payout ratio). Any further operational slippage or interest rate spikes threatens the current distribution level.
+• **Segment KPI Trajectory:**
+  - **Towers:** Organic site rental growth held at 4.5%, but GAAP revenue fell to $1.02B from $1.10B YoY.
+  - **Fiber/Small Cells:** Small cell node backlog remains high at ~40,000 units, but revenue conversion is decelerating; management revised "anticipated" (moderate confidence) 2024 organic fiber revenue growth to ~2%.
+• **Fiber Strategic Review:** Filing explicitly notes the ongoing "strategic review of the fiber business," with $11M in professional fees incurred in Q2, indicating advanced-stage negotiations or complex carve-out planning.
+• **Capital Allocation:** Discontinued discretionary share buybacks (zero activity in Q2). Capex prioritized for small cell co-location ($1.1B YTD) to offset tower churn.
+• **Atypical Risk Factor:** New emphasis on "concentration of customers" risk as top three carriers (T-Mobile, AT&T, Verizon) now represent 75% of total revenue, with T-Mobile’s post-merger site decommissioning still contributing to $125M–$135M in projected full-year churn.

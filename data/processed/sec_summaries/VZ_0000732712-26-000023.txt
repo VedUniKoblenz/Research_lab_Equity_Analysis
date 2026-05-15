@@ -1,0 +1,9 @@
+• **M&A Aggression:** Massive structural pivot via concurrent integration of Frontier Communications and Starry Group Holdings (Q1 2026). Shift indicates a move toward total fixed-mobile convergence and high-frequency FWA dominance.
+• **Cost of Capital Spike:** Management issued high-coupon Junior Subordinated Notes (due 2056) at 6.745% and 7.166%. Acceptance of 7%+ financing suggests aggressive leverage appetite to fund the Frontier closing despite elevated macro rates.
+• **Liquidity Engineering:** Heavy reliance on Asset-Backed Securitization (Series 2026-1) for device payment plan receivables. Immediate pivot to ABS (Class A, B, and C tranches) indicates a strategic move to off-load credit risk and accelerate cash flow from the device portfolio.
+• **Asset Pivot:** Successful absorption of UScellular spectrum licenses (Oct 2024 deal) now reflecting in Indefinite Lived Intangible Assets; focus shifts to mid-band capacity integration.
+• **Segment KPI Trajectory:** 
+  - **Consumer:** Shift in Fiber Broadband metrics post-Frontier; priority on "FiberBroadbandServices" over legacy copper.
+  - **Business:** Wireless Postpaid contract stability vs. pricing pressure in "Mobility Services" wholesale resellers.
+• **Risk Escalation:** Material modification of technology risks focused on "TechnologyBasedIntangibleAssets" and "NonNetworkInternalUseSoftware" (amortization P1Y), signaling faster obsolescence cycles in 6G-ready infrastructure.
+• **Capital Allocation:** Preferred use of Alternative Financing Facilities for network equipment over traditional debt issuance to maintain balance sheet optics during M&A integration.

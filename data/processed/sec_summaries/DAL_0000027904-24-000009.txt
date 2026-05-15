@@ -1,0 +1,8 @@
+• **Debt Maturity Wall:** Massive concentration of unsecured debt and SkyMiles notes maturing between late 2024 and 2027. Specifically, Payroll Support Program loans and Unsecured Notes have critical maturity windows starting 12/31/2024 through 2028. SkyMiles-backed debt shows a long-tail maturity reaching 2045, signaling high long-term encumbrance of the loyalty asset.
+• **Segment KPI Trajectory:** 
+  - **Loyalty/SkyMiles:** Divergence in revenue recognition between "Passenger Loyalty Travel Awards" and "Other Loyalty Program" revenue suggests a shift in how Delta is monetizing the American Express partnership versus internal award redemptions.
+  - **Refinery:** "Product and Service Other Refinery" revenue remains a volatile swing factor in OpEx offsets; settlement gains on energy-related derivatives are now being tracked as distinct mark-to-market components.
+• **Equity Investment Risk:** Material exposure to international partner equity (Hanjin KAL, LATAM, AeroMexico, Air France-KLM) creates significant non-operating P&L volatility. LATAM and Hanjin KAL are highlighted as primary FV (Fair Value) measurement recurring risks.
+• **Capital Allocation:** Reinstatement of dividend cadence (April and June Member payments) indicates a pivot from pure debt reduction to total shareholder return, despite the upcoming 2024-2025 debt maturities.
+• **Operational Shift:** Substantial move toward "Ancillary Businesses" and "Miscellaneous" revenue streams under the "Other" segment, potentially masking domestic seat-mile yield pressure. 
+• **Asset Encumbrance:** Debt structure confirms the SkyMiles program and NYTDC Special Facilities are heavily levered, limiting flexibility for new secured issuances in the current rate cycle.

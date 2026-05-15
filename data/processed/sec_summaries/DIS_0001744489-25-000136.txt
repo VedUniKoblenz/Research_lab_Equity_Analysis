@@ -1,0 +1,11 @@
+• **Aggressive Capital Return Acceleration:** Treasury stock balance surged to 71M shares from 47M at FYE24. This +51% increase in held shares reflects a massive acceleration in the repurchase pace during Q3, suggesting management views current valuations as significantly disconnected from intrinsic value despite macro headwinds.
+
+• **Imminent Refinancing Cycle:** Bank facilities totaling multiple tranches face expiration dates starting Feb 27, 2026, followed by Mar 2027 and Mar 2029. Current SOFR spreads are locked at a tight 63–110 bps; expect a material step-up in interest expense if Disney cannot extend these facilities before the 2026 "refi-wall."
+
+• **Segment-Specific Margin Compression:** XBRL tagging for "India Joint Venture" and "Unfavorable Legal Ruling" suggests material P&L drag within the Sports/International segments. The shift from "pending" to "related party transaction" status for the India JV indicates the Reliance merger is entering a phase of high operational friction.
+
+• **Tax Asset "Cliff":** Operating loss and tax credit carryforwards begin expiring Sept 30, 2026. This creates an urgent 12-month window to maximize taxable income to avoid valuation allowance write-downs, potentially leading to aggressive content licensing or non-core asset disposals in the next 4 quarters.
+
+• **Hidden Inventory/R&D Risk:** Significant hedging of instruments is capped at a 4-year maturity limit. With long-term debt maturing out to 2036, there is a widening "unhedged gap" in the outer years of the capital structure, leaving the long-duration Experiences (Parks) capex cycle exposed to tail-risk rate volatility.
+
+• **Hulu Integration Overhang:** Continued reporting of "TFCF and Hulu" as a primary acquisition focus 9 months into the fiscal year signals that synergy realization is lagging, and technical integration costs may be cannibalizing the D2C segment's path to consistent profitability.

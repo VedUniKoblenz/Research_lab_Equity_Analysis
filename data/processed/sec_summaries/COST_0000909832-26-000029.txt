@@ -1,0 +1,9 @@
+• **Share Count Inflection**: Common shares outstanding rose to 443,692,000 (Feb 15, 2026) from 443,237,000 (Aug 31, 2025), a 455k share dilution in H1. Notably, shares outstanding dropped to 443,652,540 by March 4, 2026, indicating an aggressive intra-month buyback of ~40,000 shares immediately following the quarter-end, signaling management's view of technical price support levels.
+
+• **Maturity Concentration**: Significant refinancing risk clustered in 2027. Dual senior notes (3.00% due May 2027 and 1.375% due June 2027) represent the next major liquidity hurdle. This is balanced by long-term fixed-rate insulation via 1.60% (2030) and 1.75% (2032) tranches, suggesting a locked-in low cost of capital for the next 6+ years despite macro rate volatility.
+
+• **Geographic Pivot**: XBRL tagging confirms New Zealand (c-73) and Sweden (c-71) as active operational focus areas within the "Other International" segment. This marks a shift from emerging market expansion toward higher-disposable-income OECD markets to protect AOV (Average Order Value) against inflationary pressures.
+
+• **Dormant Capital Lever**: 100,000,000 shares of preferred stock ($0.005 par) remain authorized but unissued. In a high-rate environment, this provides an untapped non-dilutive (to common voting) financing vehicle or a defensive mechanism against activist accumulation.
+
+• **Segment KPI Trajectory**: Operations are consolidated into 3 reportable segments (US, Canada, Other International). Data tagging emphasizes the bifurcation of "Fresh Foods" vs. "Non-Foods," where management is likely using Fresh Foods as a high-frequency loss leader to drive membership renewals, the primary margin driver.

@@ -1,0 +1,11 @@
+• **Connectivity & Platforms ARPU vs. Volume:** Residential Broadband revenue grew 4.8% to $6.3B, driven almost entirely by ARPU appreciation rather than net adds, signaling a pivot to a "value-over-volume" strategy in a saturated U.S. market. Domestic Wireless revenue surged 26.7% to $858M, confirming mobile as the primary subscriber growth engine and churn-reduction tool for the fixed-line base.
+
+• **Peacock Operating Burn:** Media segment Adjusted EBITDA was weighed down by a $704M loss at Peacock (widening from a $456M loss YoY) despite a 45% increase in revenue to $685M. This indicates peak-investment cycle timing and a lack of near-term operating leverage in the streaming pivot.
+
+• **Theme Parks Margin Alpha:** Adjusted EBITDA climbed 46.2% to $658M on $1.9B revenue; the 34% margin reflects high flow-through from Universal Beijing’s recovery and robust domestic per-capita spending, acting as the firm's primary fundamental stabilizer.
+
+• **Hidden Structural Shift:** The Q1 2023 reporting reorganization (combining Cable, Sky, and Networks into Connectivity & Platforms and Content & Experiences) obfuscates legacy Video/Voice decay. Video revenue fell 5.5% to $5.2B, but its impact is now technically diluted within the broader Connectivity & Platforms EBITDA.
+
+• **Capital Allocation & Debt:** CMCSA repurchased 53.6M shares for $2.0B at an average price of $37.33, maintaining a steady pace. Q1 total shareholder return reached $3.2B. Note the $3.5B debt issuance in February 2023 (fixed-rate notes), successfully refinancing near-term maturities to insulate the balance sheet from rising rates.
+
+• **Studios Lumpy Cash Flow:** Revenue fell 9.5% to $3.0B, primarily due to lower content licensing revenue compared to a strong Q1 2022; indicates heightened volatility in RPO as theatrical release cycles normalize.

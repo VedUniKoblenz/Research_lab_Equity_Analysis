@@ -1,0 +1,9 @@
+• FICC revenues ($3.61B, +55% YoY) carry outsized weight vs. IB ($2.14B, -41% YoY), indicating a pivot from fee-based to volatility-driven spread capture. 
+• Provision for credit losses surged to $667M (vs. $92M benefit YoY), primarily driven by Consumer ($106B portfolio) and downward macro revisions; divergence noted between "robust consumer demand" sentiment and aggressive reserve builds.
+• CET1 ratio 14.2% (Standardized) reflects 100bps cushion over 13.2% requirement; however, buyback pace slowed to $500M in Q2 (vs. prior $2.0B+ run rates) to manage G-SIB surcharge and SCB increases.
+• "Other Expenses" include $1.06B in litigation/regulatory accruals, a 240% increase over 2021 average, signaling heavy terminal costs for electronic communication probes.
+• Management shifts from "investing for growth" to "expense discipline," flagging a slowdown in hiring and potential headcount rationalization if ROE stays below 15% target (12.2% in Q2).
+• Asset Management ($1.08B revenue) saw $633M in Net Gains/Losses from private equity, highlighting extreme sensitivity to public-to-private valuation lag in a high-rate environment.
+• Consumer segment DBNRR/Churn metrics omitted, but Net Interest Income (NII) in CWM rose to $908M, signaling the first material margin expansion from Marcus deposit repricing lag.
+• R&D/Tech spend remains floor-fenced at $1.3B+ quarterly; pivot from new platform builds to automation of FICC liquidity pools to maintain market share.
+• "We expect" (high confidence) applied to 25% dividend hike to $2.50/share, while "We anticipate" (moderate) used for continued Investment Banking backlog realization delays.

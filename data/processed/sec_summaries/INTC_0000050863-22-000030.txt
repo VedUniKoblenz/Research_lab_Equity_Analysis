@@ -1,0 +1,12 @@
+**INTEL CORP (INTC) Q2 2022 QUANTITATIVE ALPHA SUMMARY**
+
+*   **Guidance Capitulation:** FY22 revenue guidance slashed from $76B to $65B–$67B; a ~$10B reduction (13%) in 90 days. FY22 Gross Margin guidance revised from 52% to 49% (Non-GAAP).
+*   **Sentiment Divergence:** Management continues to message "unprecedented demand" in the long-term "Siliconomy," despite a 25% YoY collapse in CCG and a 16% decline in DCAI. Gap between management "transformation" narrative and the -$6.4B YTD Free Cash Flow suggests high execution risk.
+*   **Inventory & Operational Bloat:** Inventories surged to $12.1B (up from $10.8B at FYE21). Inventory Days Outstanding (IDO) increased significantly as sell-through stalled, specifically in the PC consumer and education entry-level segments.
+*   **DCAI Margin Collapse:** Datacenter & AI (DCAI) operating margin cratered to 4.3% (from 32% YoY); operating income fell from $1.8B to $0.2B. Key alpha signal: Margin compression is driven by pre-production charges for Sapphire Rapids and "unit cost pressure" on 10nm/Intel 7.
+*   **Segment KPIs:** 
+    *   **CCG:** Volume down 25% YoY; Operating margin dropped to 14% (down from 40% in Q2 2021). 
+    *   **DCAI:** Unit volumes down 15% YoY; ASPs flat despite rising input costs.
+*   **Capital Allocation Stress:** Maintained $0.365 quarterly dividend ($1.5B/qtr) despite the quarterly net loss and negative FCF. Issued $5B in senior notes in Q2 to maintain liquidity for the $23B+ gross capex plan.
+*   **Hidden Restructuring:** Total R&D spend hit $4.4B (up 17% YoY) despite revenue contraction, signaling a fixed-cost pivot where INTC cannot cut R&D without forfeiting the "5 nodes in 4 years" roadmap. 
+*   **Risk Escalation:** New emphasis on "match-sets" supply chain issues; shortages of non-CPU components (NICs, power regulators) are now materially gating Intel's ability to ship high-margin server kits.

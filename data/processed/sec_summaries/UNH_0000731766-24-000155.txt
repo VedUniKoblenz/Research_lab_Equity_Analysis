@@ -1,0 +1,9 @@
+• **Change Healthcare Impact:** $872M total Q1 impact ($0.74/share); FY24 total projected impact $1.15B–$1.35B. Management maintains "high confidence" in Adj. EPS guidance of $27.35–$28.35 despite $1.41B GAAP net loss, signaling aggressive exclusion of "non-recurring" systemic disruptions.
+• **Sentiment Divergence:** MCR (Medical Care Ratio) spiked to 84.3% (+210bps YoY), exceeding consensus. Management attributes 30bps to Change Healthcare claims lag and 40bps to Brazil divestiture, yet fundamental medical utilization remains at the high end of "expectations," suggesting potential downside if "care patterns" do not mean-revert.
+• **Hidden Operational Shifts:** Brazil (Amil) divestiture realized a $7.0B non-cash charge, primarily a $5.0B cumulative foreign currency translation loss recycled through the P&L.
+• **Liquidity/Capital Allocation:** $3.0B in Q1 share buybacks; pace held despite $6.0B in interest-free provider advancement payments/loans issued to stabilize the ecosystem post-cyberattack.
+• **Segment KPIs:** 
+  - Optum Health: Revenue per consumer served +25% YoY; growth driven by transition of 400k additional patients to value-based care.
+  - OptumRx: $30.8B revenue (+12% YoY); script growth acceleration vs. plateauing pharmacy margins.
+• **Atypical Risk:** "Cybersecurity" elevated to a material, primary risk factor following the February 21, 2024 incident; specific disclosure of "reparative actions" and regulatory exposure to OCR (Office for Civil Rights) investigations.
+• **Guidance Nuance:** "Expects" full restoration of Change Healthcare services by FYE24, but "believes" (speculative) that long-term client retention in OptumInsight will remain unaffected by the 6-week outage.

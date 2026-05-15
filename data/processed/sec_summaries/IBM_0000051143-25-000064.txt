@@ -1,0 +1,9 @@
+**Technical Alpha Signal Summary: IBM Q3 2025**
+
+*   **M&A Pivot:** Finalized integration of HashiCorp as the primary 2025 inorganic growth driver; purchase price allocation heavily weighted toward "Customer Relationships" intangibles (min/max ranges pending final valuation) within the Software segment.
+*   **RPO Duration:** Remaining Performance Obligation (RPO) realization cycle structuralized at a 3-year window (P3Y), signaling increased enterprise contract length and lower churn risk in hybrid cloud environments.
+*   **Aggressive Hedging:** Derivative gain/loss accounting expanded to cover four distinct P&L lines (Cost of Revenue, Interest Expense, SG&A, and Other Expense/Income), indicating heightened management sensitivity and defensive positioning against late-2025 FX and interest rate volatility.
+*   **Sentiment Divergence:** Management uses "expect" (high confidence) for AI-driven Software synergies and Hybrid Cloud scaling, but shifts to "believe" (moderate/speculative) regarding the recovery timeline for the Consulting segment and headcount productivity gains.
+*   **Debt Laddering:** Active listing of 20+ distinct debt instruments (Notes/Debentures) maturing through 2096 indicates a highly complex capital structure; current focus on A2875 and A700 notes due 2025 suggests imminent refinancing requirements or cash-settlement impacts on Q4 liquidity.
+*   **KPI Trajectory:** Software segment alpha shifting from "Hybrid Cloud" to "Transaction Processing" and "Automation" as primary margin protectors; Consulting segment exhibits softening KPIs in "Strategy and Technology" relative to "Intelligent Operations."
+*   **Capital Allocation:** Significant capital concentration in M&A (HashiCorp) and debt servicing over aggressive share buyback acceleration; quarterly pace of common stock treasury transactions suggests neutral-to-negative buyback signal strength.

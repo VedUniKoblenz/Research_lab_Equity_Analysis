@@ -1,0 +1,23 @@
+**Sentiment Divergence**
+* Management maintains aggressive "metaverse" long-term narrative despite a 1,400 bps YoY collapse in Operating Margin (29% vs 43%).
+* Bullishness on Reels monetization contradicts reported 14% YoY decline in FoA price per advertisement.
+
+**Hidden Operational Shifts**
+* **Headcount Bloat vs. Pivot:** Total headcount reached 83,553 (+32% YoY), yet management explicitly signaled a mid-quarter shift to "slow the pace of hiring" and "re-prioritize" projects, a precursor to massive restructuring.
+* **R&D Intensity:** R&D expense surged to $8.69B (30% of revenue) from $6.1B (21% YoY), representing a massive capital rotation into AI/Reality Labs infrastructure amid shrinking topline.
+* **Infrastructure Life Extension:** Updated server/network equipment useful life from 4 to 5 years (implemented Q1) continues to mask ~$700M+ in quarterly depreciation expense, artificially padding net income.
+
+**Forward-Looking Nuance**
+* **Revenue Guidance:** Q3 range of $26.0–28.5B anticipates a 2% to 11% YoY decline, citing "continuation of the weak advertising demand environment."
+* **Expense Reduction:** Lowered full-year 2022 total expense guidance to $85–88B (previously $87–92B), signaling high-confidence cost-cutting measures.
+* **FX Headwind:** Management expects a 6% revenue growth headwind in Q3 based on current spot rates.
+
+**Segment-Specific KPI Trajectory**
+* **FoA ARPP:** Average Revenue Per Person fell to $8.27 (vs $8.53 YoY), signaling monetization decay in core mature markets.
+* **Reality Labs (RL) Efficiency:** Operating loss of $2.81B on $452M revenue; essentially spending $6.21 for every $1.00 of hardware revenue generated.
+* **Ad Load vs. Price:** Ad impressions increased 15% YoY, but failed to offset the 14% price-per-ad drop, indicating Meta is "flooding the zone" with lower-value inventory (Reels).
+
+**Capital Allocation Signals**
+* **Buyback Deceleration:** Repurchased $5.08B in Q2, a sharp 46% decline from the $9.39B pace in Q1 2022, signaling defensive liquidity preservation.
+* **Authorization:** $24.32B remains on the buyback program; however, the velocity shift suggests internal caution regarding cash flow volatility.
+* **Capex Intensity:** Maintained 2022 Capex guidance at $30–34B, prioritizing data center builds over shareholder returns.

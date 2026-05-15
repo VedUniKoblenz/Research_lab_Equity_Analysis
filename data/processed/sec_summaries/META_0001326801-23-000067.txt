@@ -1,0 +1,13 @@
+• **Restructuring Velocity:** Aggressive execution of "Year of Efficiency" resulted in $1.14B total restructuring charges in Q1 2023 ($934M FoA, $210M RL). Severance/personnel costs dominated at $523M, with $375M allocated to R&D, signaling deep cuts to non-core engineering projects.
+
+• **Forward-Looking Guidance Revision:** Management significantly lowered 2023 total expense guidance to $86–$90B (down from prior $89–$95B). CapEx outlook narrowed to $30–$33B (prior $30–$33B), but includes a pivot toward "AI-related" capacity.
+
+• **Segment KPI Divergence:** Reality Labs (RL) revenue collapsed 51% YoY to $339M, while operating losses expanded to $3.99B. Management "expects" (High Confidence) RL operating losses to increase YoY in 2023, indicating a non-negotiable R&D sinkhole despite corporate-wide austerity.
+
+• **Infrastructure Pivot:** Shift in data center architecture to support AI workloads resulted in $134M in accelerated depreciation and impairment of data center assets in Q1, highlighting technical obsolescence risks of legacy server footprints.
+
+• **Capital Allocation Acceleration:** $9.22B in share repurchases executed in Q1, a massive increase from the $6.91B in Q4 2022. Remaining authorization stands at $41.73B, providing a high floor for the stock price despite macroeconomic volatility.
+
+• **Inventory/Supply Chain:** Reality Labs inventory write-downs and "on-hand" adjustments suggest softening demand for Quest 2/Pro ahead of next-gen cycles.
+
+• **Regulatory Escalation:** Significant focus on "modified" risk regarding EU-U.S. Data Privacy Framework; management "expects" (High Confidence) a decision on the Irish DPC's suspension order in Q2, posing a material threat to EU advertising revenue.

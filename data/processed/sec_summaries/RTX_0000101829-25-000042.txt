@@ -1,0 +1,9 @@
+• **Operational Pivot:** Collins Aerospace aggressively narrowed its core by finalizing the divestiture of the Actuation and Flight Control business on July 21, 2025, following the June 30 disposal of Simmonds Precision Products. This confirms a strategic exit from legacy mechanical hardware toward higher-margin integrated systems.
+
+• **Capital Allocation Signal:** RTX executed a $1.5B redemption of 3.950% Senior Notes on August 18, 2025, ahead of the 2025 maturity. This accelerated deleveraging, likely funded by divestiture proceeds, signals management’s priority on balance sheet strength over aggressive M&A or incremental buybacks in the current rate environment.
+
+• **Segment KPI Trajectory (Pratt & Whitney):** Intangible asset composition shows heavy weighting in "Collaboration" and "Exclusivity Assets." Key alpha resides in the valuation of these specific assets relative to GTF engine program performance; any deviation in the amortization of the $10B+ customer relationship/technology base signals long-term tail-risk in the aerospace aftermarket.
+
+• **Hidden Operational Shift:** Raytheon has fully transitioned out of Cybersecurity Intelligence and Services (finalized March 2024). The entity is now a pure-play defense hardware/systems firm, increasing the materiality of Percentage-of-Completion (POC) accounting adjustments (Note 10).
+
+• **Forward-Looking Nuance:** Significant reliance on SOFR-linked floating-rate debt (Term Loan due 2026 at SOFR + 122.5 bps). Management's move to maintain this floating exposure vs. fixing via swaps suggests a high-confidence internal forecast of declining benchmark rates through 2026.

@@ -1,0 +1,7 @@
+• **CapEx Trajectory:** FY24 guidance floor raised to $37–40B (from $35–40B). Management "anticipates" significant CapEx growth in 2025 to support AI infrastructure, signaling a multi-year intensive investment cycle.
+• **Operational Pivot:** Headcount reached 70,799, a 2.1% sequential increase from Q1 2024. This marks the definitive end of the "Year of Efficiency" and the resumption of scaling for AI and Reality Labs (RL) engineering.
+• **FoA KPI Strength:** Family of Apps revenue $38.3B (+22% YoY). Ad impressions +10% and, crucially, Average Price per Ad +10%. This double-positive suggests AI-driven targeting (Advantage+) is overcoming previous signals degradation.
+• **RL Burn:** Operating loss of $4.48B. Management "expects" losses to "increase meaningfully" YoY. Sentiment divergence: extreme bullishness on AI ROI despite $13.7B YTD burn in RL with negligible revenue contribution ($353M in Q2).
+• **Capital Allocation:** $6.32B in share buybacks during Q2, a sharp deceleration from $14.64B in Q1. Shift indicates capital prioritization toward GPU procurement/data center builds over equity support. 
+• **Regulatory/Legal Liquidity:** Accrued expenses include $4.7B for legal contingencies. Modified risk factors highlight "export controls" on advanced chips as a material threat to the long-term AI roadmap.
+• **Confidence Delta:** "We expect" (high confidence) 2024 total expenses of $96–99B; "We anticipate" (moderate) 2025 CapEx growth. "We believe" (speculative) Llama 4 will set new industry benchmarks requiring 10x more compute than Llama 3.

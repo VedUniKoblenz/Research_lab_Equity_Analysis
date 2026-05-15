@@ -1,0 +1,11 @@
+• **Q2 2022 Earnings Drag:** Management disclosed a deterministic $53 million pre-tax charge to be recorded in Q2 2022 specifically for the Byron nuclear units. This stems from the suspension of contractual offsets for decommissioning-related activities, representing a direct hit to near-term GAAP earnings not reflected in Q1 trailing data.
+
+• **Asymmetric Regulatory Risk:** A critical structural vulnerability exists at the ComEd segment regarding Nuclear Decommissioning Trust (NDT) funds. While excess NDT balances must be returned to customers (intercompany payable), accounting rules prohibit ComEd from recognizing a regulatory asset for fund shortfalls. This creates a one-way downside risk where market volatility in NDT assets can trigger immediate P&L charges without the possibility of a regulatory buffer.
+
+• **Sentiment Divergence (Decommissioning):** Management expresses "belief" that NDT fund growth will cover future costs, yet the $53 million charge for Byron units indicates a widening gap between long-term projections and current regulatory/contractual realities. The use of "believes" (speculative) regarding fund adequacy contrasts with the "recorded" (realized) nature of the Byron charge.
+
+• **Post-Spin Pure-Play Confirmation:** Revenue from related parties has been effectively zeroed out ($0 million), confirming the total operational decoupling from the Constellation generation business. Technical focus shifts entirely to regulated utility intercompany balances.
+
+• **KPI (RPO Trajectory):** Revenue Remaining Performance Obligations (RPO) show an accelerated satisfaction timeline, with approximately 75% of obligations expected to be realized within 0.75 years (9 months), indicating high front-loaded revenue certainty for the remaining fiscal year.
+
+• **Hidden Balance Sheet Volatility:** Accretion of decommissioning obligations and ARC (Asset Retirement Cost) depreciation for former ComEd units are no longer fully offset within the Statements of Operations. This removes the "earnings neutral" status of nuclear liabilities, introducing recurring volatility to Exelon’s consolidated bottom line based on Byron and Zion unit performance.

@@ -1,0 +1,11 @@
+• **Capital Allocation & Debt Leverage:** Massive $5.0B Senior Note issuance in Oct 2024 across four tranches (maturing 2027, 2029, 2031, 2034) marks a significant shift toward long-term debt financing compared to prior reliance on commercial paper. Dividend remains at $1.47/share (declared 03/19/2025), consuming significant cash flow despite macroeconomic headwinds.
+
+• **Insider Sentiment Divergence:** CFO Angie Park and Lead Executive Atsushi Egawa entered into Rule 10b5-1 trading plans with specific durations (270 and 275 days) and expiration dates in Jan 2026. This programmatic selling by the CFO suggests management sees limited near-term valuation re-rating potential despite public bullishness on AI-driven demand.
+
+• **RPO & Duration Compression:** Remaining Performance Obligation (RPO) satisfaction timing is now specifically tracked in 6-month and 12-month increments. This shift indicates a tightening of the conversion cycle and potential client pressure for shorter-duration, high-ROI projects (Generative AI) versus long-cycle structural outsourcing.
+
+• **M&A Pivot:** Continued execution of "individually immaterial" business acquisitions in H1 2025 reveals a strategy of localized talent/capability "tuck-ins" rather than synergistic scale acquisitions, likely to mask organic growth deceleration in core Consulting.
+
+• **FX & Regional Risk:** Escalated use of cash flow hedges specifically for EMEA and Asia Pacific segments. The density of "Other Derivative Instruments" at $2.28B+ suggests a high-conviction internal hedge against non-USD revenue erosion in H2 2025.
+
+• **Segment KPI:** Consulting vs. Outsourcing revenue mix remains the primary alpha driver; however, the shift in RPO timing suggests a tactical pivot toward Outsourcing for revenue stability as Consulting bookings face higher "speculative" scrutiny (belief vs. expectation).

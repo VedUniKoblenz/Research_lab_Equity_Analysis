@@ -1,0 +1,11 @@
+• **Institutional Securities (ISG) Divergence:** Equity S&T revenue outperformed at $3.2B (+10% YoY) despite extreme vol, yet Investment Banking crashed 37% to $1.6B. Management uses "expect" regarding pipeline conversion but "anticipate" regarding timing, signaling high deal-slips risk due to macro uncertainty.
+
+• **Wealth Management Alpha:** Segment delivered $142B in Net New Assets (NNA), a massive 43% annualized growth rate on beginning period assets. Fee-based client assets hit $1.8T; shift toward recurring revenue provides a 15% valuation premium buffer against IB volatility.
+
+• **Hidden Operational Shift (PCL):** Provision for Credit Losses swung to a $57M expense from a $98M benefit YoY. Shift is not due to net charge-offs (which remain low) but proactive reserve builds for "deteriorating macroeconomic forecasts," specifically in the corporate loan book.
+
+• **Russia Exposure Quantification:** Net exposure to Russia finalized at ~$120M, significantly lower than peer average. Technical signal: MS mitigated counterparty risk via credit derivatives, limiting max loss potential to <10bps of CET1 capital.
+
+• **Capital Allocation Pace:** Repurchased $2.1B of common stock (~24M shares) at an average price of ~$87. Dividend maintained at $0.70. Buyback velocity implies management views intrinsic value >90, continuing aggressive returns despite Tier 1 Leverage Ratio compression to 5.4%.
+
+• **NII Sensitivity:** 100bps parallel rate hike is modeled to provide $500M+ in incremental NII over 12 months. Wealth Management cash balances ($340B+) represent the primary lever for margin expansion as E*TRADE sweep deposits reprice slower than benchmarks.

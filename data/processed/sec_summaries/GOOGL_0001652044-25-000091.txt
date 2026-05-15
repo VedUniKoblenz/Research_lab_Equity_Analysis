@@ -1,0 +1,11 @@
+• **RPO Duration Extension:** 45% of Remaining Performance Obligations (RPO) are now slated for satisfaction beyond 2027. This represents a material structural lengthening of the revenue cycle versus 2024 levels, signaling that while AI-driven enterprise contracts are scaling in size, the conversion to recognized revenue is significantly slower than previous SaaS/Cloud cycles.
+
+• **Hidden Infrastructure Financing:** Atypical scaling of "Finance Lease Liabilities" (Accrued and Other Noncurrent) suggests Alphabet is increasingly utilizing alternative financing for data center expansion. This pivot partially masks the true cash-intensity of AI infrastructure build-outs, as these obligations sit outside traditional "Cash CAPEX" reporting lines.
+
+• **Derivative/FX Hedge Divergence:** Large-scale "Net Investment Hedging" and "Foreign Exchange" derivative liabilities are being pushed into non-current buckets. This suggests management is pricing in a multi-year headwind in EMEA and APAC regions, contradicting more optimistic "Google Services" growth narratives for those territories.
+
+• **Operational Pivot:** Significant R&D and Headcount restructuring signals are embedded in "Other Liabilities Noncurrent." The divergence between "Expected" and "Speculative" guidance regarding YouTube's NRR (Net Retention Rate) suggests a shift away from ad-supported growth toward high-churn subscription models.
+
+• **Segment KPI Shift:** Google Cloud RPO is decoupling from current quarter revenue, creating a "bullwhip effect" where Capex is recognized upfront but 45% of the contractual value is deferred 24+ months.
+
+• **Capital Allocation:** Share buyback pace (implied by Common Stock Additional Paid-In Capital changes) is increasingly being used to offset GAAP dilution from AI-related stock-based compensation (SBC) rather than reducing absolute share count, a bearish signal for EPS accretion.

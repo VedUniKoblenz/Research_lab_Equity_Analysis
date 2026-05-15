@@ -1,0 +1,9 @@
+• **Capital Pivot:** CET1 ratio reached 10.3% (up 30bps QoQ), surpassing the 10.0% internal target ahead of schedule. Management transitioned from "evaluating" to "expecting" share buyback resumption in H2 2024, signaling a definitive end to the post-Union Bank capital preservation phase.
+• **NII Inflection:** Q2 Net Interest Income (NII) hit $4.05B with NIM at 2.67%. Management maintains "high confidence" in H2 2024 NII growth, predicated on fixed-rate asset repricing and a shift in deposit mix, despite a -3.4% YoY contraction in average total loans ($374.7B).
+• **Operational De-risking:** Intentional balance sheet optimization resulted in average commercial loan declines of 4.3% YoY. This reflects a pivot point where RWA (Risk-Weighted Asset) discipline is being prioritized over volume to prepare for Basel III Endgame.
+• **Credit Divergence:** Net Charge-Off (NCO) ratio climbed to 0.58% (vs. 0.35% YoY). Management tone remains bullish on "normalization," yet Provision for Credit Losses remains elevated at $557M. ACL/Total Loans ratio held at 2.10%, suggesting a plateau in reserve building.
+• **Segment KPI Trajectory:** 
+  - **Payment Services:** Revenue $1.1B; high sensitivity to consumer discretionary spend.
+  - **Wealth/Trust:** Non-interest income grew to $1.0B (up 8.3% YoY), acting as a primary hedge against NII volatility.
+• **Hidden Restructuring:** Efficiency ratio of 61.5% masks the tail-end of Union Bank integration. Deprecated legacy systems and realized merger synergies are expected to drive 2025 operating leverage.
+• **CRE Concentration:** Commercial Real Estate exposure at $53.3B remains the primary risk outlier; specifically, the Office sub-sector continues to show idiosyncratic stress despite general portfolio stability.

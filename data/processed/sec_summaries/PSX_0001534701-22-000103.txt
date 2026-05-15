@@ -1,0 +1,11 @@
+* **Strategic Structural Shift:** Completion of Phillips 66 Partners (PSXP) roll-up on March 9, 2022; eliminates structural subordination and simplifies midstream cash flow attribution.
+* **Aggressive Deleveraging/Refinancing:** Post-quarter repayment of $1.0B Senior Notes (2.45% coupon) and settlement of April 2022 Term Loan; signals prioritized balance sheet fortification over immediate incremental buyback acceleration.
+* **R&D / Energy Transition Pivot:** NOVONIX investment (battery materials) now marked as Level 1 Fair Value asset ($320M initial cost basis); creates direct P&L/OCI sensitivity to battery-tech equity volatility, moving beyond traditional refining correlation.
+* **Derivative Volatility:** Significant "Nondesignated" commodity derivative positions flagged in current assets/accruals; indicates high-velocity hedging of basis risk and inventory price exposure, potentially masking underlying refining margin capture.
+* **Concentrated Midstream Risk:** Specific contingent liability and guarantee exposure for Dakota Access (DAPL) and ETCO senior notes persist; material legal/regulatory tail risk remains decoupled from core operational performance.
+* **Inventory & AP Nuance:** Sharp escalation in "Purchased crude oil and products" liability and "Other accruals" suggest tightening credit terms or rapid input cost inflation outpacing refined product receivables.
+* **Segment KPI Trajectory:**
+  * **Refining:** Extreme sensitivity to "Purchased crude oil" cost basis vs. crack spread capture.
+  * **Midstream:** Shift from fee-based PSXP distributions to full EBITDA consolidation post-March 9.
+  * **Chemicals (CPChem):** Equity method earnings remains the primary volatility driver for segment NOPAT.
+* **Capital Allocation:** Explicit transition from debt-heavy COVID-era capital structure to aggressive retirement of short-term instruments; $1.45B+ in total debt addressed or maturing in 1H 2022.

@@ -1,0 +1,14 @@
+• **Exit Strategy Execution:** Poland Consumer Banking transitioned from "Held for Sale" to "Disposed of by Sale" in Q2 2025, signaling the completion of a major divestiture milestone. Mexico and Asia exit markets remain in "Held for Sale" status, indicating continued execution drag and potential valuation volatility for the Banamex IPO/sale.
+
+• **Sentiment Divergence:** Management utilizes "we expect" (high confidence) regarding the 2025-2026 expense glide path and efficiency ratio targets, yet shifts to "we believe" (speculative) regarding the timing of a pivot in Net Interest Income (NII) as deposit migration to higher-yielding instruments persists.
+
+• **Segment KPI Trajectory:** 
+  - **Services:** Double-digit revenue growth in Treasury and Trade Solutions (TTS); cross-border transaction volumes up 12% YoY. 
+  - **Banking:** Sharp recovery in Debt Capital Markets (DCM) and Equity Capital Markets (ECM) fees; M&A pipeline described as "robust" but closing timelines are "anticipated" (moderate confidence) rather than "expected."
+  - **US Personal Banking:** Net credit loss (NCL) rates stabilizing, but 30-89 day delinquency buckets show a 15bps sequential increase.
+
+• **Operational Hidden Shifts:** Material escalation in "Technology and Data Management" R&D/CapEx; pivot from legacy system maintenance to Consent Decree-driven automation. Headcount reduction remains on pace with the "Bora Bora" restructuring, but "Consulting and Professional Fees" remain elevated, offsetting some personnel savings.
+
+• **Capital Allocation:** Share buybacks maintained at ~$1.0B for the quarter; CET1 ratio remains at ~13.6%. Dividend remains a priority, but management tone suggests buyback flexibility is the primary lever for managing Basel III Endgame uncertainty.
+
+• **Atypical Risks:** Materially modified risk language regarding "Technology Obsolescence" and "Regulatory Exposure Escalation," specifically citing the cost of data integrity failures and the potential for increased capital surcharges if remediation milestones are missed.

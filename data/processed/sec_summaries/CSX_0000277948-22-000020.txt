@@ -1,0 +1,10 @@
+**CSX Q1 2022 Quantitative Alpha Extraction**
+
+*   **Sentiment Divergence:** Top-line revenue surged 21.3% ($3.41B), yet Operating Ratio (OR) deteriorated 150 bps to 62.4% (vs. 60.9% YoY). Management’s bullish volume narrative is contradicted by a 21% spike in operating expenses, driven by Fuel (+65%) and Labor/Fringe (+14%), signaling that pricing power is barely neutralizing inflationary friction.
+*   **Hidden Operational Shifts:** The acquisition of Quality Carriers shifted the business mix, contributing $225M in trucking revenue (6.6% of total) but structurally weighting the corporate margin toward lower-margin trucking operations. Accounts Receivable increased 16.5% to $1.21B, largely aligned with revenue growth but warranting monitoring for collection delays in the trucking segment.
+*   **Capital Allocation Signals:** Massive acceleration in share repurchases; $1.011B deployed in Q1 alone, representing ~35% of the total FY2021 buyback volume ($2.87B). CSX is aggressively returning capital despite a total debt load of $16.3B. Dividend payments remained steady at $220M.
+*   **Segment-Specific KPI Trajectory:**
+    *   **Coal Alpha:** Revenue per Unit (RPU) skyrocketed 31% YoY to $6,145, driven by export prices; this segment provided 14.4% of total revenue despite broader volume constraints.
+    *   **Intermodal Yield:** RPU grew 21% to $1,806, successfully offsetting a 5% decline in volume, indicating high pricing elasticity despite supply chain congestion.
+*   **Forward-Looking Nuance:** Management "expects" (high confidence) full-year double-digit growth in both revenue and operating income. However, the shift to "anticipate" regarding labor force stabilization suggests moderate confidence in resolving headcount shortages that are currently impacting velocity.
+*   **Atypical Risk Factors:** Interest rate exposure identified via $1.4B in fixed-to-floating interest rate swaps; in a rising rate environment, this derivative strategy creates a direct headwind to net income. Casualty and environmental reserves remain stable at $458M and $165M respectively, with no new material litigation spikes.

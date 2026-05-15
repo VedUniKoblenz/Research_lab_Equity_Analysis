@@ -1,0 +1,13 @@
+• **Kenvue Decoupling/Equity Pivot**: Transition of the Consumer Health segment to equity method accounting (Context c-12, c-15) signifies the terminal phase of the $13.2B IPO realization. The shift of Kenvue to a "summarized financial information" basis masks the true margin expansion of the remaining "New J&J" (Pharma/MedTech) by blending deconsolidation costs.
+
+• **Aggressive Macro Hedging**: Massive ramp in Fair Value Hedging (c-83) and Net Investment Hedging (c-92) via Interest Rate Swaps and Cross-Currency contracts. Technical focus on mitigating a 300-400bps FX headwind on international sales, indicating management’s lack of confidence in organic currency recovery despite "stable" guidance.
+
+• **Intangible Asset Concentration**: Significant balance sheet weighting in "Purchased In-Process Research and Development" (c-65) and "Patents/Trademarks" (c-59). This suggests a high-stakes reliance on inorganic pipeline valuation to offset the 2025 Stelara patent cliff; any impairment in these indefinite-lived assets is a high-probability volatility trigger.
+
+• **Capital Structure Optimization**: Material Treasury Stock movements (c-28, c-35) coincide with the Kenvue exchange offer. Utilizing a tax-free split-off to retire ~191M shares serves as a massive, non-dilutive EPS accretion signal that is more price-sensitive than traditional open-market buybacks.
+
+• **Segment KPI Trajectory**:
+  - **Innovative Medicine**: Focus on R&D spending pivot points; IPR&D asset values suggest aggressive late-stage clinical investment.
+  - **MedTech**: Abiomed integration remains the primary driver for "Medical Devices" (c-72, c-75) outperformance, with a shift toward high-growth electrophysiology and heart recovery metrics.
+
+• **Hidden Liability Signaling**: While legal boilerplate is excluded, the frequent re-tagging of "Noncontrolling Interest" (c-24, c-37) relative to Kenvue liabilities indicates a complex residual risk profile regarding talc-related indemnification that remains live post-separation.

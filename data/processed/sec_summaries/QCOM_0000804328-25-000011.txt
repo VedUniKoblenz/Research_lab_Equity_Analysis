@@ -1,0 +1,11 @@
+• **Capital Allocation Surge:** Management authorized a new $15B share repurchase program on November 6, 2024, superseding the 2021 $10B program. $1.3B in shares were repurchased in Q1 FY25. Dividend of $0.85/share declared Jan 17, 2025, maintaining a high-payout yield strategy despite R&D requirements for Edge AI.
+
+• **Strategic Insider Signaling:** XBRL metadata reveals CFO Akash Palkhiwala and CHRO Heather Ace established Rule 10b5-1 trading arrangements with durations of 458 and 337 days, respectively. These extended durations suggest long-horizon liquidity planning, neutralizing concerns of tactical selling at the current AI valuation peak.
+
+• **Segment KPI Inflection:** QCT Automotive revenue reached a record $1.1B (+55% YoY), driven by Snapdragon Digital Chassis scaling. IoT revenue inflected to $1.55B (+22% YoY), signaling the definitive end of the industrial/edge inventory glut. Combined, non-handset QCT now represents ~31% of segment revenue.
+
+• **Forward Guidance Nuance:** Management "expects" (High Confidence) Q2 FY25 revenues of $9.1B–$9.9B and Non-GAAP EPS of $2.85–$3.05. This guidance incorporates a projected 10% YoY increase in Handset revenue, implying sustained ASP expansion via the Snapdragon 8 Elite despite flat unit volume forecasts.
+
+• **Operational Pivot:** R&D spending is undergoing a "pivot point" toward Windows on Snapdragon (PC) and Edge AI. The $45B+ Automotive design win pipeline represents a material shift in revenue duration, transitioning QCOM from a short-cycle handset play to a long-cycle industrial/auto supplier.
+
+• **Concentration & Risk:** While dependence on "Customer One" (Apple) persists, the 10-Q reflects a modified risk profile regarding the "competitive landscape," specifically citing intensified RISC-V adoption and domestic Chinese SoC competition as escalating threats to long-term licensing (QTL) margins.

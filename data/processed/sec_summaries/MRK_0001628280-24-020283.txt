@@ -1,0 +1,9 @@
+* **Restructuring Pivot:** Management launched "Restructuring Program 2024" in Q1, incurring $317M in total charges ($111M Cost of Sales, $101M SG&A, $105M R&D). This represents a non-obvious, aggressive margin-preservation shift ahead of the 2028 Keytruda patent cliff, contradicting the bullish top-line narrative.
+* **Capital Allocation & M&A:** Closed Harpoon Therapeutics acquisition (March 2024) for ~$650M. Progressing $1.3B cash acquisition of Elanco’s aqua business (expected Q3 2024). These moves signal a strategic pivot toward T-cell engagers and specialized animal health segments to offset human health LOE (Loss of Exclusivity) risks.
+* **R&D Concentration Risk:** Heavy reliance on ADC (Antibody-Drug Conjugate) collaborations; specifically, the $4B upfront payment to Daiichi Sankyo and ongoing milestones for three candidates (Ifinatamab, Patritumab, Raludotatug). R&D spending is increasingly concentrated in external collaborative risk-sharing vs. internal discovery.
+* **Operational Nuance:** Restructuring includes $111M in accelerated depreciation, flagging significant deprecation or decommissioning of legacy manufacturing assets.
+* **Financial Engineering/FX:** Significant expansion of hedging activity. Euro-denominated note hedges and new interest rate swaps on $450M 4.5% Notes due 2033 indicate heightened sensitivity to rate volatility and international revenue exposure.
+* **Segment KPI Trajectory:** 
+  • Oncology: Keytruda growth remains the primary driver, but management tone shift toward "subcutaneous formulation" clinical success is the critical leading indicator for patent life extension (beyond 2028).
+  • Animal Health: 2024 growth is increasingly dependent on "Companion Animal" price hikes to offset volume softness in "Livestock."
+* **Guidance Nuance:** Management transitioned from "anticipate" to "expect" regarding Gardasil supply capacity increases, indicating high confidence in the 2025 volume ramp.

@@ -1,0 +1,11 @@
+• **Liability Sensitivity Shift**: Tactical transition of Series CC Senior Debt from Fixed-to-Floating (Context c-10) signals management’s aggressive positioning for a "higher-for-longer" rate environment, diverging from peers extending duration; suggests a hedge against NII compression.
+
+• **Hidden Credit Risk Reclassification**: Specific bifurcation of "Non-Agency" CMBS (Ref c-143) and "Construction Loans" (Ref c-167) indicates heightened internal surveillance of non-government backed commercial credit; signals potential for targeted provisioning in the office/multifamily sub-sectors.
+
+• **Liquidity Squeeze Signal**: Material increase in "Assets Pledged as Collateral" specifically for FHLB advances (Ref c-183) relative to YE24 levels; suggests a tactical pivot toward wholesale funding to offset potential deposit beta pressure or outflow risks not yet visible in headline numbers.
+
+• **Operational Pivot**: Expansion of "Consumer Retail Leasing" (Ref c-173) vs. "Automobile Loans" (Ref c-181) marks a shift toward higher-margin but higher-residual-risk assets; indicates a move to capture yield in the consumer segment as traditional mortgage volume (Ref c-169) remains suppressed.
+
+• **Capital Allocation Priority**: Continued maintenance of diverse Preferred Stock Series (K, L, M, O) despite high carry costs (Ref c-71) prioritizes CET1 capital stability over common share buyback acceleration; indicates management caution regarding Basel III endgame re-proposals.
+
+• **Segment KPI Trajectory**: Credit Card Receivables (Ref c-22) and Other Retail Loans (Ref c-24) are the primary growth drivers, but rising "Portfolio Level Basis Adjustments" (Ref c-149) suggest increasing hedging costs are eating into net segment profitability.

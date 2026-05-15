@@ -1,0 +1,9 @@
+• **Hidden Operational Shift (Restructuring):** Active reporting under the `RestructuringPlanAxis` specifically for "Special Termination Benefits" and "Contract Termination" for the period ending June 30, 2025, signals ongoing organizational streamlining and potential headcount reductions beyond the 2023-2024 "Accelerating the Arches" initiatives.
+
+• **Capital Allocation Stability:** Contextual references to `TreasuryStockCommonMember` and `RetainedEarningsMember` as of June 30, 2025, confirm a sustained cadence of shareholder returns (buybacks/dividends), though the filing indicates no "Subsequent Events" requiring recognition through August 6, 2025.
+
+• **Macro/FX Sensitivity:** High density of `CrossCurrencyInterestRateContractMember` and `Net Investment Hedging` labels for the International Operated Markets (IOM) and International Developmental Licensed (IDL) segments suggests management is aggressively hedging against significant volatility in non-USD cash flows to protect GAAP earnings.
+
+• **Segment KPI Focus:** Internal segment reporting continues to prioritize the US Market, IOM, and IDL segments as primary reporting units, with dedicated equity-method monitoring for McDonald's Japan Holdings and Grand Foods Holding, highlighting these as critical non-consolidated alpha drivers.
+
+• **Regulatory/Financial Risk Posture:** Material emphasis on `ForeignExchangeForwardMember` and `InterestRateContractMember` (nondesignated and designated as hedging instruments) indicates a defensive balance sheet posture against shifting interest rate environments in the first half of 2025.

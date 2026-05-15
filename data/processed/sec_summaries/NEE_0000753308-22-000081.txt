@@ -1,0 +1,11 @@
+• **Sentiment Divergence:** Management maintains high-confidence 6–8% EPS growth guidance through 2025 ("we expect"), yet GAAP earnings volatility is surging. Q3 2022 Net Income of $1.7B includes $1.16B in non-qualifying hedge gains; underlying operational earnings are increasingly decoupled from GAAP due to aggressive mark-to-market (MTM) derivative positioning.
+
+• **Hidden Operational Shifts:** FPL recorded a $1.1B regulatory asset for Hurricane Ian restoration costs. While management anticipates full recovery via surcharge, this creates a significant "hidden" accounts receivable from the ratepayer base, increasing long-term political/regulatory risk despite near-term liquidity neutrality.
+
+• **Segment KPI - NEER:** Backlog reached ~20 GW after adding 2.34 GW of renewables and storage in Q3. However, execution on solar projects is notably shifting; management 'expects' continued supply chain pressure from UFLPA enforcement, leading to a tactical R&D and Capex pivot toward wind and battery storage to mitigate solar component concentration risk.
+
+• **Segment KPI - FPL:** Customer growth remains the primary bullish anchor, with average customer counts up 1.5% (~83k) YoY. Average Revenue Per User (ARPU) is sensitive to the $1.1B storm cost recovery, potentially capping discretionary rate hikes in 2023–2024.
+
+• **Capital Allocation Signals:** Shift in financing cost regime is evident. NEE issued $2.0B in 6.926% Corporate Units in Q3, a significant step up from the 5.279% and 6.219% series issued in prior cycles, signaling a material increase in the marginal cost of capital for the renewables build-out.
+
+• **Atypical Risk Factors:** New materiality assigned to the U.S. Department of Commerce solar tariff circumvention investigation and UFLPA enforcement. Management 'anticipates' these will disrupt ~2.5 GW–3.5 GW of solar deliveries into 2023, a more pessimistic stance than the 'moderate' impact previously believed.

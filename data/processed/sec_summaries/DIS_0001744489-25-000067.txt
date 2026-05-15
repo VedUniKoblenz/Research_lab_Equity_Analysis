@@ -1,0 +1,11 @@
+**DIS Q1 2025 Quantitative Signal Extraction**
+
+*   **Aggressive Capital Return Acceleration:** Treasury stock increased by 7M shares in Q1 (54M vs. 47M at FYE24), signaling a significant ramp in buyback velocity despite macro uncertainty. Total common shares outstanding remain stagnant at 1.9B, suggesting buybacks are currently offsetting dilution rather than reducing float aggressively.
+*   **India JV Structural Pivot:** Deconsolidation of Star India finalized Nov 14, 2024. Transition to equity method accounting removes high-volatility, low-margin revenue from the Sports/Entertainment segments, fundamentally altering the margin profile of the international linear business.
+*   **Imminent Liquidity Refinancing:** A material credit facility expires Feb 27, 2025. Current borrowing costs are indexed to SOFR + 65.5–122.5 bps. Short-term refinancing risk is high, as the 10-Q highlights a shift in debt maturity profile for 2025.
+*   **Strategic Settlement/M&A Pivot:** Jan 6, 2025 (post-quarter) termination of the Fubo-related business acquisition involving Fox and WBD. Settlement terms and the shift away from this acquisition indicate a deprecation of specific joint-venture sports streaming structures in favor of alternative distribution.
+*   **Tax Asset Expiration Cliff:** Specific operating loss and tax credit carryforwards ($2.0B+ scale) begin expiring Sept 30, 2026. This creates a hard deadline for domestic earnings maximization to prevent valuation allowance reversals.
+*   **Revenue Backlog (RPO):** Unsatisfied performance obligations are heavily weighted toward FY2025, suggesting a potential "cliff" in licensing revenue if new content cycles do not refresh the RPO by late 2025.
+*   **Segment KPI Trajectory:** 
+    *   **Experiences:** Shift toward "Resort and Vacations" revenue over "Admission" suggests a transition from volume (attendance) to per-capita spending (yield management). 
+    *   **Entertainment:** Theatrical distribution licensing remains the primary volatility driver for the segment's RPO.

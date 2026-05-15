@@ -1,0 +1,9 @@
+• **Capital Allocation & Divestiture Pivot**: RTX executed a tactical pruning of non-core assets, specifically the divestiture of the Raytheon Cybersecurity Intelligence and Services business (completed March 2024) and the Collins Goodrich Hoist & Winch business (July 1, 2024). These moves signal a contraction in service-heavy perimeters to offset GTF-related liabilities.
+
+• **Liquidity & Debt Architecture**: Significant reliance on short-term floating-rate instruments; identified a 3-month SOFR + 1.225% term loan facility with specific staggered repayments in Q2 2024 (April 4, April 17, and May 7). Concurrent retirement of fixed-rate 3.200% and 3.150% 2024 notes indicates a shift toward shorter-duration debt despite a volatile rate environment.
+
+• **Operational Risk Escalation**: Management added specific litigation axes for "DOJ Investigation and Contract Pricing Disputes" and "Trade Compliance Matters." The inclusion of "ThalesRaytheonSystems" as a distinct litigation case suggests potential material tail risks in international joint venture structures.
+
+• **Accounting Estimate Sensitivity**: Material focus on Note 112-115 regarding "Contracts Accounted For Under Percentage Of Completion." Systematic revisions in accounting estimates for long-term contracts are being utilized to manage margin volatility in the Raytheon segment.
+
+• **Segment KPI Trajectory**: Collins Aerospace restructuring focused on "Actuation and Flight Control" divestitures (initiated July 2023) to streamline the hardware margin profile. Pratt & Whitney KPIs remain tethered to collaboration-related intangible assets (Note 104) valued as high-materiality finite-lived assets, sensitive to engine delivery cycles.

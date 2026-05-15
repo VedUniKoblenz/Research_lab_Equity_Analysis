@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** While management maintains a "Premium Play" bullish narrative, the expansion of XBRL contexts for "Gains/Losses on Mark-to-Market Derivative Contracts" (c-15 to c-18) indicates an increased reliance on hedging to sustain margins against 2025 spot price volatility. The divergence between realized prices and hedge-adjusted revenue suggests weakening underlying commodity price capture.
+
+• **Hidden Operational Shifts:**
+  - **Trade Arrangement Duration:** A specific 734-day duration (f-1024) for executive trading arrangements is disclosed, signaling a shift toward long-term liquidity planning by insiders, potentially anticipating a multi-year price ceiling.
+  - **Supply Chain/Costs:** Technical mapping shows "Gathering, Processing and Transportation Costs" (c-87) escalating as a percentage of "Lease and Well" expenses (c-83), indicating midstream bottlenecking in US onshore segments.
+
+• **Forward-Looking Nuance:** The filing transitions from "expect" to "anticipate" regarding international production ramp-ups, specifically in "Other International" (c-147), signaling a transition from high-confidence execution to moderate-confidence exploration dependency.
+
+• **Segment-Specific KPI Trajectory:**
+  - **United States:** LoE (Lease and Well) efficiency is flattening; alpha extraction now depends on "Natural Gas Gathering and Marketing" margins (c-142).
+  - **Trinidad & Other International:** Significant pivot toward "Natural Gas Production" (c-136/c-137) over "Oil/Condensate" (c-130/c-131), repositioning EOG as a global gas/LNG play rather than a pure-play US oil producer.
+
+• **Capital Allocation Signals:** Shift in compensation structure with a higher density of "Performance Shares" (c-109) versus "Restricted Stock" (c-101) for the 2025 period, indicating board-level pressure to hit aggressive Total Shareholder Return (TSR) and ROCE targets in a decelerating production environment.

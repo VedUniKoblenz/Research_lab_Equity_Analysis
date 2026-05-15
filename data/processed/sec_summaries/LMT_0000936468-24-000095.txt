@@ -1,0 +1,13 @@
+• **Guidance/Sentiment Divergence:** Management raised FY2024 revenue guidance to $70.5B–$71.5B (prior $68.5B–$70B) and EPS to $26.10–$26.60, despite a -91% YoY collapse in F-35 deliveries (4 jets in Q2'24 vs. 45 in Q2'23). Bullish outlook relies on "catch-up" deliveries in H2, creating significant execution risk if TR-3 software validation lags.
+
+• **Hidden Operational Shift (Inventory/Cash):** F-35 TR-3 delays caused a massive inventory build-up of ~100 parked aircraft. While deliveries resumed in July 2024, the government is withholding ~$5M per aircraft until "Combat Capability" is achieved (expected 2025). This creates a persistent working capital drag not fully captured in headline EPS.
+
+• **Segment KPI Trajectory:**
+  - **MFC (Missiles & Fire Control):** Revenue +13% to $3.1B; Operating Margin compressed to 13.5% (prior 14.2%) due to volume-driven ramp costs for GMLRS and PAC-3.
+  - **Aeronautics:** Backlog remains massive at $158.3B, but book-to-bill is softening as F-35 Lot 18/19/20 contract timing remains fluid.
+
+• **R&D and Supply Chain:** Material pivot toward "21st Century Security" (digital twinning/AI) with R&D sustained at $392M/quarter. Filing flags specific "Solid Rocket Motor" (SRM) supply chain fragility as a primary bottleneck for Missiles segment scaling.
+
+• **Capital Allocation Acceleration:** Q2 share buybacks surged to $1.6B (up 60% from $1.0B in Q1'24), signaling aggressive price support despite the $1.0B decrease in Q2 Operating Cash Flow ($1.1B vs $1.5B YoY).
+
+• **Risk Factors:** Modified language regarding "Long-range precision fires" competition and escalating macroeconomic vulnerability in European supply chains for the PAC-3 program.

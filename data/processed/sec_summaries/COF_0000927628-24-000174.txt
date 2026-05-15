@@ -1,0 +1,9 @@
+• **Discover Transaction (DFS):** Management signals high confidence ("we expect") for close in late 2024/early 2025; however, underlying credit decay presents a valuation divergence. Significant integration risk and regulatory hurdles (CFPB/DOJ) remain unquantified in the 10-Q but are materially price-sensitive.
+• **Credit Quality Deterioration:** Domestic Card Net Charge-off (NCO) rate surged to 5.92% from 4.04% YoY; 30+ day delinquency rate climbed to 4.23% (vs. 3.66% YoY). Allowance for Credit Losses (ACL) stands at $15.5B (4.79% of total loans).
+• **Fee Income Headwind:** Explicit mention of the CFPB’s Late Fee Rule (effective May 2024) as a major risk to non-interest income. COF is "actively working to mitigate" the impact through pricing and product shifts, suggesting imminent changes to consumer terms.
+• **Segment KPI Trajectory:** 
+  - **Credit Card:** Purchase volume $146.1B; yield expanded to 18.73%. 
+  - **Auto:** NCO rate increased to 1.94% (vs. 1.45% YoY). Management is tightening credit at the margin while maintaining a large sub-660 FICO exposure.
+• **Operational Shift:** Restructuring/integration expenses related to the DFS deal are expected to ramp in 2H24. Efficiency ratio currently sits at 52.3%.
+• **Capital Allocation:** Dividend maintained at $0.60. Share buybacks are effectively sidelined pending the DFS merger close to preserve the 13.1% CET1 capital ratio.
+• **Liquidity Nuance:** Interest-bearing deposit costs rose sharply to 3.51% (vs. 2.11% YoY), indicating persistent NIM compression pressure despite asset yield growth.

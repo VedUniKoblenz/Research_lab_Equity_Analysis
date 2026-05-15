@@ -1,0 +1,13 @@
+• **Contract Tenor Compression:** Metadata reveals a tactical shift in customer supply agreement durations to **P1Y (1-year) and P3Y (3-year)** cycles. This diverges from the historical industrial gas moat of 10–20 year on-site contracts, signaling a pivot toward merchant/packaged gas flexibility or a strategic reduction in long-term fixed-price exposure amidst volatile energy input costs.
+
+• **RPO Backlog Concentration:** Revenue Remaining Performance Obligations (RPO) stand at **50%**, representing a high-conviction lead indicator for the Engineering and On-site segments. This figure provides a floor for FY2026/27 revenue but increases sensitivity to project execution risks in the Engineering segment.
+
+• **Russia Tail-Risk Persistence:** Filing continues to explicitly flag **RusChemAlliance (RCA), Gazprom, and Amur GPP** as major customer/reconciling items. This indicates that despite the 2022–2024 de-risking, material arbitration or asset recovery (~$1B+ potential) remains an active, price-sensitive "hidden" asset/liability on the balance sheet.
+
+• **Refinancing Cliff & Liquidity Tactics:** Management is managing a multi-tranche 2026 debt cliff (US 3.20%, Euro 0.00%, US 3.434% notes) via a newly active **364-Day Credit Agreement**. The shift to shorter-term facility utilization suggests a "wait-and-see" approach to the long-term rate environment rather than locking in permanent capital.
+
+• **Segment KPI Trajectory:** 
+  - **Engineering:** Backlog/RPO remains the primary alpha driver; 50% RPO suggests stable but non-expanding capacity.
+  - **Merchant/Packaged:** The P1Y-P3Y contract cycle shift makes these segments the most sensitive to near-term industrial production (IP) indices.
+
+• **Sentiment Divergence:** Management’s continued use of "Anticipate" (moderate confidence) regarding Russian asset contingencies, contrasted with the heavy technical XBRL tagging of these entities, suggests legal proceedings are further advanced than the qualitative narrative implies.

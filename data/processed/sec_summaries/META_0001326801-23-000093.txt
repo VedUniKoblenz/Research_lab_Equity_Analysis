@@ -1,0 +1,11 @@
+• **KPI Divergence:** Family of Apps (FoA) ad impressions surged 34% YoY, yet Average Price per Ad (ASP) plummeted 16% YoY. Signal: High-volume/low-value mix shift toward Reels and lower-monetization geographies (APAC/RoW) is outpacing core Feed pricing recovery.
+
+• **Operational Pivot:** Total headcount dropped 14% QoQ to 71,469. "Year of Efficiency" restructuring charges reached $1.89B in Q2 alone. Notable: $1.15B YTD severance is essentially complete, but "A2022 Restructuring" continues to bleed through data center asset write-downs and lease exits ($684M in Q2).
+
+• **Reality Labs (RL) High-Confidence Burn:** Management uses "we expect" (high confidence) regarding RL operating losses "increasing meaningfully" YoY in 2024. Q2 RL loss hit $3.74B on negligible $276M revenue. Signal: RL is now a permanent, non-discretionary capital sink with no immediate ROIC floor.
+
+• **Capex/Supply Chain Signal:** 2023 Capex guidance lowered to $27–30B (from $30–33B) despite AI narrative. Internal cause: "non-AI server cost savings" and "delays in data center projects and hardware deliveries." Signal: Supply chain constraints in H100/AI silicon are likely masking underlying infrastructure spend requirements.
+
+• **Capital Allocation Deceleration:** Massive deceleration in share repurchases. Meta spent only $793M in Q2 vs. $9.22B in Q1 2023. Despite $50.91B remaining authorization, the "Year of Efficiency" has prioritized balance sheet liquidity over aggressive price support.
+
+• **Atypical Risk:** Material escalation in EU regulatory exposure; specifically the DPC's $1.3B (€1.2B) fine and order to suspend US-EU data transfers. Meta now explicitly flags "substantial impact" on FoA operations if no new framework is finalized—a shift from speculative to imminent threat.

@@ -1,0 +1,8 @@
+• **Revenue Mix Shift:** Value-Added Services (VAS) grew 19% YoY (21% currency-neutral) to $2.2B, now representing 38.6% of total net revenue, significantly outstripping core Payment Network growth of 7% ($3.5B).
+• **Margin Compression Signal:** Total operating expenses surged 22% to $2.5B (25% currency-neutral), primarily driven by increased personnel costs and $104M in higher advertising/marketing spend. OPEX growth outpaced revenue growth by 1,100 bps.
+• **Cross-Border Alpha:** Cross-border volume remains the primary growth catalyst, up 35% on a local currency basis, significantly outperforming switched transaction growth of 12%.
+• **Capital Allocation Acceleration:** Q1 share repurchases totaled $2.9B (7.9M shares), an accelerated pace compared to the $11.6B remaining authorization. Dividends paid were $545M ($0.57/share).
+• **Debt/Refinancing Nuance:** Issued $1.5B in senior notes in March 2023 at significantly higher coupons (4.85% and 4.875%) compared to maturing tranches, signaling a transition to a higher cost-of-capital environment.
+• **Restricted Liquidity:** $601M in restricted cash held specifically for litigation settlements (primarily UK and U.S. merchant interchange disputes), representing a persistent drag on capital flexibility.
+• **Operational Pivot:** Management utilized "expect" (high confidence) regarding the continued integration of Dynamic Yield and the expansion of open banking, while "anticipate" was used for broader macroeconomic stabilization, indicating a more cautious outlook on consumer credit health.
+• **Segment KPI:** GDV reached $2.1T (+15% local currency), driven by International Markets (+18%) significantly outperforming North America (+9%).

@@ -1,0 +1,8 @@
+* **Operational Pivot:** Completed transition to a 100% regulated utility model following the Q3 2023 sale of the Commercial Renewables business; recognized a GAAP loss from discontinued operations of ~$1.1B, primarily driven by asset impairments to fair value ($1.6B pre-tax).
+* **Sentiment Divergence:** Management maintains "high confidence" in a 5–7% EPS CAGR through 2027 despite Q3 2023 interest expense increasing $157M YoY (up ~35%). Bullishness on "economic development" (data center load) contradicts a 0.7% decline in weather-normalized residential sales. 
+* **Forward-Looking Nuance:** "We expect" (high confidence) used regarding the $65B 5-year capital plan; "We anticipate" (moderate confidence) used for the realization of North Carolina multi-year rate plan (MYRP) benefits. 
+* **Segment KPIs:**
+    • **Electric (Carolinas/Florida):** Weather-normalized industrial volumes rose 1.8% in Carolinas, outperforming residential/commercial; Florida customer growth remains steady at 2.0%. 
+    • **Gas Utilities:** Piedmont Natural Gas addition of 32,000 customers YoY; margin growth driven by $50M rate case impact.
+* **Capital Allocation:** Dividend payout maintained at $1.025/share; debt-to-capital ratio increased to 56.4% from 54.9% (YE 2022). No common stock buybacks in Q3; primary funding through $2.3B of long-term debt issuance at average coupons significantly higher than maturing 3.10%–3.85% tranches.
+* **Modified Risks:** Elevated "Regulatory Lag" in Indiana following the rejection of certain grid investment recovery mechanisms; increased sensitivity to floating-rate debt, with ~$6.1B of total debt currently subject to variable rates or short-term resets.

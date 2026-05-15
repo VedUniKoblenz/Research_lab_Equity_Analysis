@@ -1,0 +1,10 @@
+• **Russia/Ukraine Operational Cessation:** Material de-consolidation resulting in a $34 million net loss charge in Q1’22. Estimated 2022 revenue headwind of 4 percentage points. Asset impairment specifically includes $7 million in prepayments and $11 million in employee-related liabilities despite total suspension.
+• **Cross-Border Volume Divergence:** Cross-border volume surged 53% YoY (ex-intra-Europe) and 48% (total), significantly outpacing GDV growth of 19%. This delta signals a high-margin travel recovery trajectory that offsets the 4% Russia volume loss, though management remains cautious on China’s zero-COVID impact on APAC cross-border.
+• **Rebate & Incentive Intensity:** Rebates and incentives increased to $2.9 billion, representing 35.9% of gross revenue compared to 34.8% in Q1’21. This 110bps expansion suggests intensifying competitive pricing and higher volume-based pricing tier attainment by major issuers.
+• **Operational Pivot (G&A/Personnel):** Personnel costs rose 14% to $1.2 billion, driven by 2021 acquisitions (Ekata, CipherTrace) and high-confidence hiring in "Data & Services." Management is shifting R&D focus toward B2B/New Payment Flows and Open Banking, deprioritizing legacy physical card switching maintenance.
+• **Capital Allocation Acceleration:** Repurchased 7.3 million shares for $2.4 billion in Q1’22. As of April 25, 2022, $8.1 billion remains under the current authorization. Pace of buyback increased relative to Q4’21, signaling management’s view on stock undervaluation post-Russia announcement.
+• **Segment KPI Trajectory:** 
+  - Switched Transactions: 29.3 billion (+22% YoY).
+  - Gross Dollar Volume (GDV): $1.9 trillion (+19% YoY local currency).
+  - Operating Margin: 57.5% (Adjusted), up from 54.0% YoY, indicating strong operating leverage despite higher incentive yields.
+• **Forward Guidance Nuance:** Management "expects" (high confidence) travel recovery to reach 2019 levels by year-end, but "anticipates" (moderate) FX headwinds to impact reported net revenue by 3-4 percentage points. Explicitly revised prior annual guidance to exclude all Russia-related activity.

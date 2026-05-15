@@ -1,0 +1,9 @@
+• **Aggressive Capital Extraction**: Management executed a massive float reduction in Q1 2022. Class A common shares outstanding decreased from 172,741,236 (Dec 31, 2021) to 167,858,281 (Mar 31, 2022). This represents a ~2.83% net reduction of the total equity base in a single quarter, signaling extreme confidence in FCF-driven valuation despite macro headwinds.
+
+• **Mobile Transition Friction**: Expansion of "Equipment Installment Plan (EIP) Receivables" as a primary balance sheet item confirms a material shift toward a hardware-subsidy/financing model. This pivot introduces higher credit risk and working capital drag vs. legacy high-margin subscription cable service.
+
+• **Related Party Liquidity Management**: Substantial treasury stock activity involves specific repurchases from Liberty Broadband (Related Party Axis), indicating a coordinated effort to manage ownership thresholds while maintaining the current buyback velocity.
+
+• **Debt & Currency Exposure**: Technical XBRL tags highlight sophisticated hedging of non-USD liabilities, specifically the 5.750% Sterling Senior Notes (due 2031) and 5.250% Sterling Senior Notes (due 2042). Reliance on Level 2 currency swaps for Time Warner Cable LLC/Charter Operating tranches indicates significant exposure to GBP/USD volatility.
+
+• **HQ Consolidation**: Completed transition of principal executive offices to 400 Washington Blvd, Stamford, CT (from 400 Atlantic St), suggesting a finalization of post-merger real estate rationalization and operational footprint stabilization.

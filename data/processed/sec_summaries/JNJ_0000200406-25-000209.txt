@@ -1,0 +1,9 @@
+• **Loss Contingency Accrual Signal:** XBRL tag `jnj:LossContingencyAccrualPercentage` at 33.0% indicates a specific, non-boilerplate probability threshold for pending legal settlements (likely Talc-related). This reflects a transition from "reasonably possible" to "probable" for a significant portion of outstanding claims, signaling imminent cash flow impact.
+
+• **Debt & FX Strategy:** Significant concentration of Cross-Currency Interest Rate Contracts and Interest Rate Swaps tied to notes maturing in 2028, 2029, 2032, 2033, and 2035. Management is aggressively hedging the 1.150% to 3.700% interest rate tranches, suggesting a tactical move to protect against EUR/USD volatility and mid-curve rate shifts.
+
+• **Intangible Asset Pivot:** MedTech segment shows a material rise in "Patents and Trademarks" and "Other Intangible Assets" relative to "Purchased In-Process R&D" (I-PR&D). This indicates a shift from speculative acquisition (pre-revenue) to commercialization/extraction phases for recently acquired cardiovascular and robotics platforms.
+
+• **Operational Sentiment:** Management has upgraded language from "anticipate" to "expect" regarding the integration of Innovative Medicine pipeline assets. The explicit mention of I-PR&D values (Context c-63) vs. Finite-Lived Intangibles (Context c-59) suggests a high-conviction pivot toward external innovation to mitigate upcoming patent cliffs.
+
+• **Capital Allocation:** Sustained issuance and hedging of long-term debt (up to 2055) despite the 33% legal accrual suggests JNJ is maintaining a "fortress balance sheet" strategy to fund M&A, rather than aggressive share buybacks, as treasury stock movements remain secondary to R&D and dividend priorities.

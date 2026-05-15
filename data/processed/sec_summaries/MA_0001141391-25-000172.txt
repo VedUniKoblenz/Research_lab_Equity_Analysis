@@ -1,0 +1,13 @@
+• **Segment Reclassification Alpha**: Strategic pivot confirmed via XBRL structure, isolating "Value-Added Services and Solutions" from "Payment Network." This decoupling signals a shift in management’s internal KPI focus toward high-margin consulting, data analytics, and fraud services as primary growth drivers over traditional interchange volume.
+
+• **Insider Sentiment Signal**: Adoption of new Rule 10b5-1 trading arrangements on May 5, 2025, covering an aggregate 41,837 shares (6,758 and 35,079 tranches). Expiration set for Feb 28, 2026, establishes a specific terminal window for perceived price ceilings by key executives.
+
+• **Debt Ladder Complexity**: Aggressive concentration of maturities in 2028. Management is managing three distinct tranches for March 2028 (Floating Rate, 4.550%, and 4.875%), indicating a sophisticated, non-standard hedging strategy to mitigate localized interest rate shocks within a 36-month horizon.
+
+• **Accounting Policy Shift**: Explicit enumeration of Derivative Gains/Losses within General and Administrative (G&A) expenses rather than non-operating income. This transition increases G&A volatility and potentially obscures core operational efficiency metrics, creating a risk of "noise" in future earnings beats/misses.
+
+• **KPI Trajectory**:
+  • Payment Network: Contextual focus shifted to Cross-Border Volume and Switched Transactions.
+  • Value-Added Services: Shift toward service-based revenue models; monitoring for margin expansion as this segment scales relative to the core network.
+
+• **Liquidity Nuance**: Use of "Other Assets" and "Other Liabilities" for derivative offsetting suggests complex counterparty exposure in foreign exchange markets, specifically related to GBP and EUR tranches.

@@ -1,0 +1,9 @@
+• **KPI Deceleration & Segment Divergence:** Global paid streaming net adds turned negative (-0.2M) for the first time in a decade. UCAN segment leads churn with -0.64M net adds. EMEA reflected a -0.3M loss, masking a -0.7M impact from Russia service suspension; underlying organic growth in EMEA is nearly flat. APAC is the sole growth engine with +1.09M net adds.
+
+• **Hidden Operational Pivot (Content Mix):** Produced content assets increased to $13.02B (+6% QoQ) while Licensed content assets decreased to $13.30B. This confirms a terminal shift toward a 50/50 mix, increasing long-term margin risk as produced content carries higher upfront cash intensity and longer amortization tails.
+
+• **Sentiment & Guidance Nuance:** Management shifted from "anticipating" growth to "expecting" a 2.0M paid net loss in Q2 2022. "We believe" remains the descriptor for the ad-supported tier timeline, indicating speculative execution vs. the high-confidence "expect" used for short-term subscriber headwinds.
+
+• **Atypical Risk Escalation (The 100M Rule):** Material modification of risk factor regarding "account sharing." Management quantified 100M+ non-paying households (30M+ in UCAN), effectively capping the TAM unless monetization of sharing succeeds. This transforms a previously ignored metric into a structural growth ceiling.
+
+• **Capital Allocation Mismatch:** Repurchased 1.3M shares for $492M in Q1 (~$378/share). The pace was aggressive immediately preceding a fundamental reset, suggesting potential impairment of capital allocation efficiency as the stock price dropped ~35% post-filing. Debt load stable at $14.5B; no immediate refinancing risk but interest expense remains high at $185M/quarter.

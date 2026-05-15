@@ -1,0 +1,11 @@
+* **Gross Margin Erosion:** Q2 39.1% vs 44.8% YoY; 570 bps compression confirms raw material inflation (high-teens) is significantly outstripping the 12% price hike effectiveness.
+* **Inventory Glut:** $2.69B (+31% YTD); management characterizes this as "supply chain buffer," but the -6.4% sales decline in Consumer Brands (CBG) signals high risk of write-downs and obsolescence if DIY cooling accelerates.
+* **Cash Flow Velocity Collapse:** Net operating cash flow down 36% YoY ($704.7M vs $1.10B) despite 9.2% revenue growth; driven by $639M inventory build and A/R surge to $2.75B.
+* **Segment KPI Divergence:** 
+    * **TAG:** Same-store sales +6.3% but volume likely negative-to-flat; growth is purely price-driven. 
+    * **CBG:** Segment profit margin crashed to 11.4% from 19.8% YoY, indicating extreme volume deleverage.
+    * **PCG:** Sales +19.6% ($1.76B) heavily reliant on M&A (Sika/Specialty Polymers) masking organic slowdown.
+* **Guidance Capitulation:** Slashed FY22 EPS to $8.50–$8.80 (from $9.25–$9.65). "We expect" price-over-cost neutrality by Q4, but "anticipate" continued volume pressure in Europe and China.
+* **Hidden Restructuring:** $21.5M in specialized impairment/restructuring charges; indicates unannounced site exits and asset rationalization in the Consumer segment.
+* **Capital Allocation Aggression:** Repurchased 2.45M shares in Q2 ($604M) at ~$246/share; pace is aggressive relative to the $750M in new debt issuance and lowered earnings visibility.
+* **Macro Risk Pivot:** New emphasis on "European energy supply/pricing" and "currency volatility" (PCG segment exposure) as primary headwinds for H2.

@@ -1,0 +1,9 @@
+• **Capital Structure & Dilution:** Convertible debt conversion ratio confirmed at 0.0108166. Management continues to favor high-duration hybrid instruments to protect credit ratings, evidenced by the maintenance of Junior Subordinated Notes with maturities extending to 2060 (Series 2020C), 2077 (Series 2017A/B), 2080 (Series 2020A), and 2081 (Series 2021B).
+
+• **Insider Sentiment Signal:** Adoption of extended-duration Rule 10b5-1 trading arrangements ranging from 482 to 512 days. This significantly exceeds standard 90–180 day cooling-off/duration norms, signaling a management "steady-state" outlook and long-term price floor confidence through late 2025.
+
+• **RPO Execution Pressure:** Revenue Remaining Performance Obligations (RPO) show heavy concentration in the "3-month" and "1-year" buckets across Georgia Power, Alabama Power, and Southern Power. This indicates a high-visibility but high-execution-risk window for 2025, where revenue recognition is decoupled from long-term rate base growth and tied to immediate contract milestones.
+
+• **Liability Management:** Southern Power’s reliance on Series 2016B 1.850% Senior Notes due 2026 creates a looming refinancing pivot point. Given the current rate environment versus the 1.85% coupon, a significant step-up in interest expense is baked into the 2026 risk profile, potentially impacting Southern Power’s contribution to consolidated EPS.
+
+• **Segment KPI Trajectory:** Regulated Natural Gas costs are being tightly synced with revenue recognition (XBRL tags f-2346 through f-2357), suggesting a push for "perfect" regulatory decoupling to insulate NIM from volatile commodity throughput in the Gas segment.

@@ -1,0 +1,9 @@
+• **Sentiment Divergence:** Management maintains a "high-end consumer resilience" narrative, yet Cardmember Loan net write-off rates accelerated to 2.1% (from 1.8% YoY). The divergence lies in the $65M reserve build despite "stable" delinquency rates (1.3%), signaling internal modeling prep for a non-linear credit deterioration.
+• **Commercial KPI Stagnation:** U.S. Small & Mid-sized (SME) Billed Business growth hit 0% YoY, a sharp deceleration from +2% in Q1. This "hidden" operational shift suggests a pivot from growth to liquidity preservation within the SME segment, historically a leading indicator for broader corporate spend contraction.
+• **Guidance Nuance:** Management "raised" FY24 EPS guidance to $13.30–$13.80 (from $12.65–$13.15), but this is technically a low-quality beat; the delta is almost entirely attributed to the $0.4B one-time gain from the Accertify disposal rather than core NIM or fee expansion.
+• **Operational Pivot:** Marketing spend was $1.5B, flat YoY despite an 8% revenue increase. This represents a tactical "efficiency ratio" shift, suggesting AXP is finding it harder to acquire new premium members at prior CAC (Customer Acquisition Cost) levels, necessitating a focus on NRR (Net Retention Rate) over new adds.
+• **Segment-Specific KPIs:** 
+  - US Consumer: Billed Business +7% (Predictive of sustained T&E demand).
+  - International Card: FX-adjusted revenue +15% (Primary growth engine).
+• **Capital Allocation:** Repurchased 8.1M shares for $1.9B in Q2, an aggressive pace vs. the $1.1B in Q1, indicating management views current valuations as disconnected from "through-the-cycle" earnings power despite the Accertify-skewed EPS.
+• **Risk Factor Escalation:** Modified language around "Merchant Discount Rates" suggests intensifying pressure from alternative payment rails (FedNow/RTTP) and potential regulatory caps on interchange, moving from a speculative to a material threat in the "Competitive Landscape" section.

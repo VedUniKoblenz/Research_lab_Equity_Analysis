@@ -1,0 +1,8 @@
+• **NEER Level 3 Valuation Sensitivity:** Management reliance on "Discounted Cash Flow" and "Options Models" for unobservable Level 3 inputs (forward power/gas prices) indicates high earnings subjectivity. Significant variance in implied volatilities/correlations suggests NEER’s merchant tail-risk is being aggressively managed through illiquid OTC derivatives.
+• **Capital Structure Equity Overhang:** Conversion ratio of 0.0146927 for 6.926% and 7.299% Corporate Units signals a defined path for equity dilution; these high-coupon instruments represent a bridge-financing cost of ~7% to support the CapEx pipeline, pressuring near-term EPS.
+• **Segment-Specific KPI Trajectory:** 
+  - **FPL:** Growth pivot relies almost exclusively on Florida retail customer additions; a deceleration in net-new accounts would immediately de-rate the utility segment's ROE.
+  - **NEER:** RPO and project backlog (exceeding 30 GW) are being skewed by battery storage; the filing suggests a shift toward "expecting" (high confidence) storage yields vs. "anticipating" (moderate confidence) merchant wind profitability.
+• **Hidden Operational Shifts:** Accounts payable/receivable trends reflect a transition from wind-dominant to solar-plus-storage-dominant R&D/construction, increasing dependency on specific battery supply chain nodes.
+• **Regulatory Exposure:** Modified risk language regarding the "regulatory environment" suggests heightened sensitivity to Florida Public Service Commission (FPSC) interpretations of fuel cost recovery and storm hardening clawbacks.
+• **Liquidity/Refinancing:** Interest rate swap activity indicates a strategic move to lock in "higher-for-longer" rates on a portion of the variable debt, signaling internal skepticism toward imminent rate cuts.

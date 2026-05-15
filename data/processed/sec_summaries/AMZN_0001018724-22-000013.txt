@@ -1,0 +1,15 @@
+• **Accounting Signal (Earnings Quality):** Management extended the estimated useful life of servers from 4 to 5 years and networking equipment from 5 to 6 years effective Jan 1, 2022. This change provided a $1.0B reduction in depreciation expense for Q1 2022, masking deeper operational margin compression in the North America and International segments.
+
+• **Sentiment Divergence (Retail vs. AWS):** Management "believes" fulfillment overcapacity and labor inefficiency ($2.0B headwind) are transient; however, North America operating margin collapsed to -2.3% ($1.6B loss) despite 8% revenue growth. Bullish rhetoric on "productivity improvements" is contradicted by a 33% increase in shipping costs and a 23% increase in fulfillment expenses YoY.
+
+• **Hidden Operational Shifts:** Inventory levels surged to $35.0B (+14% vs. Dec 31, 2021) despite Q1 being a seasonally slower period, signaling potential overstocking or slowing GMV. R&D ("Technology and Content") spend pivoted sharply upward to $14.8B (+19% YoY) to support AWS infrastructure and Kuiper.
+
+• **Segment KPI Trajectory:** 
+  - **AWS:** RPO (Remaining Performance Obligation) hit $88.9B (+68% YoY), significantly leading actual revenue growth (37%), indicating high-conviction enterprise locking.
+  - **Advertising:** Decelerated to 23% YoY ($7.8B) from prior triple-digit/high-double-digit highs, suggesting macro sensitivity in SME ad spend.
+
+• **Capital Allocation Pivot:** Massive regime shift in shareholder returns; executed $1.3B in share repurchases in Q1 2022 under the new $10B authorization—the first significant buyback activity in over a decade, signaling management’s view of stock undervaluation despite negative FCF.
+
+• **Atypical Risk/Non-Operating Drag:** Rivian (RIVN) investment caused a $7.6B non-operating mark-to-market loss, resulting in a net loss of $3.8B. This introduces extreme EPS volatility decoupled from core commerce/cloud operations.
+
+• **M&A Integration:** Closed $8.5B MGM acquisition on March 17, 2022; initial content amortization and integration costs are expected to weigh on Q2 International/Subscription margins.

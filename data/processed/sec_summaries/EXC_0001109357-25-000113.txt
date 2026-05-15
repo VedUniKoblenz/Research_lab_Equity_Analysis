@@ -1,0 +1,9 @@
+• **RPO Realization Velocity:** Revenue Remaining Performance Obligations (RPO) for primary regulated segments show a compressed satisfaction window of 0.75 years (9 months) vs. the standard 1.0-year cycle. This suggests an accelerated revenue recognition trajectory and a shift toward shorter-cycle infrastructure project completions to mitigate regulatory lag.
+
+• **Financing Trust Liquidation:** Reporting of $0 Fair Value for "Long-Term Debt to Financing Trusts" across ACE, DPL, and PECO (f-4390 through f-4411) signals the full redemption or structural decommissioning of legacy financing vehicles. This simplifies the Pepco Holdings (PHI) capital stack and reduces administrative complexity ahead of potential refinancing.
+
+• **Inter-affiliate Revenue Pivot:** Related party revenues hitting $0 for key sub-entities (f-2966) indicates a material shift in how Exelon Business Services (EBSC) costs are being allocated or billed. This may be a preemptive tactical shift to neutralize "double-recovery" or "affiliate abuse" arguments currently prevalent in IL and MD regulatory proceedings.
+
+• **Segment KPI - T&D RPO:** Management's 0.75-year expectation for current performance obligations implies high confidence in Q2-Q3 operational execution, leaving zero margin for weather-related or supply chain slippage in the T&D (Transmission & Distribution) build-out.
+
+• **Equity Buffer Strategy:** Aggressive maintenance of Retained Earnings at the subsidiary level (ComEd/PECO) despite increasing O&M pressures suggests a focus on self-funding the $34.5B capital plan to minimize external equity issuance, protecting the 6-8% EPS CAGR target from share dilution.

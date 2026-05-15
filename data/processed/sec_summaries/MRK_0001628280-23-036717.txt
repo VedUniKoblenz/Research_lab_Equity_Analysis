@@ -1,0 +1,14 @@
+• **Aggressive R&D Pivot (ADC Concentration):** Management has executed a rapid, multi-billion dollar pivot toward Antibody-Drug Conjugates (ADCs). Subsequent to Q3, MRK committed $4B upfront to Daiichi Sankyo for three ADC candidates (total potential $22B), following the $10.8B Prometheus acquisition and $250M Kelun-Biotech upfront. This concentration suggests a high-stakes hedge against the 2028 Keytruda patent cliff.
+
+• **Sentiment Divergence (IRA Exposure):** Despite bullish oncology guidance, MRK is the first major to sue the HHS over Inflation Reduction Act (IRA) price negotiations. Management’s public optimism on pipeline "value" contradicts the aggressive legal stance, signaling internal modeling of significant margin erosion for Keytruda post-2026.
+
+• **Hidden Operational Shift (IPR&D Impact):** GAAP results are heavily distorted by non-deductible IPR&D charges. The $10.2B charge for the Prometheus acquisition in Q2/Q3 dramatically deflated GAAP EPS, masking a 17% ex-FX growth in Keytruda ($6.3B) and 13% growth in Gardasil ($2.6B).
+
+• **Segment KPI Trajectory:** 
+  - **Oncology:** Keytruda $6.3B (+17%). Alpha signal: Increasing reliance on subcutaneous formulation trials to extend IP lifecycle.
+  - **Vaccines:** Gardasil $2.6B. Growth is increasingly dependent on China volume; any disruption in Chinese public health tenders is now a material concentration risk.
+  - **Lagevrio:** Sales volatile at $640M; management "anticipates" further declines, treating it as a non-core cash flow bridge.
+
+• **Capital Allocation:** Shift from buybacks to "heavy-lift" M&A. With $15B+ committed to upfront deal payments in 2023, the pace of share repurchases has slowed relative to historical 5-year averages, signaling a prioritization of pipeline depth over immediate TSR.
+
+• **Forward-Looking Nuance:** "Expect" used for 2023 sales range of $59.7B–$60.2B; "Believe" used for long-term oncology dominance. Shift in language regarding "subcutaneous Keytruda" from "exploratory" to "pivotal" indicates high confidence in a patent-extension strategy.

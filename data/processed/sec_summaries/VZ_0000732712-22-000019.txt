@@ -1,0 +1,11 @@
+• **Sentiment Divergence:** Management maintains a "Network-as-a-Service" growth narrative despite a critical reversal in Consumer Postpaid Phone net adds, reporting a loss of 36,000 units in Q1 2022. This contrasts with the Business segment's resilience (+256,000 net adds), signaling a decoupling of the retail consumer base from the enterprise growth story.
+
+• **Hidden Operational Shifts:** Migration to 36-month device payment plans (from 24-month) is now the structural baseline to suppress churn and defer handset subsidy impact. Capitalized contract cost amortization remains fixed at 2 years (P2Y), creating a mismatch between customer life and expense recognition. 
+
+• **Spectrum & R&D Pivot:** Massive concentration risk in C-Band deployment; $4.7B in additional license payments in Q1 2022. Projected clearing costs revised to $2.1B. Deployment speed is now the primary predictive variable for ARPU expansion via 5G Ultra Wideband adoption.
+
+• **KPI Trajectory:** Wireless service revenue grew 9.5% YoY ($18.3B), but this is "noisy" due to TracFone integration. Organic growth is lower. RPO (Remaining Performance Obligations) shows high visibility: $9.1B total, with 50% expected to be recognized within the next 9 months.
+
+• **Capital Allocation & Debt:** Aggressive pivot to Asset-Backed Securitization (ABS) for liquidity; Jan 2022 saw significant issuance of Series 2022-1 and 2022-2 Senior Secured Notes. Total debt remains elevated following $45B+ C-Band auction; buybacks are sidelined in favor of deleveraging. Floating rate exposure remains tied to LIBOR + 100bps, creating interest expense vulnerability in a rising rate environment.
+
+• **Guidance Nuance:** Management shifted tone to the "lower end" of the 9%–10% Adjusted EBITDA growth range, citing inflationary pressure on labor and energy costs, a material pivot from previous "high-confidence" directional statements.

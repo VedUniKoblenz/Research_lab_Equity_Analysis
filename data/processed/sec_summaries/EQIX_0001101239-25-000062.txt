@@ -1,0 +1,11 @@
+• **Executive Sentiment/Insider Signals**: Rule 10b5-1 trading plan durations are uniquely staggered at 164, 273, and 469 days. These extended cooling-off periods (well beyond the standard 90 days) suggest a high-conviction management stance on long-term value and an effort to insulate against accusations of trading on near-term AI-driven volatility.
+
+• **Capital Recycling & JV Pivot**: Significant operational shift toward an asset-light model via the AMER2 and EMEA2 Joint Ventures. The transfer of the Silicon Valley 12 (SV12) site to the AMER2 JV indicates a deliberate strategy to harvest equity from mature, wholly-owned assets to fund high-growth, capital-intensive hyperscale developments off-balance sheet.
+
+• **Revenue Durability (RPO)**: Remaining Performance Obligations (RPO) are bifurcated into high-confidence tranches: P1Y (1-year) and P3Y (3-year) satisfaction windows. This structure confirms a fundamental shift in the sales mix toward long-duration hyperscale contracts (36+ months) over traditional retail colocation, enhancing long-term cash flow predictability but potentially pressuring immediate ASP (Average Selling Price) growth.
+
+• **M&A Integration Alpha**: The Total Information Management (TIM) Philippines acquisition (closed June 2, 2025) utilizes aggressive discount rate modeling for customer relationship intangibles. This suggests management is pricing in a higher risk premium for SE Asia expansion while targeting aggressive yield-on-cost metrics in the APAC region.
+
+• **Liquidity Tactical Reserve**: High concentration of Level 2 money market funds and bank time deposits indicates a tactical liquidity buffer. This "dry powder" is likely earmarked for mandatory JV capital calls or immediate opportunistic acquisitions in the EMEA/APAC secondary markets rather than share buybacks.
+
+• **Foreign Exchange Sensitivity**: Extreme utilization of Net Investment Hedges (FX forwards and cross-currency interest rate swaps) specifically targeting EUR, GBP, and SGD. This signals a defensive management posture against sustained USD strength, shielding the balance sheet from international asset revaluation volatility.

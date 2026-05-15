@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** Management maintains a 5–7% EPS CAGR guidance through 2027 despite a "bearish" regulatory signal from the ICC’s rejection of ComEd’s Integrated Grid Plan. The use of "expect" (high confidence) for earnings targets contrasts with "anticipate" (moderate) regarding the timing of the Grid Plan rehearing, suggesting a potential earnings quality gap if regulatory lag extends.
+
+• **Forward-Looking Nuance:** Reiteration of the $34.5B capital plan (2024–2027) is stated with high confidence. However, language regarding the recovery of "unprotected" ADIT (Accumulated Deferred Income Taxes) is speculative ("we believe"), creating a $100M+ valuation sensitivity based on the eventual Maryland (BGE) rate case final order.
+
+• **Hidden Operational Shifts:** RPO (Remaining Performance Obligation) data indicates a compressed realization window, with significant tranches maturing in <0.25 years. This implies zero margin for operational delays in transmission projects. Related party revenues at $0 indicates a structural shift toward external procurement, increasing exposure to market-based O&M inflationary pressures.
+
+• **Segment-Specific KPIs:** 
+  - **ComEd (IL):** Rate base growth trajectory remains tethered to the 9.1% allowed ROE; any 10bps shift in the 30-year Treasury benchmark is now more price-sensitive due to the decoupling of load growth from revenue in the new multi-year rate proceedings.
+  - **PHI/PECO:** Data center interconnection requests (backlog exceeds 5GW in Northern IL alone) are the primary non-regulated alpha driver, though not yet fully baked into the $34.5B CapEx floor.
+
+• **Capital Allocation:** Transition from "refinancing" to "issuance for liquidity" is evident in the debt fair value disclosures. Management is front-loading debt to bridge the cash flow gap caused by the $1.1B ComEd rate base disallowance risk, signaling a temporary pause in aggressive dividend hikes beyond the current 4-7% target range.
+
+• **Atypical Risk Factors:** Materially modified risk language regarding "Interconnection Queue Backlogs" and "PJM Capacity Market Volatility." The filing flags a new dependency on the FERC-approved PJM fast-track process, shifting the risk from local operational execution to federal regulatory bottlenecks.

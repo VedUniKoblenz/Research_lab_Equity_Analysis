@@ -1,0 +1,11 @@
+• **Capital Structure Inflation:** Issuance of Corporate Units with coupons at 6.926%, 7.234%, and 7.299% signals a significant step-up in cost of capital compared to legacy debt. This suggests a narrowing spread between ROIC and WACC for the 2025–2027 capital deployment cycle, particularly for NEER’s renewable pipeline.
+
+• **Derivative Valuation Complexity:** Increased reliance on Level 3 inputs for "Full Requirements and Unit Contingent" contracts. Key unobservable sensitivity identified is "Customer Migration Rate"—a non-standard utility metric that suggests heightened risk in load-following obligations and retail choice volatility within the NEER portfolio.
+
+• **Hedging Pivot:** Multi-asset hedging strategy involves concurrent Commodity, Interest Rate, and Currency swaps. Significant Level 3 derivative asset/liability concentration in Forward Contracts (Power and Gas) and Option Contracts indicates high exposure to long-dated price volatility where market liquidity is thin.
+
+• **Segment KPI - NEER:** Valuation of Full Requirements contracts is now explicitly tied to "Discounted Cash Flow" and "Options Models," utilizing implied volatilities as a primary driver. This shifts the risk profile from simple price delta to second-order "vega" risk in the power markets.
+
+• **Segment KPI - FPL:** Retail customer concentration risk remains the primary revenue driver, but the inclusion of "customer migration" in valuation models for energy contracts suggests management is pricing in potential regulatory or structural shifts in Florida’s retail monopoly power.
+
+• **Risk Modification:** Transition of derivative instruments from "Other Assets Current" to "Other Liabilities Noncurrent" across multiple reporting periods indicates a net negative shift in the fair value of long-term power hedges, potentially acting as a drag on future reported earnings if price trends persist.

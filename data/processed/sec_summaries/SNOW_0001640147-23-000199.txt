@@ -1,0 +1,12 @@
+• **Sentiment Divergence:** Management maintains "high confidence" in long-term AI tailwinds, yet DBNRR (Dollar-Based Net Revenue Retention) plummeted to 142% from 171% YoY. Deceleration in NRR suggests significant seat-growth friction and consumption optimization that contradicts bullish commentary on "stabilizing" macroeconomic headwinds.
+
+• **Hidden Operational Shifts:** Pivot to Generative AI evidenced by the Q2 acquisition of Neeva (search) and LeapYear (privacy-preserved data). Internal-use software capitalization increased to $38.2M (up from $21.5M YoY), indicating a shift from pure OpEx R&D to long-term asset development, likely masking a deeper burn rate. Accounts Receivable spiked to $495M despite cooling consumption, suggesting elongated collection cycles or aggressive end-of-quarter billing.
+
+• **KPI Trajectory (Q2 FY24):** 
+  - Product Revenue: $640.2M (+37% YoY).
+  - RPO: $3.5B (+30% YoY); however, current RPO (expected 12-month recognition) is $2.0B, signaling a shift toward longer-dated, less immediate-revenue-convertible contracts.
+  - Customers >$1M: 402 (+62% YoY), showing reliance on whale concentration as mid-market churn remains opaque.
+
+• **Capital Allocation:** Repurchased 3.5M shares for $591.3M during the six months ended July 31, 2023. Pace suggests aggressive price-support maneuvers to offset $590.6M in stock-based compensation (SBC) expense for the same period. Net dilution remains high despite the $2B buyback authorization.
+
+• **Atypical Risk Factors:** New language regarding "GPU scarcity and infrastructure dependencies" specifically related to the Neeva integration. Escalated risk of "product-led cannibalization" as customers migrate to more efficient Iceberg Tables and serverless tasks.

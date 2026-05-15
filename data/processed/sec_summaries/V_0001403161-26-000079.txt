@@ -1,0 +1,9 @@
+• M&A Aggression: Strategic acquisition of Prisma and Newpay completed on 2026-02-27. Significant allocation to technology-based and customer-relationship finite-lived intangible assets suggests a pivot toward inorganic geographic expansion and infrastructure verticalization.
+
+• RPO Structural Shift: Remaining Performance Obligation (RPO) satisfaction timing exhibits a bifurcated profile. Exactly 50.00% of RPO is expected to be recognized within the immediate cycle, while 50.00% is deferred post-2028-04-01. This "long-tail" backlog indicates a shift from transactional volume toward multi-year enterprise service contracts, creating a high-visibility but lower-velocity revenue floor.
+
+• Segment Trajectory: Value Added Services (VAS) and International Transaction Revenues are isolated as primary margin drivers. The expansion of VAS-specific XBRL tagging (c-134) reflects internal reporting shifts toward non-transactional yield optimization.
+
+• Risk & Litigation: Persistence of "Right to Recover for Covered Losses" and "U.S. Litigation Escrow" (c-44, c-141) identifies ongoing material exposure to merchant-class settlements. Interest income from Opt-out Merchant accounts (c-147) remains a non-operating tailwind despite underlying legal volatility.
+
+• Capital & Debt: Intensive senior note laddering (durations spanning 2026 through 2044). Active fair value monitoring of derivative financial instruments (Level 2 inputs) suggests heightened sensitivity to currency-driven revenue compression in non-U.S. markets.

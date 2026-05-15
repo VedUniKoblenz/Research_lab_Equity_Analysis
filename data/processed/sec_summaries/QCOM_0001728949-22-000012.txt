@@ -1,0 +1,10 @@
+• **Accounts Receivable Divergence**: AR surged to $3.97B from $2.91B (36% QoQ increase), significantly outpacing revenue growth of 14.5% QoQ. This indicates aggressive channel stuffing or extended payment terms to secure 5G modem market share against MediaTek.
+• **Inventory Velocity**: Ending inventory rose to $4.68B (+12% QoQ). Management tone remains "bullish" on supply, but rising finished goods inventory suggests a potential mismatch between wafer starts and actual premium-tier handset demand.
+• **RFFE Saturation Signal**: QCT RF Front-End (RFFE) revenue growth decelerated to 7% YoY ($1.13B), a sharp decline from the triple-digit growth seen in FY21. Signals 5G content-per-device saturation in the premium smartphone segment.
+• **Segment KPI Trajectory**: 
+  - QCT Handsets: $5.98B (+42% YoY), driven by Snapdragon 8 Gen 1 ASP expansion rather than unit volume.
+  - Automotive: Revenue stagnant at $256M (+21% YoY) despite a $13B+ design-win pipeline; massive delta between "backlog" and current conversion.
+• **Guidance Confidence Levels**: Management uses "expect" (high confidence) regarding 20% YoY EPS growth, but pivots to "anticipate" (moderate confidence) for supply constraint easing in H2 FY22.
+• **Capital Allocation**: Executed $1.2B in buybacks this quarter; the $10B authorization (Oct 2021) suggests a shift toward floor-price support rather than opportunistic purchasing.
+• **R&D Pivot**: Technical headcount shifting toward Arriver (Veoneer acquisition) integration; $4.5B cash commitment to the deal limits near-term M&A flexibility in the IoT segment.
+• **Regulatory Overhang**: Materially modified risk regarding the European Commission's €997M fine; despite General Court annulment of the separate €242M fine, QCOM continues to accrue for potential re-litigation.

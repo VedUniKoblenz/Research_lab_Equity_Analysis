@@ -1,0 +1,11 @@
+• **RPO Duration Extension:** 45% of Remaining Performance Obligations (RPO) are now slated for satisfaction starting July 2027 (Context c-130), a significant push-out in the revenue recognition tail compared to historical 12-24 month cycles. This signals a fundamental shift toward long-term AI infrastructure commitments over transactional SaaS.
+
+• **Extreme Insider Lock-ins:** Newly disclosed Rule 10b5-1 trading arrangements show durations of up to 1,024 days (c-415). This 2.8-year horizon is an 8x increase over standard 90-180 day tech-sector norms, indicating defensive management positioning or structural conviction against medium-term volatility.
+
+• **Structural FX Hedging Escalation:** Massive derivative layering in "Other Liabilities Noncurrent" (f-941) and "Other Assets Current" (f-939). Specifically, the pivot to Net Investment Hedging for foreign-denominated debt (c-187) suggests a transition from tactical currency protection to long-term structural hedging against Euro/APAC asset devaluation.
+
+• **Capital Structure Skew:** Active management of the 2054 Senior Note tranche (c-8) despite high-rate environments suggests a strategic "lock-in" of long-term debt, potentially anticipating a sustained higher-for-longer cost of capital or pre-funding multi-year CapEx for TPU/GPU clusters.
+
+• **Accounting Reclassification Signal:** Derivative gains/losses are being explicitly mapped to "Revenues" (c-195) rather than "Nonoperating Income" (c-196), a move that masks underlying organic growth volatility by blending treasury performance directly into the top-line.
+
+• **Lease Commitment Pivot:** Finance lease liabilities are increasingly concentrated in "Other Liabilities Noncurrent" (f-1027), reflecting a shift from short-term colocation leases to long-term, owned-asset data center financing.

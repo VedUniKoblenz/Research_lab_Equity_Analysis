@@ -1,0 +1,13 @@
+• **Sentiment Divergence:** Management maintains a "high-growth" narrative for Oncology, yet Cell Therapy (Yescarta/Tecartus) has effectively stalled, reporting $485M vs $486M YoY. The "growth engine" claim is currently carried exclusively by Trodelvy ($332M, +17.3% YoY), while CAR-T segments face utilization saturation or competitive pricing pressure.
+
+• **Hidden Operational Shifts:** Rapid erosion of legacy HIV assets; Genvoya declined 15.3% to $393M, indicating faster-than-projected cannibalization or loss of preferred formulary status. Conversely, Descovy ($530M) showed resilient 10.7% US growth, signaling a successful defensive pivot to the PrEP market ahead of the Lenacapavir transition.
+
+• **Veklury Surprise Tailwinds:** Contrary to the expected "post-pandemic decay" model, Veklury revenue rose 9.8% YoY to $692M. This provides a ~$60M quarterly buffer to the bottom line that is likely non-recurring, potentially masking underlying weakness in the core Liver Disease segment ($703M, flat YoY).
+
+• **Segment KPIs & Trajectory:** 
+  - HIV: Biktarvy ($3.495B, +9.8% YoY) now represents 47% of total product sales; concentration risk is escalating as the rest of the HIV portfolio (ex-Descovy) contracts.
+  - Oncology: Trodelvy ASP and volume are the primary alpha drivers; Yescarta US revenue stagnation ($300M) suggests a ceiling in current indications.
+
+• **Atypical Risk Factors:** Increased macroeconomic vulnerability in "Rest of World" HIV sales, which saw Biktarvy growth of only 3.8% compared to 11.5% in the US, suggesting pricing volatility or reimbursement hurdles in emerging markets.
+
+• **Capital Allocation:** Sustained reliance on HIV cash flows to fund Oncology R&D; however, the $485M flat-line in Cell Therapy may necessitate a strategic re-evaluation of M&A targets or restructuring of the Kite Pharma integration to reignite CAR-T momentum.

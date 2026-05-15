@@ -1,0 +1,11 @@
+• **Sentiment/Margin Divergence:** Management maintains a "momentum" and "operational excellence" narrative despite a 100bps deterioration in Operating Ratio (60.9% vs. 59.9% YoY). Realized margin compression was partially masked by a 12% drop in fuel expense ($126M tailwind); excluding fuel, core operating efficiency is lagging volume growth.
+
+• **Coal Segment Resiliency:** Unexpected 2% volume growth in Coal despite the Baltimore bridge collapse/port closure. This indicates successful, high-agility diversion of export tonnage to alternative terminals, though segment RPU fell 2% to $2,631 due to weaker global benchmark pricing.
+
+• **Structural Labor Inflation:** Labor and Fringe expenses surged 7% ($50M increase) even as headcount stabilized. This reflects a "lock-in" of high-single-digit contractual wage inflation that risks outstripping the "low single-digit" full-year revenue guidance.
+
+• **Accounts Receivable Signal:** Freight Receivables expanded 13.7% to $1.16B from $1.02B at FYE23. This spike significantly outpaces revenue growth, signaling potential collection friction or extended terms granted to major shippers to maintain volume.
+
+• **Capital Allocation/Debt Cost:** Issued $1.1B in new long-term debt (5.20% and 5.50% tranches) to manage maturities, notably higher than historical weighted averages. Share buybacks remained steady at $246M for Q2 ($471M YTD), signaling a commitment to a ~$1B annual run rate regardless of interest rate environment.
+
+• **Escalating Legal Risk:** Material update on Curtis Bay (Baltimore) environmental litigation; Maryland Dept. of Environment is seeking a $1.75M civil penalty, but the filing flags "unspecified compensatory and punitive damages" in associated class actions as a growing tail-risk liability.

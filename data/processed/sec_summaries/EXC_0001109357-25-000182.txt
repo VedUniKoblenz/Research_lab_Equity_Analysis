@@ -1,0 +1,11 @@
+• **Revenue Reset Sensitivity:** RPO (Remaining Performance Obligation) data identifies a significant duration mismatch across subsidiaries; while units 617–636 are locked into 1-year satisfaction cycles, units 612–616 (primarily ComEd/PECO) are now on 0.25-year (90-day) reset cycles. This shift suggests a move toward quarterly performance resets to mitigate regulatory lag, increasing sensitivity to short-term interest rate pivots.
+
+• **Debt Valuation Signal:** Fair value entries for "Long-term Debt to Financing Trusts" across BGE and DPL (Context: c-1771, c-1764) are marked as null/dash. This implies a potential restructuring or deconsolidation of trust-preferred securities, signaling a shift in how EXC is managing off-balance-sheet financing for 2025–2026 grid modernization.
+
+• **Regulatory Granularity Shift:** Material reporting changes for Potomac Electric and Delmarva Power (Context: c-9 to c-12) now isolate DC, VA, and DE jurisdictions at the 10-Q level. This indicates management's pivot toward state-specific "surgical" rate cases rather than aggregate filings, likely to combat localized political pushback in Maryland and Illinois.
+
+• **Operational Risk Escalation:** The concentration of 1-year RPOs during a period of high infrastructure CapEx suggests EXC is aggressively locking in 2026 revenue to de-risk its $7B+ annual investment plan against potential 2025 macroeconomic volatility.
+
+• **Segment KPIs:** 
+  - Transmission/Regulated: RPO duration weighted toward <1 year (Short-term reset).
+  - Financing Trusts: Fair value/Book value divergence suggests asset-liability matching shifts.

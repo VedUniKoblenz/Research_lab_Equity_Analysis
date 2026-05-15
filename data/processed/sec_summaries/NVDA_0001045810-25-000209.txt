@@ -1,0 +1,11 @@
+• **Supply Chain/Inventory:** Inventory purchase obligations and long-term supply agreements surged to $27.8B (c-94), a 15% sequential increase from Jan-2025. This reflects aggressive capacity locks for HBM3e and CoWoS-L, signaling a higher-than-consensus Blackwell production ramp for H2.
+
+• **Customer Concentration Alpha:** Customer A and B now account for 14% and 11% of total revenue (c-185, c-186). The transition from five 10%+ customers in 2024 to two dominant entities suggests a narrowing, high-velocity demand profile among Tier-1 CSPs, increasing sensitivity to specific "Big Tech" CapEx revisions.
+
+• **Sentiment Divergence:** Management uses "We expect" (high confidence) regarding Blackwell revenue in the current fiscal year, but shifts to "We believe" (speculative) when discussing the longevity of sovereign AI infrastructure builds. This identifies a potential pivot point where hardware sales are decoupled from long-term national policy certainties.
+
+• **Segment KPI Trajectory:** Data Center Networking revenue (c-204) grew 16% QoQ, significantly outpacing Data Center Compute growth (9%). This confirms a tactical shift toward high-margin systems-level integration (Spectrum-X/InfiniBand) over standalone GPU sales.
+
+• **Regulatory Risk:** Materially modified risk language regarding "Total Processing Performance" (TPP) thresholds. New emphasis on latent export controls for "non-controlled" products (H20/L20) indicates a high probability of further revenue haircuts in the China region (currently ~12% of revenue).
+
+• **Capital Allocation:** Share buybacks accelerated to $9.5B in the current quarter vs. $7.7B in the prior quarter, despite all-time high valuations, signaling management's internal aggressive alpha projection for the Rubin architecture transition.

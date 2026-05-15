@@ -1,0 +1,9 @@
+• **Forward-Looking Nuance (Hansoh Milestone):** Specific "Scenario Forecast" context (c-173) for Hansoh Pharmaceutical Group identifies a high-confidence price-sensitive event/milestone scheduled for Q3 2025 (07-01-2025 to 09-30-2025). This target suggests a novel revenue-recognition pivot or regulatory filing for the collaboration asset not yet fully priced for the immediate next quarter.
+
+• **Operational Shift (Manufacturing Margins):** Management has shifted reporting granularity to isolate "Reimbursement for Manufacturing of Commercial Supplies" (c-145, c-162) from broader collaboration revenue. This signaling indicates a strategic pivot toward capturing internal manufacturing efficiencies as a primary margin driver for the Sanofi and Bayer partnerships, moving beyond simple profit-sharing.
+
+• **Sentiment Divergence (10b5-1 Duration):** Disclosure of a 364-day duration for executive trading arrangements (f-893) represents a shift toward maximum-length 10b5-1 plans. This suggests management is insulating itself from "opportune timing" accusations, signaling a belief in long-term valuation stability despite potential short-term volatility in the Eylea-to-Eylea HD transition.
+
+• **Segment KPI Trajectory (Eylea HD Cannibalization):** Transition to standalone reporting for Eylea HD (c-91) vs. Legacy Eylea (c-95) signals the primary KPI has shifted from "total volume" to "conversion velocity." The focus on "Net of Obligation" R&D reimbursements (c-149) suggests a tightening of R&D spend efficiency in the Sanofi antibody collaboration.
+
+• **Risk Factor (Concentration):** Concentration risk is now specifically benchmarked against "Gross Product Revenue" for two primary customers (Customer A and B), flagging escalating dependency on specific distribution tiers as REGN scales its direct oncology sales force for Libtayo.

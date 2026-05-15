@@ -1,0 +1,9 @@
+**Technical Signal Summary: SPG Q1 2024**
+
+*   **EPS Outperformance:** Reported diluted EPS of $2.25 for Q1 2024, a 63% increase over $1.38 in Q1 2023. Net income available to stockholders surged to $731.7M from $451.8M YoY, indicating high operational leverage or significant non-operating gains.
+*   **Dividend Acceleration:** Management signaled high confidence via a post-quarter dividend hike to $2.00 per share (declared 05/06/24), a 5.3% increase over the $1.90 paid in the prior-year period.
+*   **Share Count Contraction:** Weighted average diluted shares decreased to 325.9M from 326.9M YoY. This 1M share reduction confirms active buyback execution despite the high-interest-rate environment.
+*   **Marginal Cost of Debt:** New mortgage financing for Miami International Mall (02/06/24) carrying a 6.94% interest rate. This represents a significant premium over SPG's historical weighted average debt cost, flagging a "higher-for-longer" refinancing risk for the $25B+ total debt stack.
+*   **Segment Concentration:** Domestic portfolio remains dominated by Malls (90) and Premium Outlets (69). Equity method investment carrying values are anchored by Klepierre and Taubman Realty Group, making the balance sheet sensitive to European retail volatility and luxury spend trajectories.
+*   **Capital Stack Nuance:** Simon Property Group L.P. (Operating Partnership) distributions rose to $1.95/unit in Q1 2024 vs $1.80 YoY. Preferred Series J dividends remain fixed at 8.375%, with 796,948 shares outstanding, creating a consistent but rigid $X.X million quarterly preference hurdle.
+*   **Compensation Alignment:** New LTIP Unit grants issued in March 2024 under the 2021 Program, coupled with time-based restricted stock, suggest a pivot toward long-term NAV retention over short-term FFO targets.

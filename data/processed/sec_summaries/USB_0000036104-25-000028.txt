@@ -1,0 +1,8 @@
+• **Loan Book Contraction:** Total loans and leases fell 1.7% QoQ to $367.9B from $374.2B, indicating significant balance sheet tightening. Reductions were broad-based: Commercial (-1.5%), Credit Card (-4.0%), and Other Retail (-3.0%).
+• **Accelerating Credit Deterioration:** Total nonperforming assets (NPAs) rose 7.5% QoQ to $2.14B. The trajectory suggests a peak has not yet been reached, diverging from broader sector "stabilization" narratives.
+• **CRE Stress Concentration:** Commercial Real Estate (CRE) NPAs hit $1.26B, now accounting for 59% of total nonperforming loans. This confirms localized distress in the CRE portfolio is outpacing loss mitigation efforts.
+• **Early-Stage Delinquency Signal:** A technical red flag: 30-89 day past-due commercial loans (still accruing) surged 49.5% QoQ to $287M (from $192M). This specific bucket is a high-conviction leading indicator for Q2/Q3 NPA migration.
+• **Liquidity Positioning:** Elevated reliance on FHLB for contingent funding, with $112.5B in loans pledged as collateral as of 3/31/25, signaling a defensive liquidity posture.
+• **Consumer Deleveraging:** Residential mortgages and home equity first liens saw a $1.3B decline QoQ, reflecting both high-rate environment headwinds and a potential RWA (Risk-Weighted Asset) optimization pivot.
+• **Capital Allocation:** Sustained activity in debt markets via new Series CC Senior Floating and Fixed-to-Floating Notes suggests proactive refinancing to manage NIM pressure.
+• **Segment KPI Trend:** Negative loan growth across all five major sub-segments—Commercial, CRE, Residential, Credit Card, and Retail—contradicts typical seasonal recovery patterns and implies a deliberate "risk-off" operational shift.

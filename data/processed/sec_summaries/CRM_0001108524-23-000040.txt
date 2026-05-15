@@ -1,0 +1,11 @@
+• **cRPO Momentum:** Current Remaining Performance Obligation (cRPO) hit $24.1B, a 12% YoY increase (11% in CC). Total RPO stands at $46.6B. The $24.1B provides high-visibility coverage for ~70% of next-12-month projected revenue, signaling a stabilizing demand environment despite macro headwinds.
+
+• **Segment Pivot:** The "Data" segment (MuleSoft/Tableau) revenue grew 16% YoY to $1.24B, outperforming the core Sales Cloud (+12% to $1.88B) and Service Cloud (+12% to $2.05B). Data-driven integration is now the primary growth engine, effectively cross-subsidizing slower growth in legacy CRM modules.
+
+• **Margin Engineering via Restructuring:** January 2023 Restructuring Plan has incurred $711M YTD. Q2 saw a strategic shift from severance ($22M) to real estate exits ($11M), indicating the headcount reduction phase is largely complete, shifting toward overhead/footprint optimization to sustain 30%+ non-GAAP margins.
+
+• **Aggressive Capital Return:** Repurchased $1.9B in shares during Q2 (8.5M shares). YTD buybacks total $4.0B. Management is prioritizing aggressive share count reduction over M&A, a stark departure from the historical Slack/MuleSoft acquisition-led growth strategy.
+
+• **Operational Efficiency:** Sales & Marketing (S&M) expense fell to 38% of revenue vs 45% YoY. This 700bps improvement confirms the "growth at any cost" era has ended, focusing on NRR (Net Retention Rate) over raw customer acquisition.
+
+• **Hidden Asset Risk:** Strategic investment portfolio valued at $8.6B, with $1.1B in Level 3 (privately held) assets. Lack of observable market inputs for 13% of the portfolio suggests potential future mark-to-market volatility.

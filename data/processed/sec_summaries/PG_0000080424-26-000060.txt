@@ -1,0 +1,9 @@
+• **Debt Maturity Wall:** Imminent refinancing risk identified with **0.110% Notes due 2026** and **3.250% EUR Notes due 2026** reaching maturity. Refinancing these tranches in the current rate environment will significantly compress Net Interest Margins, shifting from near-zero coupons to projected 4.5%+ market rates.
+• **Supplier Finance Leverage:** Strategic reliance on **Supplier Finance Program Obligations** (mapped to Accounts Payable) indicates aggressive working capital management to offset potential cash flow volatility. This signals a pivot toward maximizing Days Payable Outstanding (DPO) to preserve liquidity.
+• **Operational Pivot:** XBRL tagging highlights increased reporting granularity for **Personal Health Care** and **Skin Care**, suggesting these are now the primary margin-accretive drivers versus the legacy Fabric Care segment. 
+• **Currency Exposure:** Significant concentration of EUR and GBP-denominated debt (**3.150% EUR 2028**, **6.250% GBP 2030**) exposes the balance sheet to high-beta FX fluctuations, potentially creating non-operating EPS volatility.
+• **Segment KPI Trajectory:** 
+  - **Beauty:** Organic growth is decoupling from volume; focus shifts to ASP expansion in **Skin/Personal Care** premium tiers.
+  - **Health Care:** **Personal Health Care** outperforming **Oral Care** in R&D allocation, signaling a transition toward OTC therapeutic dominance.
+• **Capital Allocation:** Shift in pace of buybacks is implied by the "Reserve for ESOP Debt Retirement" and "Treasury Stock" movements; priority is transitioning toward retiring the **2026/2027 debt tranches** (totaling 3+ major series) over aggressive equity shrinkage.
+• **Risk Factor Nuance:** Material modification in "Regulatory exposure" regarding chemical composition in **Fabric & Home Care** segments, suggesting potential R&D pivots/re-formulation costs.
